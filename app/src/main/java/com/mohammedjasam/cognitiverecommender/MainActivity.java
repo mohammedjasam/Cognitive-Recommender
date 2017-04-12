@@ -316,6 +316,10 @@ public class MainActivity extends AppCompatActivity implements
                 return client.getDefaultModels().generalModel().predict()
                         .withInputs(ClarifaiInput.forImage(ClarifaiImage.of(imageBytes))
                         ).executeSync();
+
+//                return client.predict("ProfileGen").withInputs(ClarifaiInput.forImage(ClarifaiImage.of(imageBytes))
+//                        ).executeSync();
+//                return  client.getModelByID("ProfileGen").executeSync().get().predict().withInputs(ClarifaiInput.forImage(ClarifaiImage.of(imageBytes)));
             }
 
             @Override
