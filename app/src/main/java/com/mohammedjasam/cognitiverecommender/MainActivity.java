@@ -317,6 +317,8 @@ public class MainActivity extends AppCompatActivity implements
                         .withInputs(ClarifaiInput.forImage(ClarifaiImage.of(imageBytes))
                         ).executeSync();
 
+
+                // Working on Custom models!
 //                return client.predict("ProfileGen").withInputs(ClarifaiInput.forImage(ClarifaiImage.of(imageBytes))
 //                        ).executeSync();
 //                return  client.getModelByID("ProfileGen").executeSync().get().predict().withInputs(ClarifaiInput.forImage(ClarifaiImage.of(imageBytes)));
