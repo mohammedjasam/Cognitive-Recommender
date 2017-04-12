@@ -4,14 +4,21 @@ import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+
+import java.util.ArrayList;
 import java.util.List;
 
 import clarifai2.dto.prediction.Concept;
+
+import static com.mohammedjasam.cognitiverecommender.MainActivity.counter;
 
 public class predictions_adapter extends RecyclerView.Adapter<predictions_adapter.ViewHolder> {
 
@@ -20,12 +27,14 @@ public class predictions_adapter extends RecyclerView.Adapter<predictions_adapte
     static public String LABEL_KEY ="LABEL";
     static public String LAT_KEY="Latitude";
     static public String LON_KEY="Longitude";
+    private List<String> values = new ArrayList<String>();
 
     public predictions_adapter setData(List<Concept> concepts) {
         list=concepts;
         return this;
     }
-
+    DatabaseReference mRootRef = FirebaseDatabase.getInstance().getReference();
+    DatabaseReference mConditionRef = mRootRef.child("User");
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
 
@@ -44,6 +53,25 @@ public class predictions_adapter extends RecyclerView.Adapter<predictions_adapte
         final Concept concept = list.get(position);
         holder.predictions.setText(concept.name() != null ? concept.name() : concept.id());
         holder.percentage.setText(String.valueOf(concept.value()));
+
+        for(int i=0; i<list.size();i++)
+        {
+            final Concept c = list.get(i);
+            Log.d("      Property      ", c.name());
+            Log.d("      Percentage      ", String.valueOf(c.value()));
+
+            String a=c.name();
+            String b=String.format("%f",  c.value()* 100);
+            String fin="{"+a+":"+b+"}";
+//            String c = String.valueOf("{"a,":"b""}")";
+//            mConditionRef.setValue(c.name(),String.valueOf(c.value()));
+            values.add(fin);
+
+        }
+        String holly = "User #"+String.valueOf(counter);
+        mConditionRef.child(String.valueOf(counter)).setValue(values);
+
+
         holder.mView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -83,6 +111,11 @@ public class predictions_adapter extends RecyclerView.Adapter<predictions_adapte
             predictions = (TextView) itemView.findViewById(R.id.predictions_tv);
             percentage = (TextView) itemView.findViewById(R.id.predictions_percentage_tv);
 
+//            Log.d("Predictions is ", predictions.toString());
+//            Log.d("percentage is ", percentage.toString());
+
+//            Log.d("      Property      ", concept.name());
+//            Log.d("      Percentage      ", String.valueOf(concept.value()));
 
         }
     }

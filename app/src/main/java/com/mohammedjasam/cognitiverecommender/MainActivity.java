@@ -60,13 +60,18 @@ import com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListe
 import com.google.android.gms.location.LocationListener;
 import com.google.android.gms.location.LocationRequest;
 import com.google.android.gms.location.LocationServices;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 
 public class MainActivity extends AppCompatActivity implements
         ConnectionCallbacks,
         OnConnectionFailedListener,
         LocationListener {
-
+    static int counter=0;
     private FloatingActionButton uploadFABBtn;
 
     final int PICK_IMAGE = 1;
@@ -90,10 +95,25 @@ public class MainActivity extends AppCompatActivity implements
     static public double currentLatitude;
     static public double currentLongitude;
 
+    DatabaseReference mRootRef = FirebaseDatabase.getInstance().getReference();
+    DatabaseReference mConditionRef = mRootRef.child("User");
 
     @Override
     protected void onStart() {
         super.onStart();
+
+        mConditionRef.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+
+            }
+        });
+
         recyclerView = (RecyclerView) findViewById(R.id.main_recycler_view);
 
         ActivityCompat.requestPermissions(MainActivity.this,
@@ -189,6 +209,7 @@ public class MainActivity extends AppCompatActivity implements
                 if (takePictureIntent.resolveActivity(getPackageManager()) != null) {
                     startActivityForResult(takePictureIntent, REQUEST_IMAGE_CAPTURE);
                 }
+                ++counter;
 
             }
         });
@@ -314,13 +335,15 @@ public class MainActivity extends AppCompatActivity implements
                 }
                 hint.setText("Select Appropriate Label : ");
                 final List<ClarifaiOutput<Concept>> clarifaiOutputs = response.get();
+                Log.d("            Clarify  op", clarifaiOutputs.toString());
                 if (clarifaiOutputs.isEmpty()) {
                     Toast.makeText(MainActivity.this, "Empty Response From API", Toast.LENGTH_SHORT).show();
                     return;
                 }
 
-                Log.d("mohammedjasam", clarifaiOutputs.get(0).data().toString());
+//                Log.d("mohammedjasam", clarifaiOutputs.get(0).data().toString());
                 adapter.setData(clarifaiOutputs.get(0).data());
+//                mConditionRef.setValue();
 
                 recyclerView.setAdapter(adapter);
 
