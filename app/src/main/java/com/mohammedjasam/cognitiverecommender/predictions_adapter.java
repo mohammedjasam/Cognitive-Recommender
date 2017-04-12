@@ -68,9 +68,10 @@ public class predictions_adapter extends RecyclerView.Adapter<predictions_adapte
             values.add(fin);
 
         }
+
         String holly = "User #"+String.valueOf(counter);
         mConditionRef.child(String.valueOf(counter)).setValue(values);
-
+        values.clear();
 
         holder.mView.setOnClickListener(new View.OnClickListener() {
             @Override
