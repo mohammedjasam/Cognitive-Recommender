@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Cognitive Recommender</string>
+    <string name="GPSAlertDialogTitle">GPS ALERT</string>
+    <string name="GPSAlertDialogMessage">GPS ALERT MESSAGE</string>
 </resources>
