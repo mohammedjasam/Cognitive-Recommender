@@ -12,5 +12,5 @@ ll = data['outputs'][0]['data']['concepts']
 # pprint(ll[0])
 
 for x in ll:
-    print(x['name'],str(x['value']*100))
+    print(x['name'],str(x['value']*100)+"%")
 # print mail_accounts[0]["i"]

@@ -11,7 +11,7 @@ model = app.models.get('ProfileGen')
 
 
 # image = app.inputs.create_image_from_filename('c:\Users\Stark\Desktop\Programming\Android Development\CognitiveRecommender\Python Script\Images\mj.jpg')    #sClImage(file_obj=open('c:\Users\Stark\Desktop\Programming\Android Development\CognitiveRecommender\Python Script\Images\mj.jpg', 'rb'))
-s= model.predict_by_url(url='https://centerforchange.com/wp-content/uploads/2014/05/Family-and-Friends.jpg')
+s= model.predict_by_url(url='http://i.telegraph.co.uk/multimedia/archive/03332/g7-kruen-obama-bee_3332810b.jpg')
 
 
 ss = json.dumps(s, indent=4, sort_keys=True);
