@@ -1,117 +1,117 @@
 {
     "outputs": [
         {
-            "created_at": "2017-04-13T01:03:19.466423Z", 
+            "created_at": "2017-04-13T01:03:19.466423Z",
             "data": {
                 "concepts": [
                     {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
-                        "id": "drunkard", 
-                        "name": "drunkard", 
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
+                        "id": "drunkard",
+                        "name": "drunkard",
                         "value": 0.32064888
                     }, 
                     {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
-                        "id": "smoker", 
-                        "name": "smoker", 
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
+                        "id": "smoker",
+                        "name": "smoker",
                         "value": 0.23179612
-                    }, 
+                    },
                     {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
-                        "id": "richDress", 
-                        "name": "richDress", 
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
+                        "id": "richDress",
+                        "name": "richDress",
                         "value": 0.06504162
-                    }, 
+                    },
                     {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
-                        "id": "single", 
-                        "name": "single", 
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
+                        "id": "single",
+                        "name": "single",
                         "value": 0.047113698
-                    }, 
+                    },
                     {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
-                        "id": "friends", 
-                        "name": "friends", 
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
+                        "id": "friends",
+                        "name": "friends",
                         "value": 0.04543933
-                    }, 
+                    },
                     {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
-                        "id": "transportByCar", 
-                        "name": "transportByCar", 
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
+                        "id": "transportByCar",
+                        "name": "transportByCar",
                         "value": 0.033805374
-                    }, 
+                    },
                     {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
-                        "id": "formalDress", 
-                        "name": "formalDress", 
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
+                        "id": "formalDress",
+                        "name": "formalDress",
                         "value": 0.020829659
-                    }, 
+                    },
                     {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
-                        "id": "family", 
-                        "name": "family", 
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
+                        "id": "family",
+                        "name": "family",
                         "value": 0.015261322
-                    }, 
+                    },
                     {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
-                        "id": "transportOnFoot", 
-                        "name": "transportOnFoot", 
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
+                        "id": "transportOnFoot",
+                        "name": "transportOnFoot",
                         "value": 0.012928923
-                    }, 
+                    },
                     {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
-                        "id": "informalDress", 
-                        "name": "informalDress", 
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
+                        "id": "informalDress",
+                        "name": "informalDress",
                         "value": 0.011949388
                     }
                 ]
-            }, 
-            "id": "abf9e64a0bdf4406aa518ef3e86d553e", 
+            },
+            "id": "abf9e64a0bdf4406aa518ef3e86d553e",
             "input": {
                 "data": {
                     "image": {
                         "url": "http://i.telegraph.co.uk/multimedia/archive/03332/g7-kruen-obama-bee_3332810b.jpg"
                     }
-                }, 
+                },
                 "id": "b6758b25e9c543d59454367f30855b24"
-            }, 
+            },
             "model": {
-                "app_id": "d6aedde0a986497fa1eb6870aece5199", 
-                "created_at": "2017-04-12T06:08:53.807325Z", 
-                "id": "ProfileGen", 
+                "app_id": "d6aedde0a986497fa1eb6870aece5199",
+                "created_at": "2017-04-12T06:08:53.807325Z",
+                "id": "ProfileGen",
                 "model_version": {
-                    "active_concept_count": 10, 
-                    "created_at": "2017-04-12T20:23:57.154353Z", 
-                    "id": "bc70749fffda43e09baa2def2f81924a", 
+                    "active_concept_count": 10,
+                    "created_at": "2017-04-12T20:23:57.154353Z",
+                    "id": "bc70749fffda43e09baa2def2f81924a",
                     "metrics_status": {
-                        "code": 21302, 
+                        "code": 21302,
                         "description": "Model is not yet evaluated."
-                    }, 
-                    "multiclass_metrics": null, 
+                    },
+                    "multiclass_metrics": null,
                     "status": {
-                        "code": 21100, 
+                        "code": 21100,
                         "description": "Model trained successfully"
                     }
-                }, 
-                "name": "ProfileGen", 
+                },
+                "name": "ProfileGen",
                 "output_info": {
-                    "message": "Show output_info with: GET /models/{model_id}/output_info", 
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
                     "output_config": {
-                        "closed_environment": false, 
+                        "closed_environment": false,
                         "concepts_mutually_exclusive": false
-                    }, 
-                    "type": "concept", 
+                    },
+                    "type": "concept",
                     "type_ext": "concept"
                 }
-            }, 
+            },
             "status": {
-                "code": 10000, 
+                "code": 10000,
                 "description": "Ok"
             }
         }
-    ], 
+    ],
     "status": {
-        "code": 10000, 
+        "code": 10000,
         "description": "Ok"
     }
 }
