@@ -14,4 +14,4 @@ print json.dumps(ret, indent=4, sort_keys=True);
 
 
 
-# To execute type python2 BasicPrediction.py Images\<image-name> 
+# To execute type python2 BasicPrediction.py Images\<image-name>

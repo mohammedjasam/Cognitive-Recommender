@@ -46,7 +46,7 @@ model = app.models.get('ProfileGen')
 
 s= model.predict_by_url(url='https://8296-presscdn-0-77-pagely.netdna-ssl.com/wp-content/uploads/images/headline/140117_cigarettes.jpg')
 s=str(s)
-
+print json.dumps(s, indent=4, sort_keys=True);
 import json
 with open('data.txt', 'w') as outfile:
     json.dump(s, outfile)
