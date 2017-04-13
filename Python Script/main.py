@@ -1,3 +1,6 @@
+from __future__ import print_function
+
+
 # from clarifai import rest
 # from clarifai.rest import ClarifaiApp
 #
@@ -43,14 +46,23 @@ model = app.models.get('ProfileGen')
 # model = app.models.get('pets')
 # predict with the model
 
-
-s= model.predict_by_url(url='https://8296-presscdn-0-77-pagely.netdna-ssl.com/wp-content/uploads/images/headline/140117_cigarettes.jpg')
-s=str(s)
-print json.dumps(s, indent=4, sort_keys=True);
 import json
-with open('data.txt', 'w') as outfile:
-    json.dump(s, outfile)
+s= model.predict_by_url(url='https://8296-presscdn-0-77-pagely.netdna-ssl.com/wp-content/uploads/images/headline/140117_cigarettes.jpg')
 
+
+# print s
+ss = json.dumps(s, indent=4, sort_keys=True);
+# print(ss)
+
+# with open('data.txt', 'w') as outfile:
+with open('op.json', 'w') as f:
+    print(ss, file=f)
+
+
+# with open('op.json') as r:
+#     data = json.load(r)
+#     for p in data['concepts']:
+#         print(p)
 #
 # CLARIFAI_APP_ID = '1YO3Mv6APzD0LlEavQuRo13vkqQcQcoIGZbAh3EO'
 # CLARIFAI_APP_SECRET = 'YvaCBTKd4dcuNFE3pJlp4wRELtbpugfDKN6s4YnI'
