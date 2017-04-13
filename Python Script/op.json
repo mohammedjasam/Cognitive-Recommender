@@ -1,0 +1,117 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-04-13T00:56:45.289752Z", 
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
+                        "id": "friends", 
+                        "name": "friends", 
+                        "value": 0.1072684
+                    }, 
+                    {
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
+                        "id": "family", 
+                        "name": "family", 
+                        "value": 0.099501975
+                    }, 
+                    {
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
+                        "id": "drunkard", 
+                        "name": "drunkard", 
+                        "value": 0.053792167
+                    }, 
+                    {
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
+                        "id": "single", 
+                        "name": "single", 
+                        "value": 0.04507271
+                    }, 
+                    {
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
+                        "id": "smoker", 
+                        "name": "smoker", 
+                        "value": 0.035994414
+                    }, 
+                    {
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
+                        "id": "transportOnFoot", 
+                        "name": "transportOnFoot", 
+                        "value": 0.028619727
+                    }, 
+                    {
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
+                        "id": "transportByCar", 
+                        "name": "transportByCar", 
+                        "value": 0.02792192
+                    }, 
+                    {
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
+                        "id": "richDress", 
+                        "name": "richDress", 
+                        "value": 0.02316012
+                    }, 
+                    {
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
+                        "id": "informalDress", 
+                        "name": "informalDress", 
+                        "value": 0.015898362
+                    }, 
+                    {
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
+                        "id": "formalDress", 
+                        "name": "formalDress", 
+                        "value": 0.013669449
+                    }
+                ]
+            }, 
+            "id": "f96bb803e45249ff897da9a26be83491", 
+            "input": {
+                "data": {
+                    "image": {
+                        "url": "https://centerforchange.com/wp-content/uploads/2014/05/Family-and-Friends.jpg"
+                    }
+                }, 
+                "id": "baa8fba4232a4dfb83962742e9876ffc"
+            }, 
+            "model": {
+                "app_id": "d6aedde0a986497fa1eb6870aece5199", 
+                "created_at": "2017-04-12T06:08:53.807325Z", 
+                "id": "ProfileGen", 
+                "model_version": {
+                    "active_concept_count": 10, 
+                    "created_at": "2017-04-12T20:23:57.154353Z", 
+                    "id": "bc70749fffda43e09baa2def2f81924a", 
+                    "metrics_status": {
+                        "code": 21302, 
+                        "description": "Model is not yet evaluated."
+                    }, 
+                    "multiclass_metrics": null, 
+                    "status": {
+                        "code": 21100, 
+                        "description": "Model trained successfully"
+                    }
+                }, 
+                "name": "ProfileGen", 
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info", 
+                    "output_config": {
+                        "closed_environment": false, 
+                        "concepts_mutually_exclusive": false
+                    }, 
+                    "type": "concept", 
+                    "type_ext": "concept"
+                }
+            }, 
+            "status": {
+                "code": 10000, 
+                "description": "Ok"
+            }
+        }
+    ], 
+    "status": {
+        "code": 10000, 
+        "description": "Ok"
+    }
+}

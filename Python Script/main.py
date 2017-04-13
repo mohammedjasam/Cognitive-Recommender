@@ -10,8 +10,8 @@ app = ClarifaiApp("21IgMMOfoj5kD4gAOUtKjJN3sNWbwpkCxpzwRH3b", "JHFF2_adodG9-Av7A
 model = app.models.get('ProfileGen')
 
 
-image = ClImage(file_obj=open(sys.argv, 'rb'))
-s= model.predict(image)
+# image = app.inputs.create_image_from_filename('c:\Users\Stark\Desktop\Programming\Android Development\CognitiveRecommender\Python Script\Images\mj.jpg')    #sClImage(file_obj=open('c:\Users\Stark\Desktop\Programming\Android Development\CognitiveRecommender\Python Script\Images\mj.jpg', 'rb'))
+s= model.predict_by_url(url='https://centerforchange.com/wp-content/uploads/2014/05/Family-and-Friends.jpg')
 
 
 ss = json.dumps(s, indent=4, sort_keys=True);
@@ -19,4 +19,4 @@ ss = json.dumps(s, indent=4, sort_keys=True);
 with open('op.json', 'w') as f:
     print(ss, file=f)
 f.close()
-subprocess.call('python print.py',shell=true)
+subprocess.call('python print.py')
