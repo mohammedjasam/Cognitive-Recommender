@@ -10,16 +10,18 @@ app = ClarifaiApp("21IgMMOfoj5kD4gAOUtKjJN3sNWbwpkCxpzwRH3b", "JHFF2_adodG9-Av7A
 model = app.models.get('ProfileGen')
 
 
-# image = app.inputs.create_image_from_filename('c:\Users\Stark\Desktop\Programming\Android Development\CognitiveRecommender\Python Script\Images\mj.jpg')    #sClImage(file_obj=open('c:\Users\Stark\Desktop\Programming\Android Development\CognitiveRecommender\Python Script\Images\mj.jpg', 'rb'))
 del sys.argv[0]
 imageUrl = sys.argv[0]
 
-print(imageUrl)
+# print(imageUrl)
 s= model.predict_by_url(url=imageUrl)
 
 
 ss = json.dumps(s, indent=4, sort_keys=True);
+from subprocess import Popen, PIPE
+import os
 
+os.system("dbPush.py "+ss)
 with open('op.json', 'w') as f:
     print(ss, file=f)
 f.close()

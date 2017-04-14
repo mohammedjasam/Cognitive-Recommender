@@ -1,79 +1,79 @@
 {
     "outputs": [
         {
-            "created_at": "2017-04-14T17:49:29.57314Z", 
+            "created_at": "2017-04-14T17:51:27.372253Z", 
             "data": {
                 "concepts": [
                     {
                         "app_id": "d6aedde0a986497fa1eb6870aece5199", 
                         "id": "smoker", 
                         "name": "smoker", 
-                        "value": 0.14786579
+                        "value": 0.39340845
                     }, 
                     {
                         "app_id": "d6aedde0a986497fa1eb6870aece5199", 
                         "id": "richDress", 
                         "name": "richDress", 
-                        "value": 0.10595822
+                        "value": 0.10904725
                     }, 
                     {
                         "app_id": "d6aedde0a986497fa1eb6870aece5199", 
                         "id": "drunkard", 
                         "name": "drunkard", 
-                        "value": 0.10513994
+                        "value": 0.06473741
                     }, 
                     {
                         "app_id": "d6aedde0a986497fa1eb6870aece5199", 
                         "id": "single", 
                         "name": "single", 
-                        "value": 0.08951692
-                    }, 
-                    {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
-                        "id": "informalDress", 
-                        "name": "informalDress", 
-                        "value": 0.07430927
-                    }, 
-                    {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
-                        "id": "formalDress", 
-                        "name": "formalDress", 
-                        "value": 0.07153437
-                    }, 
-                    {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
-                        "id": "transportByCar", 
-                        "name": "transportByCar", 
-                        "value": 0.047639973
-                    }, 
-                    {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
-                        "id": "transportOnFoot", 
-                        "name": "transportOnFoot", 
-                        "value": 0.04575556
+                        "value": 0.03324993
                     }, 
                     {
                         "app_id": "d6aedde0a986497fa1eb6870aece5199", 
                         "id": "friends", 
                         "name": "friends", 
-                        "value": 0.039171733
+                        "value": 0.026907347
+                    }, 
+                    {
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
+                        "id": "formalDress", 
+                        "name": "formalDress", 
+                        "value": 0.026675755
+                    }, 
+                    {
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
+                        "id": "transportByCar", 
+                        "name": "transportByCar", 
+                        "value": 0.024065576
+                    }, 
+                    {
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
+                        "id": "informalDress", 
+                        "name": "informalDress", 
+                        "value": 0.009734808
+                    }, 
+                    {
+                        "app_id": "d6aedde0a986497fa1eb6870aece5199", 
+                        "id": "transportOnFoot", 
+                        "name": "transportOnFoot", 
+                        "value": 0.008090879
                     }, 
                     {
                         "app_id": "d6aedde0a986497fa1eb6870aece5199", 
                         "id": "family", 
                         "name": "family", 
-                        "value": 0.038347464
+                        "value": 0.0076554166
                     }
                 ]
             }, 
-            "id": "f542506607b64323b0920a1714b71856", 
+            "id": "cabfc3e761cb4fe79d384b41cf441d8f", 
             "input": {
                 "data": {
                     "image": {
-                        "url": "https://firebasestorage.googleapis.com/v0/b/cognitive-recommender.appspot.com/o/atm5.jpg?alt=media"
+                        "url": "https://firebasestorage.googleapis.com/v0/b/cognitive-recommender.appspot.com/o/smoking-cigarette.jpg?alt=media"
                     }
                 }, 
-                "id": "e5431858f1254f12949097efbf36d9bf"
+                "id": "a200c455678043cba3a6cfbf7bd2f75e"
             }, 
             "model": {
                 "app_id": "d6aedde0a986497fa1eb6870aece5199", 

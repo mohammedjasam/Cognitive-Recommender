@@ -1,6 +1,6 @@
 
 import pyrebase
-
+import sys
 import os
 
 config = {
@@ -14,14 +14,4 @@ firebase = pyrebase.initialize_app(config)
 storage  = firebase.storage()
 db = firebase.database()
 
-users = db.child("User").get()
-
-s= storage.child("smoking-cigarette.jpg").get_url(None)
-# print(s)
-from subprocess import Popen, PIPE
-import os
-
-os.system("main.py "+s)
-
-# print(users.val())
-# print(s)
+db.child("User").push(sys.argv)
