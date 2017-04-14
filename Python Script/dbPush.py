@@ -13,5 +13,8 @@ config = {
 firebase = pyrebase.initialize_app(config)
 storage  = firebase.storage()
 db = firebase.database()
+del sys.argv[0]
 
-db.child("User").push(sys.argv)
+
+print(sys.argv)
+# db.child("User").push(sys.argv)
