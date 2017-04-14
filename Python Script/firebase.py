@@ -1,9 +1,7 @@
-# from firebase import firebase
+
 import pyrebase
-# firebase = firebase.FirebaseApplication('https://cognitive-recommender.firebaseio.com/', None)
-# result = firebase.get('/User', None)
-# print (result)
-#
+
+import os
 
 config = {
   "apiKey": "AIzaSyCuygRGzgjeLAZcu5NJasnL3DK8GMweuh4",
@@ -15,10 +13,15 @@ config = {
 firebase = pyrebase.initialize_app(config)
 storage  = firebase.storage()
 db = firebase.database()
-# db.child("User")
 
 users = db.child("User").get()
 
-s= storage.child("images/atm5.jpg").get_url(None)
-print(users.val())
-print(s)# {"Morty": {"name": "Mortimer 'Morty' Smith"}, "Rick": {"name": "Rick Sanchez"}}
+s= storage.child("atm5.jpg").get_url(None)
+print(s)
+from subprocess import Popen, PIPE
+import os
+
+os.system("main.py "+s)
+
+# print(users.val())
+# print(s)
