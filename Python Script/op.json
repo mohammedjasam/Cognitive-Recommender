@@ -1,43 +1,43 @@
 {
     "outputs": [
         {
-            "created_at": "2017-04-15T00:11:31.946763Z",
+            "created_at": "2017-04-15T02:04:20.200859Z",
             "data": {
                 "concepts": [
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "smoker",
+                        "name": "smoker",
+                        "value": 0.074389175
+                    },
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
                         "id": "informal",
                         "name": "informal",
-                        "value": 0.6395166
+                        "value": 0.072690494
                     },
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
                         "id": "student",
                         "name": "student",
-                        "value": 0.018607259
-                    },
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "smoker",
-                        "name": "smoker",
-                        "value": 0.017292427
+                        "value": 0.03716864
                     },
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
                         "id": "drinker",
                         "name": "drinker",
-                        "value": 0.01523561
+                        "value": 0.030651126
                     }
                 ]
             },
-            "id": "e086c1f36f924f6faa3b9cf54ef4eb7a",
+            "id": "bae71f15bc9446dcb6b61c712e5c41df",
             "input": {
                 "data": {
                     "image": {
-                        "url": "https://sc01.alicdn.com/kf/HTB1SOG7OVXXXXXjXVXXq6xXFXXXv/2016-Women-New-Polka-Dot-Vintage-Casual.jpg"
+                        "url": "http://ewic.org/wp-content/themes/ewic/images/Construction%20Worker.png"
                     }
                 },
-                "id": "cd456db5c9ea411181d1d67cee957c9d"
+                "id": "b64e632e15924750a06337a66cf24571"
             },
             "model": {
                 "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",

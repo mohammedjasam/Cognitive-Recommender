@@ -1,7 +1,7 @@
-
 import pyrebase
-
+from subprocess import Popen, PIPE
 import os
+
 
 config = {
   "apiKey": "AIzaSyCuygRGzgjeLAZcu5NJasnL3DK8GMweuh4",
@@ -17,11 +17,4 @@ db = firebase.database()
 users = db.child("User").get()
 
 s= storage.child("smoking-cigarette.jpg").get_url(None)
-# print(s)
-from subprocess import Popen, PIPE
-import os
-
 os.system("main.py "+s)
-
-# print(users.val())
-# print(s)
