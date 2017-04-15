@@ -1,88 +1,52 @@
 {
     "outputs": [
         {
-            "created_at": "2017-04-14T22:22:24.488145Z",
+            "created_at": "2017-04-15T00:11:31.946763Z",
             "data": {
                 "concepts": [
                     {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
-                        "id": "formalDress",
-                        "name": "formalDress",
-                        "value": 0.1461391
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "informal",
+                        "name": "informal",
+                        "value": 0.6395166
                     },
                     {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
-                        "id": "single",
-                        "name": "single",
-                        "value": 0.11776274
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "student",
+                        "name": "student",
+                        "value": 0.018607259
                     },
                     {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
-                        "id": "richDress",
-                        "name": "richDress",
-                        "value": 0.064817876
-                    },
-                    {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
                         "id": "smoker",
                         "name": "smoker",
-                        "value": 0.057557493
+                        "value": 0.017292427
                     },
                     {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
-                        "id": "drunkard",
-                        "name": "drunkard",
-                        "value": 0.044396542
-                    },
-                    {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
-                        "id": "informalDress",
-                        "name": "informalDress",
-                        "value": 0.042476002
-                    },
-                    {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
-                        "id": "friends",
-                        "name": "friends",
-                        "value": 0.03597803
-                    },
-                    {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
-                        "id": "transportByCar",
-                        "name": "transportByCar",
-                        "value": 0.032300603
-                    },
-                    {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
-                        "id": "family",
-                        "name": "family",
-                        "value": 0.028912516
-                    },
-                    {
-                        "app_id": "d6aedde0a986497fa1eb6870aece5199",
-                        "id": "transportOnFoot",
-                        "name": "transportOnFoot",
-                        "value": 0.010870509
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "drinker",
+                        "name": "drinker",
+                        "value": 0.01523561
                     }
                 ]
             },
-            "id": "e97988e2a91e4cd9aafd2873063db5d0",
+            "id": "e086c1f36f924f6faa3b9cf54ef4eb7a",
             "input": {
                 "data": {
                     "image": {
-                        "url": "http://financialjuneteenth.com/wp-content/uploads/2015/09/business-people_OPT-1000x600.jpg"
+                        "url": "https://sc01.alicdn.com/kf/HTB1SOG7OVXXXXXjXVXXq6xXFXXXv/2016-Women-New-Polka-Dot-Vintage-Casual.jpg"
                     }
                 },
-                "id": "f6c627506686485aa5595339826d057d"
+                "id": "cd456db5c9ea411181d1d67cee957c9d"
             },
             "model": {
-                "app_id": "d6aedde0a986497fa1eb6870aece5199",
-                "created_at": "2017-04-12T06:08:53.807325Z",
+                "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                "created_at": "2017-04-14T22:37:55.221649Z",
                 "id": "ProfileGen",
                 "model_version": {
-                    "active_concept_count": 10,
-                    "created_at": "2017-04-12T20:23:57.154353Z",
-                    "id": "bc70749fffda43e09baa2def2f81924a",
+                    "active_concept_count": 4,
+                    "created_at": "2017-04-15T00:05:47.268762Z",
+                    "id": "aa722783d0f54a45b65b6d0ca3e12c74",
                     "metrics_status": {
                         "code": 21302,
                         "description": "Model is not yet evaluated."
