@@ -2,7 +2,6 @@ import pyrebase
 from subprocess import Popen, PIPE
 import os
 
-
 config = {
   "apiKey": "AIzaSyCuygRGzgjeLAZcu5NJasnL3DK8GMweuh4",
   "authDomain": "cognitive-recommender.firebaseapp.com",
