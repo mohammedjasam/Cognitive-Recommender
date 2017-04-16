@@ -1,73 +1,73 @@
 {
     "outputs": [
         {
-            "created_at": "2017-04-16T07:26:06.12472Z",
+            "created_at": "2017-04-16T08:07:41.155417Z",
             "data": {
                 "concepts": [
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "smoker",
-                        "name": "smoker",
-                        "value": 0.25016043
-                    },
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "drinker",
-                        "name": "drinker",
-                        "value": 0.15510473
-                    },
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "single",
-                        "name": "single",
-                        "value": 0.068401396
-                    },
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "professional",
-                        "name": "professional",
-                        "value": 0.041155677
-                    },
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "formal",
-                        "name": "formal",
-                        "value": 0.024797665
-                    },
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "informal",
-                        "name": "informal",
-                        "value": 0.017540812
+                        "id": "family",
+                        "name": "family",
+                        "value": 0.18827842
                     },
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
                         "id": "student",
                         "name": "student",
-                        "value": 0.014848121
-                    },
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "family",
-                        "name": "family",
-                        "value": 0.00971341
+                        "value": 0.1513122
                     },
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
                         "id": "friends",
                         "name": "friends",
-                        "value": 0.0079376185
+                        "value": 0.10309158
+                    },
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "single",
+                        "name": "single",
+                        "value": 0.06601993
+                    },
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "smoker",
+                        "name": "smoker",
+                        "value": 0.009368105
+                    },
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "professional",
+                        "name": "professional",
+                        "value": 0.009160045
+                    },
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "informal",
+                        "name": "informal",
+                        "value": 0.008104241
+                    },
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "drinker",
+                        "name": "drinker",
+                        "value": 0.004201639
+                    },
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "formal",
+                        "name": "formal",
+                        "value": 0.0015945749
                     }
                 ]
             },
-            "id": "d47642b524904719b5d196c76fe05bc5",
+            "id": "e08140ce802044db88c8ee00843f51ca",
             "input": {
                 "data": {
                     "image": {
-                        "url": "https://www.usnews.com/dims4/USNEWS/01992e5/2147483647/thumbnail/970x647/quality/85/?url=%2Fcmsmedia%2F4d%2Ff3%2Fd9456aee4d728554c0f3a6607438%2F140521-e-cigarettesmoker-stock.jpg"
+                        "url": "https://holykaw.alltop.com/wp-content/uploads/2013/03/foto-students.jpg"
                     }
                 },
-                "id": "b4d89e3cab8545ce949a7136d523525c"
+                "id": "cf747378443948ccae8e9a93d533981b"
             },
             "model": {
                 "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
