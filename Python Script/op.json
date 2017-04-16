@@ -1,43 +1,43 @@
 {
     "outputs": [
         {
-            "created_at": "2017-04-15T02:04:20.200859Z",
+            "created_at": "2017-04-16T06:16:26.026406Z",
             "data": {
                 "concepts": [
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
                         "id": "smoker",
                         "name": "smoker",
-                        "value": 0.074389175
-                    },
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "informal",
-                        "name": "informal",
-                        "value": 0.072690494
-                    },
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "student",
-                        "name": "student",
-                        "value": 0.03716864
+                        "value": 0.33049893
                     },
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
                         "id": "drinker",
                         "name": "drinker",
-                        "value": 0.030651126
+                        "value": 0.16085185
+                    },
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "informal",
+                        "name": "informal",
+                        "value": 0.020340139
+                    },
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "student",
+                        "name": "student",
+                        "value": 0.012091861
                     }
                 ]
             },
-            "id": "bae71f15bc9446dcb6b61c712e5c41df",
+            "id": "d36e76d95c1c4a62994999917616c89f",
             "input": {
                 "data": {
                     "image": {
-                        "url": "http://ewic.org/wp-content/themes/ewic/images/Construction%20Worker.png"
+                        "url": "https://www.usnews.com/dims4/USNEWS/01992e5/2147483647/thumbnail/970x647/quality/85/?url=%2Fcmsmedia%2F4d%2Ff3%2Fd9456aee4d728554c0f3a6607438%2F140521-e-cigarettesmoker-stock.jpg"
                     }
                 },
-                "id": "b64e632e15924750a06337a66cf24571"
+                "id": "c45e1c89c2f940338dbcec5530f88f70"
             },
             "model": {
                 "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
@@ -45,8 +45,8 @@
                 "id": "ProfileGen",
                 "model_version": {
                     "active_concept_count": 4,
-                    "created_at": "2017-04-15T00:05:47.268762Z",
-                    "id": "aa722783d0f54a45b65b6d0ca3e12c74",
+                    "created_at": "2017-04-15T02:22:12.4991Z",
+                    "id": "e8d16828f6554b36970cc6005cd06f46",
                     "metrics_status": {
                         "code": 21302,
                         "description": "Model is not yet evaluated."
