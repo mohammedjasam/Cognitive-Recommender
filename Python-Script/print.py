@@ -101,7 +101,7 @@ db.child('User').push(finalList)
 
 import csv
 
-def get_last_row(csv_filename):
+def get_lastUID(csv_filename):
     with open(csv_filename, 'r') as f:
         lastrow = None
         for lastrow in csv.reader(f): pass
@@ -109,11 +109,18 @@ def get_last_row(csv_filename):
         n=int(s[1:])+1
         s=s[0]+str(n)
         return s
-testdata=r'C:/Users/Stark/Desktop/Programming/Android Development/CognitiveRecommender/Python Script/Recommender/Testing_Binary.csv'
-s=get_last_row(testdata)
+testdata=r'C:/Users/Stark/Desktop/Programming/Android-Development/CognitiveRecommender/Python-Script/Recommender/Testing_Binary.csv'
+s=get_lastUID(testdata)
 
 for x in finalList.values():
     s+=','+str(x)
 fd = open(testdata,'a')
 fd.write(s+'\n')
 fd.close()
+
+import subprocess
+import os
+dir_path = os.path.dirname(os.path.realpath(__file__))
+dir_path+="/Recommender/Recommend_Project_Cosine.py"
+Recommender= 'python ' + dir_path
+subprocess.call(Recommender,shell=True)

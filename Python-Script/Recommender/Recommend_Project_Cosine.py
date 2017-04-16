@@ -10,13 +10,24 @@ import math
 from scipy.spatial import distance
 from math import *
 import csv
-
+import os
+dir_path = os.path.dirname(os.path.realpath(__file__))
+os.chdir(dir_path)
 with open("userprofile_Jenny.csv", 'r') as csvfile:
     User_Profile = pd.read_csv(csvfile)
 
 
 with open("Testing_Binary.csv", 'r') as csvfile:
     Test_User_Profile = pd.read_csv(csvfile)
+
+def get_lastUID(csv_filename):
+    with open(csv_filename, 'r') as f:
+        lastrow = None
+        for lastrow in csv.reader(f): pass
+        s=lastrow[0]
+        n=int(s[1:])
+        s=s[0]+str(n)
+        return s
 distance_columns = ['smoker', 'drink_level', 'dress_preference', 'ambience', 'activity', 'budget']
 
 # Select only the numeric columns from the NBA dataset
@@ -38,7 +49,7 @@ Test_User_normalized = (Test_User_numeric - Test_User_numeric.mean()) / Test_Use
 Test_User_numeric.fillna(0, inplace=True)
 
 # Find the normalized vector for lebron james.
-Test_User_current_normalized = Test_User_normalized[Test_User_Profile["userID"] == "U1139"]
+Test_User_current_normalized = Test_User_normalized[Test_User_Profile["userID"] == get_lastUID("Testing_Binary.csv")]
 
 # Find the distance between lebron james and everyone else.
 cosine_distances = User_normalized.apply(lambda row: distance.cosine(row, Test_User_current_normalized), axis=1)
