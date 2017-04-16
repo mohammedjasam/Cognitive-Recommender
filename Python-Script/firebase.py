@@ -15,5 +15,6 @@ db = firebase.database()
 
 users = db.child("User").get()
 
+# print(users.val())
 s= storage.child("smoking-cigarette.jpg").get_url(None)
 os.system("main.py "+s)

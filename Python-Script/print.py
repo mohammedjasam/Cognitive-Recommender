@@ -7,7 +7,8 @@ with open('op.json') as data_file:
 import pyrebase
 import sys
 import os
-
+# import firebase_new
+import UID
 config = {
   "apiKey": "AIzaSyCuygRGzgjeLAZcu5NJasnL3DK8GMweuh4",
   "authDomain": "cognitive-recommender.firebaseapp.com",
@@ -110,7 +111,13 @@ def get_lastUID(csv_filename):
         s=s[0]+str(n)
         return s
 testdata=r'C:/Users/Stark/Desktop/Programming/Android-Development/CognitiveRecommender/Python-Script/Recommender/Testing_Binary.csv'
-s=get_lastUID(testdata)
+s='U'+ UID.get_lastUID()
+
+
+# print(firebase_new.get_lastUID())
+
+
+
 
 for x in finalList.values():
     s+=','+str(x)

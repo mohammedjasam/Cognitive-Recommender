@@ -22,4 +22,4 @@ ss = json.dumps(s, indent=4, sort_keys=True);
 with open('op.json', 'w') as f:
     print(ss, file=f)
 f.close()
-subprocess.call('python print.py')
+subprocess.call('python print.py',shell=True)

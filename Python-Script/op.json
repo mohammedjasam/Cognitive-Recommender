@@ -1,111 +1,111 @@
 {
     "outputs": [
         {
-            "created_at": "2017-04-16T13:05:39.183843Z",
+            "created_at": "2017-04-16T23:52:16.354109Z", 
             "data": {
                 "concepts": [
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "professional",
-                        "name": "professional",
-                        "value": 0.081315644
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "smoker", 
+                        "name": "smoker", 
+                        "value": 0.03423576
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "student",
-                        "name": "student",
-                        "value": 0.060090702
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "informal", 
+                        "name": "informal", 
+                        "value": 0.031464107
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "smoker",
-                        "name": "smoker",
-                        "value": 0.036100168
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "single", 
+                        "name": "single", 
+                        "value": 0.030624349
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "drinker",
-                        "name": "drinker",
-                        "value": 0.030468278
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "drinker", 
+                        "name": "drinker", 
+                        "value": 0.023705678
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "formal",
-                        "name": "formal",
-                        "value": 0.028726542
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "family", 
+                        "name": "family", 
+                        "value": 0.020303443
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "single",
-                        "name": "single",
-                        "value": 0.018859379
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "friends", 
+                        "name": "friends", 
+                        "value": 0.01733503
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "friends",
-                        "name": "friends",
-                        "value": 0.011679969
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "professional", 
+                        "name": "professional", 
+                        "value": 0.014511419
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "informal",
-                        "name": "informal",
-                        "value": 0.011489326
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "student", 
+                        "name": "student", 
+                        "value": 0.014232919
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "family",
-                        "name": "family",
-                        "value": 0.0054477397
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "formal", 
+                        "name": "formal", 
+                        "value": 0.012288552
                     }
                 ]
-            },
-            "id": "f3299f7193444ea0a09d43bdff88499f",
+            }, 
+            "id": "e6519e9971bf473888738d5102d5a9ab", 
             "input": {
                 "data": {
                     "image": {
-                        "url": "https://firebasestorage.googleapis.com/v0/b/cameraapp-6a5ab.appspot.com/o/mnqnd%2F28938907043742?alt=media"
+                        "url": "https://firebasestorage.googleapis.com/v0/b/cameraapp-6a5ab.appspot.com/o/darklordofasgard%2F59719353593969?alt=media"
                     }
-                },
-                "id": "e591c314471c4bd5899787f4a2077bb0"
-            },
+                }, 
+                "id": "a492e6e44a08441992a22e01737de11c"
+            }, 
             "model": {
-                "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                "created_at": "2017-04-14T22:37:55.221649Z",
-                "id": "ProfileGen",
+                "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                "created_at": "2017-04-14T22:37:55.221649Z", 
+                "id": "ProfileGen", 
                 "model_version": {
-                    "active_concept_count": 9,
-                    "created_at": "2017-04-16T07:25:26.709337Z",
-                    "id": "bc2460d8e0b24d36b28e2876cfd869e5",
+                    "active_concept_count": 9, 
+                    "created_at": "2017-04-16T07:25:26.709337Z", 
+                    "id": "bc2460d8e0b24d36b28e2876cfd869e5", 
                     "metrics_status": {
-                        "code": 21302,
+                        "code": 21302, 
                         "description": "Model is not yet evaluated."
-                    },
-                    "multiclass_metrics": null,
+                    }, 
+                    "multiclass_metrics": null, 
                     "status": {
-                        "code": 21100,
+                        "code": 21100, 
                         "description": "Model trained successfully"
                     }
-                },
-                "name": "ProfileGen",
+                }, 
+                "name": "ProfileGen", 
                 "output_info": {
-                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "message": "Show output_info with: GET /models/{model_id}/output_info", 
                     "output_config": {
-                        "closed_environment": false,
+                        "closed_environment": false, 
                         "concepts_mutually_exclusive": false
-                    },
-                    "type": "concept",
+                    }, 
+                    "type": "concept", 
                     "type_ext": "concept"
                 }
-            },
+            }, 
             "status": {
-                "code": 10000,
+                "code": 10000, 
                 "description": "Ok"
             }
         }
-    ],
+    ], 
     "status": {
-        "code": 10000,
+        "code": 10000, 
         "description": "Ok"
     }
 }
