@@ -1,73 +1,73 @@
 {
     "outputs": [
         {
-            "created_at": "2017-04-16T08:12:59.52759Z",
+            "created_at": "2017-04-16T08:44:36.464255Z",
             "data": {
                 "concepts": [
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "family",
-                        "name": "family",
-                        "value": 0.18827842
-                    },
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "student",
-                        "name": "student",
-                        "value": 0.1513122
-                    },
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "friends",
-                        "name": "friends",
-                        "value": 0.10309158
-                    },
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "single",
-                        "name": "single",
-                        "value": 0.06601993
+                        "id": "drinker",
+                        "name": "drinker",
+                        "value": 0.41741046
                     },
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
                         "id": "smoker",
                         "name": "smoker",
-                        "value": 0.009368105
+                        "value": 0.29704827
+                    },
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "student",
+                        "name": "student",
+                        "value": 0.026805611
                     },
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
                         "id": "professional",
                         "name": "professional",
-                        "value": 0.009160045
-                    },
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "informal",
-                        "name": "informal",
-                        "value": 0.008104241
-                    },
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "drinker",
-                        "name": "drinker",
-                        "value": 0.004201639
+                        "value": 0.022501392
                     },
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
                         "id": "formal",
                         "name": "formal",
-                        "value": 0.0015945749
+                        "value": 0.017543368
+                    },
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "friends",
+                        "name": "friends",
+                        "value": 0.016493319
+                    },
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "single",
+                        "name": "single",
+                        "value": 0.011390051
+                    },
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "informal",
+                        "name": "informal",
+                        "value": 0.0099157905
+                    },
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
+                        "id": "family",
+                        "name": "family",
+                        "value": 0.0039602495
                     }
                 ]
             },
-            "id": "e6a75105fd22407b8c96ab553fc72d0e",
+            "id": "cb9f0e8d68a6461c80a7508653139002",
             "input": {
                 "data": {
                     "image": {
-                        "url": "https://holykaw.alltop.com/wp-content/uploads/2013/03/foto-students.jpg"
+                        "url": "https://s3.amazonaws.com/clarifai-api/img/prod/cf1ef7de61994e2da2bbaa59aaddb77b/cc4ebb99c9ae4c9cb405a2d9de0ec872.jpeg"
                     }
                 },
-                "id": "bd9c233ce1a24b8eae8419bcc6b3356b"
+                "id": "e53c67f322b44c4aba12a31f56c71c18"
             },
             "model": {
                 "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",

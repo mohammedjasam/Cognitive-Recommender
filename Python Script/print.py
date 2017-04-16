@@ -71,7 +71,7 @@ if finalList['dress_preference']==1:
 else:
     finalList['budget']=0
 
-    
+
 # resolving family vs friends when students are encountered
 if finalList['ambience']==0 and finalList['activity']==0:
     finalList['ambience']=1
@@ -99,3 +99,4 @@ elif finalList['activity']==1 and finalList['ambience']==2 and finalList['dress_
 
 print(finalList)
 # print(finalList)
+db.child('User').push(finalList)

@@ -14,9 +14,11 @@ app = ClarifaiApp("b9Eaq-zthkRQ6_5N0LpyXGfMkgnt4qLRr0KOILHC", "mh3-rEVbYqVaQ2cKH
 model = app.models.get('ProfileGen')
 del sys.argv[0]
 imageUrl = sys.argv[0]
-
-# print(imageUrl)
-s= model.predict_by_url(url=imageUrl)
+if '\\' in imageUrl:
+    imageUrl.replace(' \\ ',' \ ')
+    s= model.predict_by_filename(imageUrl)
+else:
+    s= model.predict_by_url(url=imageUrl)
 ss = json.dumps(s, indent=4, sort_keys=True);
 # os.system("dbPush.py "+ss)
 with open('op.json', 'w') as f:
