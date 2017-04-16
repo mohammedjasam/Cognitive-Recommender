@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/delete_forever"
+        android:icon="@drawable/ic_delete_white_24dp"
+        android:title="@string/menu_delete_forever"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share_white_24dp"
+        android:title="@string/detail_share_text"
+        app:showAsAction="always"/>
+</menu>

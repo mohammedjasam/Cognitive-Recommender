@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_weight="3"
+    android:padding="16dp"
+    android:elevation="2dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1000 Images"
+        android:textSize="20sp"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:paddingEnd="16dp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@color/primary_text"
+        android:gravity="start"
+        android:layout_weight="2"
+        android:id="@+id/purchase_textview"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/accent"
+        android:layout_gravity="end"
+        android:text="$1.99"
+        android:layout_weight="1"
+        android:padding="16dp"
+        android:fontFamily="sans-serif"
+        android:textSize="18sp"
+        android:textColor="@color/text_and_icon"
+        android:id="@+id/purchase_button"/>
+
+</LinearLayout>

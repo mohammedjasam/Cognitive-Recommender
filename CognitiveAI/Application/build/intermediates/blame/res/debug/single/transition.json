@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\transition\\detail_slide.xml",
+        "source": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\src\\main\\res\\transition\\detail_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\transition\\fade_in.xml",
+        "source": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\src\\main\\res\\transition\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\transition\\gallery_enter.xml",
+        "source": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\src\\main\\res\\transition\\gallery_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\transition\\activity_fade.xml",
+        "source": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\src\\main\\res\\transition\\activity_fade.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\transition\\slide_right.xml",
+        "source": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\src\\main\\res\\transition\\slide_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\transition\\slide_left.xml",
+        "source": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\src\\main\\res\\transition\\slide_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\transition\\fade_out.xml",
+        "source": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\src\\main\\res\\transition\\fade_out.xml"
+    }
+]

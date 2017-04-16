@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1092885925890",
+    "firebase_url": "https://cameraapp-6a5ab.firebaseio.com",
+    "project_id": "cameraapp-6a5ab",
+    "storage_bucket": "cameraapp-6a5ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092885925890:android:1b4ee6747d33c111",
+        "android_client_info": {
+          "package_name": "com.ambercam.android.camera2basic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092885925890-qk8ipnv5k1nttjkmdsmrsdlvig2agght.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzBmQva_CxAH6lGfTDfz-2vV_LK_4IBEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

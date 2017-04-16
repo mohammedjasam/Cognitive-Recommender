@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.GetStartedActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/camera"
+        android:scaleType="centerCrop"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/vertical_page_margin"
+        android:layout_marginTop="35dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:id="@+id/get_started_icon"
+            android:layout_marginBottom="16dp"
+            android:padding="8dp"/>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@color/text_and_icon">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/get_started_email"
+                android:backgroundTint="@color/primary"
+                android:textColor="@color/text_and_icon"
+                android:textColorHint="@color/text_and_icon"
+                android:id="@+id/get_started_email"
+                android:inputType="textEmailAddress"/>
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@color/text_and_icon">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/get_started_password"
+                android:backgroundTint="@color/primary"
+                android:textColor="@color/text_and_icon"
+                android:paddingTop="35dp"
+                android:textColorHint="@color/text_and_icon"
+                android:id="@+id/get_started_password"
+                android:inputType="textPassword"/>
+
+        </android.support.design.widget.TextInputLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/get_started_create"
+            android:padding="5dp"
+            android:textColor="@color/text_and_icon"
+            android:gravity="center"
+            android:id="@+id/get_started_create"/>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/primary"
+            android:text="Login"
+            android:fontFamily="sans-serif-light"
+            android:textSize="16sp"
+            android:textColor="@color/text_and_icon"
+            android:textStyle="bold"
+            android:id="@+id/get_started_login"/>
+    </RelativeLayout>
+
+</RelativeLayout>

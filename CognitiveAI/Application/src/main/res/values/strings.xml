@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">Cognitive Recommender</string>
+
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">Cognitive Recommender needs camera permission</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="title_activity_get_started">GetStartedActivity</string>
+
+    <string name="get_started_email">email</string>
+    <string name="get_started_password">password</string>
+    <string name="get_started_login">login</string>
+    <string name="get_started_create">No account yet? Join us now!</string>
+    <string name="get_started_error">Incorrect username or password</string>
+
+    <string name="camera_general_failure">Image upload failed</string>
+
+    <string name="create_account_create">Join Us!</string>
+    <string name="create_account_confirm_email">confirm email</string>
+    <string name="create_account_confirm_password">confirm password</string>
+
+    <string name="email_no_match">emails do not match</string>
+    <string name="password_no_match">passwords do not match</string>
+
+    <string name="authentication_success">Success!</string>
+    <string name="authentication_failed">Authentication Failed</string>
+
+    <string name="title_activity_create_account">CreateAccountActivity</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_usage">UsageActivity</string>
+    <string name="title_activity_preference">PreferenceActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_element_feedback">Send Feedback</string>
+    <string name="menu_element_usage">Cloud Usage</string>
+    <string name="menu_element_rate_app">Rate in Play Store</string>
+    <string name="menu_element_settings">Settings</string>
+    <string name="menu_element_log_out">Log Out</string>
+    <string name="menu_toolbar_text">Menu</string>
+
+    <string name="storage_full_toast">You have reached your Storage limit. Purchase more to keep snapping away!</string>
+
+    <string name="detail_share_text">Share</string>
+    <string name="detail_delete_text">Delete</string>
+    <string name="detail_delete_success_toast">Image Deleted</string>
+    <string name="detail_delete_failed_toast">Deletion Failed</string>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_closed">Drawer Closed</string>
+    <string name="menu_delete_forever">Delete</string>
+
+    <!-- accessibility strings-->
+    <string name="description_camera_button">Camera Button</string>
+    <string name="description_nav_button">Navigation Button</string>
+    <string name="description_gallery_button">Gallery Button</string>
+    <string name="description_camera_switch_button">Switch Cameras</string>
+    <string name="description_camera_preview">Camera Preview</string>
+    <string name="description_image_detail">Gallery Image Detail</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="usage_purchase_title">Expand your experience!</string>
+    <string name="usage_version_title">version 1.4.0</string>
+
+    <!-- preference strings -->
+    <!-- hide floating action button preference -->
+    <string name="preference_title_hide">Hide Camera Button</string>
+    <string name="preference_summary_hide">This option will allow you to hide the 
+        camera button when viewing a detailed view of your photos.</string>
+    <string name="preference_key_hide">hide_button</string>
+
+    <!-- disable vibration preference -->
+    <string name="preference_title_vibration">Disable Device Vibration</string>
+    <string name="preference_summary_vibration">Disable device vibration within Cognitive Recommender.</string>
+    <string name="preference_key_vibration">disable_vibration</string>
+    
+    <!-- adjust gallery columns preference -->
+    <string name="preference_title_gallery">Adjust Gallery Column Count</string>
+    <string name="preference_summary_gallery">Changes the amount of columns within
+        the Cognitive Recommender gallery.</string>
+    <string name="preference_key_gallery">change_columns</string>
+
+</resources>

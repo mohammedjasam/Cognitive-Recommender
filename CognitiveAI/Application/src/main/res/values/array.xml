@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="purchase_price_list">
+        <item>$1.99</item>
+        <item>$2.99</item>
+        <item>$3.99</item>
+        <item>$6.99</item>
+        <item>$9.99</item>
+        <item>$13.99</item>
+        <item>$19.99</item>
+    </array>
+
+    <array name="purchase_amount_list">
+        <item>1000 Photos</item>
+        <item>1500 Photos</item>
+        <item>1800 Photos</item>
+        <item>2500 Photos</item>
+        <item>3500 Photos</item>
+        <item>5000 Photos</item>
+        <item>Unlimited</item>
+    </array>
+
+    <!-- gallery column count preference arrays -->
+    <string-array name="preference_entries_gallery">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+    </string-array>
+
+    <string-array name="preference_values_gallery">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+</resources>

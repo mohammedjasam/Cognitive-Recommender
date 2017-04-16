@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:title="@string/preference_title_hide"
+        android:key="@string/preference_key_hide"
+        android:summary="@string/preference_summary_hide"
+        android:defaultValue="false"/>
+    <ListPreference
+        android:title="@string/preference_title_gallery"
+        android:key="@string/preference_key_gallery"
+        android:summary="@string/preference_summary_gallery"
+        android:defaultValue="3"
+        android:entries="@array/preference_entries_gallery"
+        android:entryValues="@array/preference_values_gallery"/>
+    <CheckBoxPreference
+        android:title="@string/preference_title_vibration"
+        android:key="@string/preference_key_vibration"
+        android:summary="@string/preference_summary_vibration"
+        android:defaultValue="false"/>
+</PreferenceScreen>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group_top"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_cloud_usage"
+            android:title="@string/menu_element_usage"
+            android:checked="true"
+            android:icon="@drawable/ic_cloud_black_48dp"/>
+    </group>
+
+    <group android:checkableBehavior="single"
+           android:id="@+id/group_middle">
+        <item
+            android:id="@+id/menu_feedback"
+            android:title="@string/menu_element_feedback"
+            android:icon="@drawable/ic_feedback_black_24dp"/>
+        <item
+            android:id="@+id/menu_rate"
+            android:title="@string/menu_element_rate_app"
+            android:icon="@drawable/ic_star_rate_black_18dp"/>
+    </group>
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/group_bottom">
+        <item
+            android:id="@+id/menu_settings"
+            android:title="@string/menu_element_settings"
+            android:icon="@drawable/ic_settings_black_24dp"/>
+        <item
+            android:id="@+id/menu_logout"
+            android:title="@string/menu_element_log_out"
+            android:icon="@drawable/ic_power_settings_new_black_24dp"/>
+    </group>
+
+</menu>

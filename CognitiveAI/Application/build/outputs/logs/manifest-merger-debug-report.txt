@@ -1,0 +1,307 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:17:1-78:12
+	package
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:17:11-54
+		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:20:5-64
+	android:name
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:20:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:21:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Stark\.android\build-cache\1fa7e06b2e35bfdbde4312f1d9d2df47caaa575f\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:21:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:22:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Stark\.android\build-cache\1fa7e06b2e35bfdbde4312f1d9d2df47caaa575f\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:22:22-76
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:24:5-59
+	android:name
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:24:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:25:5-69
+	android:name
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:25:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:27:22-63
+application
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:29:5-76:19
+MERGED from [com.android.support:support-v13:23.4.0] C:\Users\Stark\.android\build-cache\691c0daa95a7ebe490b4df1d4c408ade9cf2a0e8\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Stark\.android\build-cache\c52da307d99b80f5f7cff92de8eea7dba4473c34\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Stark\.android\build-cache\7cdcc9c99446ed514419d5038240163e2ce4bfff\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\Stark\.android\build-cache\45fea1dc3bf65333e8a4c9e54a50f32dfe41c81d\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\Stark\.android\build-cache\60a0eac770b38731d5479053819acf2a92768db5\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-core:9.4.0] C:\Users\Stark\.android\build-cache\47b24d69f14c3852c1c95813ec114caefcf03e2f\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Stark\.android\build-cache\1fa7e06b2e35bfdbde4312f1d9d2df47caaa575f\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Stark\.android\build-cache\cbf0809fbca535e962ee92c57f5adba341767633\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Stark\.android\build-cache\7425adb40a78da38375d0a4ac6522528f57e3742\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Stark\.android\build-cache\9f5d0f6a7fa979e44f0c0f15a5e46f947419efd4\output\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Stark\.android\build-cache\1ec81bd47c1cbe4c803883d16dcefb3979d82d40\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Stark\.android\build-cache\863c90586f31eeb55922161c11f471ee8857aa19\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.1] C:\Users\Stark\.android\build-cache\06777308e673a3ece42f7d4ece3a80cc19986c88\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Stark\.android\build-cache\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Stark\.android\build-cache\6b09540a0410e42600bff6d2f2d41f0989442d6f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Stark\.android\build-cache\d1113baa639f0f9c8bd86519046752a4adcaeaf2\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Stark\.android\build-cache\be6a9875acdecf87c5d9f654c9d51cfc65715219\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:32:9-42
+	android:allowBackup
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:31:9-45
+	android:theme
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:33:9-45
+activity#com.ambercam.android.camera2basic.ui.GetStartedActivity
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:34:9-43:20
+	android:label
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:36:13-46
+	android:theme
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:35:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:41:27-74
+activity#com.ambercam.android.camera2basic.ui.CameraActivity
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:44:9-48:20
+	android:label
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:46:13-46
+	android:theme
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:45:13-46
+activity#com.ambercam.android.camera2basic.ui.CreateAccountActivity
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:49:9-54:20
+	android:label
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:51:13-66
+	android:parentActivityName
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:52:13-64
+	android:theme
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:50:13-53
+activity#com.ambercam.android.camera2basic.ui.GalleryActivity
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:55:9-59:20
+	android:label
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:57:13-59
+	android:theme
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:56:13-47
+activity#com.ambercam.android.camera2basic.ui.DetailActivity
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:60:9-65:20
+	android:label
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:62:13-58
+	android:parentActivityName
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:63:13-61
+	android:theme
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:61:13-46
+activity#com.ambercam.android.camera2basic.ui.UsageActivity
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:66:9-71:20
+	android:label
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:68:13-57
+	android:parentActivityName
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:69:13-60
+	android:theme
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:70:13-59
+	android:name
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:67:13-45
+activity#com.ambercam.android.camera2basic.ui.PreferenceActivity
+ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:72:9-75:20
+	android:label
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:74:13-62
+	android:name
+		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:73:13-50
+uses-sdk
+INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:23.4.0] C:\Users\Stark\.android\build-cache\691c0daa95a7ebe490b4df1d4c408ade9cf2a0e8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Stark\.android\build-cache\c52da307d99b80f5f7cff92de8eea7dba4473c34\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\Stark\.android\build-cache\7cdcc9c99446ed514419d5038240163e2ce4bfff\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\Stark\.android\build-cache\45fea1dc3bf65333e8a4c9e54a50f32dfe41c81d\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\Stark\.android\build-cache\60a0eac770b38731d5479053819acf2a92768db5\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] C:\Users\Stark\.android\build-cache\dd4205f232f47661696bb33e2c98c3f79d42ff0f\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:9.4.0] C:\Users\Stark\.android\build-cache\47b24d69f14c3852c1c95813ec114caefcf03e2f\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Stark\.android\build-cache\1fa7e06b2e35bfdbde4312f1d9d2df47caaa575f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Stark\.android\build-cache\cbf0809fbca535e962ee92c57f5adba341767633\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] C:\Users\Stark\.android\build-cache\b80873e0670b1179ce8bc5fb7fd7a7b70460cf94\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage:9.4.0] C:\Users\Stark\.android\build-cache\8cafce7f5c00e6aa544f0aea5c92c10d9f079101\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] C:\Users\Stark\.android\build-cache\68fa1da27014ed12955d75caf50a6b8d37815d65\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] C:\Users\Stark\.android\build-cache\604f4c39c4ce4ff6426b005dd38b96956a5b004a\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] C:\Users\Stark\.android\build-cache\46a6496fb8c36b5897c1e89996cadf6bad26363e\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Stark\.android\build-cache\7425adb40a78da38375d0a4ac6522528f57e3742\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Stark\.android\build-cache\9f5d0f6a7fa979e44f0c0f15a5e46f947419efd4\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Stark\.android\build-cache\1ec81bd47c1cbe4c803883d16dcefb3979d82d40\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Stark\.android\build-cache\863c90586f31eeb55922161c11f471ee8857aa19\output\AndroidManifest.xml:18:5-42
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.1] C:\Users\Stark\.android\build-cache\06777308e673a3ece42f7d4ece3a80cc19986c88\output\AndroidManifest.xml:8:5-11:75
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\Stark\.android\build-cache\9aea211cf353e69b3058a752a1c8ade5d4f89409\output\AndroidManifest.xml:20:5-43
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] C:\Users\Stark\.android\build-cache\d57a326e421d1b01907b00f9a043b0b39c5eaa19\output\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Stark\.android\build-cache\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Stark\.android\build-cache\6b09540a0410e42600bff6d2f2d41f0989442d6f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Stark\.android\build-cache\d1113baa639f0f9c8bd86519046752a4adcaeaf2\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Stark\.android\build-cache\be6a9875acdecf87c5d9f654c9d51cfc65715219\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.0.1] C:\Users\Stark\.android\build-cache\06777308e673a3ece42f7d4ece3a80cc19986c88\output\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Stark\.android\build-cache\1fa7e06b2e35bfdbde4312f1d9d2df47caaa575f\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Stark\.android\build-cache\1fa7e06b2e35bfdbde4312f1d9d2df47caaa575f\output\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Stark\.android\build-cache\1fa7e06b2e35bfdbde4312f1d9d2df47caaa575f\output\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:37:11-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:55:25-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Stark\.android\build-cache\cbf0809fbca535e962ee92c57f5adba341767633\output\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Stark\.android\build-cache\cbf0809fbca535e962ee92c57f5adba341767633\output\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Stark\.android\build-cache\cbf0809fbca535e962ee92c57f5adba341767633\output\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Stark\.android\build-cache\cbf0809fbca535e962ee92c57f5adba341767633\output\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Stark\.android\build-cache\cbf0809fbca535e962ee92c57f5adba341767633\output\AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Stark\.android\build-cache\cbf0809fbca535e962ee92c57f5adba341767633\output\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Stark\.android\build-cache\cbf0809fbca535e962ee92c57f5adba341767633\output\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Stark\.android\build-cache\cbf0809fbca535e962ee92c57f5adba341767633\output\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Stark\.android\build-cache\cbf0809fbca535e962ee92c57f5adba341767633\output\AndroidManifest.xml:29:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Stark\.android\build-cache\7425adb40a78da38375d0a4ac6522528f57e3742\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Stark\.android\build-cache\7425adb40a78da38375d0a4ac6522528f57e3742\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Stark\.android\build-cache\7425adb40a78da38375d0a4ac6522528f57e3742\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Stark\.android\build-cache\7425adb40a78da38375d0a4ac6522528f57e3742\output\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Stark\.android\build-cache\9f5d0f6a7fa979e44f0c0f15a5e46f947419efd4\output\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Stark\.android\build-cache\9f5d0f6a7fa979e44f0c0f15a5e46f947419efd4\output\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Stark\.android\build-cache\9f5d0f6a7fa979e44f0c0f15a5e46f947419efd4\output\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Stark\.android\build-cache\9f5d0f6a7fa979e44f0c0f15a5e46f947419efd4\output\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Stark\.android\build-cache\9f5d0f6a7fa979e44f0c0f15a5e46f947419efd4\output\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Stark\.android\build-cache\863c90586f31eeb55922161c11f471ee8857aa19\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Stark\.android\build-cache\863c90586f31eeb55922161c11f471ee8857aa19\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Stark\.android\build-cache\863c90586f31eeb55922161c11f471ee8857aa19\output\AndroidManifest.xml:22:13-58

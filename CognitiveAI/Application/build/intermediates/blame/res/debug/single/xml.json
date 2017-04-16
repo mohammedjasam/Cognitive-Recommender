@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\detail_toolbar.xml",
+        "source": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\src\\main\\res\\xml\\detail_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\cloud_usage_toolbar.xml",
+        "source": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\src\\main\\res\\xml\\cloud_usage_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\src\\main\\res\\xml\\preferences.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Sun Apr 16 17:49:39 CDT 2017
+base.0=C\:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_49c0287f31ea2682b58489ecf68ac86e9d5db344
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c5065253e3b92ff21ddc8dc5d92b3acde215103c\\classes.dex
+base.1=C\:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c5065253e3b92ff21ddc8dc5d92b3acde215103c
+file.0=C\:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_49c0287f31ea2682b58489ecf68ac86e9d5db344\\classes.dex
