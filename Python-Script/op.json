@@ -1,111 +1,111 @@
 {
     "outputs": [
         {
-            "created_at": "2017-04-16T08:44:36.464255Z",
+            "created_at": "2017-04-16T09:36:23.36862Z", 
             "data": {
                 "concepts": [
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "drinker",
-                        "name": "drinker",
-                        "value": 0.41741046
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "smoker", 
+                        "name": "smoker", 
+                        "value": 0.09573873
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "smoker",
-                        "name": "smoker",
-                        "value": 0.29704827
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "student", 
+                        "name": "student", 
+                        "value": 0.06514615
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "student",
-                        "name": "student",
-                        "value": 0.026805611
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "drinker", 
+                        "name": "drinker", 
+                        "value": 0.04783502
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "professional",
-                        "name": "professional",
-                        "value": 0.022501392
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "friends", 
+                        "name": "friends", 
+                        "value": 0.04194077
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "formal",
-                        "name": "formal",
-                        "value": 0.017543368
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "professional", 
+                        "name": "professional", 
+                        "value": 0.035207856
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "friends",
-                        "name": "friends",
-                        "value": 0.016493319
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "formal", 
+                        "name": "formal", 
+                        "value": 0.022502627
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "single",
-                        "name": "single",
-                        "value": 0.011390051
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "single", 
+                        "name": "single", 
+                        "value": 0.01732578
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "informal",
-                        "name": "informal",
-                        "value": 0.0099157905
-                    },
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "informal", 
+                        "name": "informal", 
+                        "value": 0.016423132
+                    }, 
                     {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                        "id": "family",
-                        "name": "family",
-                        "value": 0.0039602495
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "family", 
+                        "name": "family", 
+                        "value": 0.0029485954
                     }
                 ]
-            },
-            "id": "cb9f0e8d68a6461c80a7508653139002",
+            }, 
+            "id": "aea77dcfc95b482799a6bd33d3d2dc2e", 
             "input": {
                 "data": {
                     "image": {
-                        "url": "https://s3.amazonaws.com/clarifai-api/img/prod/cf1ef7de61994e2da2bbaa59aaddb77b/cc4ebb99c9ae4c9cb405a2d9de0ec872.jpeg"
+                        "url": "https://firebasestorage.googleapis.com/v0/b/cognitive-recommender.appspot.com/o/smoking-cigarette.jpg?alt=media"
                     }
-                },
-                "id": "e53c67f322b44c4aba12a31f56c71c18"
-            },
+                }, 
+                "id": "d3dec3475e5f478196145a99bde32367"
+            }, 
             "model": {
-                "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b",
-                "created_at": "2017-04-14T22:37:55.221649Z",
-                "id": "ProfileGen",
+                "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                "created_at": "2017-04-14T22:37:55.221649Z", 
+                "id": "ProfileGen", 
                 "model_version": {
-                    "active_concept_count": 9,
-                    "created_at": "2017-04-16T07:25:26.709337Z",
-                    "id": "bc2460d8e0b24d36b28e2876cfd869e5",
+                    "active_concept_count": 9, 
+                    "created_at": "2017-04-16T07:25:26.709337Z", 
+                    "id": "bc2460d8e0b24d36b28e2876cfd869e5", 
                     "metrics_status": {
-                        "code": 21302,
+                        "code": 21302, 
                         "description": "Model is not yet evaluated."
-                    },
-                    "multiclass_metrics": null,
+                    }, 
+                    "multiclass_metrics": null, 
                     "status": {
-                        "code": 21100,
+                        "code": 21100, 
                         "description": "Model trained successfully"
                     }
-                },
-                "name": "ProfileGen",
+                }, 
+                "name": "ProfileGen", 
                 "output_info": {
-                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "message": "Show output_info with: GET /models/{model_id}/output_info", 
                     "output_config": {
-                        "closed_environment": false,
+                        "closed_environment": false, 
                         "concepts_mutually_exclusive": false
-                    },
-                    "type": "concept",
+                    }, 
+                    "type": "concept", 
                     "type_ext": "concept"
                 }
-            },
+            }, 
             "status": {
-                "code": 10000,
+                "code": 10000, 
                 "description": "Ok"
             }
         }
-    ],
+    ], 
     "status": {
-        "code": 10000,
+        "code": 10000, 
         "description": "Ok"
     }
 }
