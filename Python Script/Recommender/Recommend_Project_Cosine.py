@@ -11,13 +11,14 @@ from scipy.spatial import distance
 from math import *
 import csv
 
-with open("/Users/manish/Documents/UniversityofMissouri/Spring2017/Spatial/Project/Start/userprofile_Jenny.csv", 'r') as csvfile:
+with open("userprofile_Jenny.csv", 'r') as csvfile:
     User_Profile = pd.read_csv(csvfile)
 
 
-with open("/Users/manish/Documents/UniversityofMissouri/Spring2017/Spatial/Project/Start/Testing_Binary.csv", 'r') as csvfile:
+with open("Testing_Binary.csv", 'r') as csvfile:
     Test_User_Profile = pd.read_csv(csvfile)
 distance_columns = ['smoker', 'drink_level', 'dress_preference', 'ambience', 'activity', 'budget']
+
 # Select only the numeric columns from the NBA dataset
 User_numeric = User_Profile[distance_columns]
 
@@ -55,12 +56,17 @@ second_smallest = distance_frame.iloc[1]["idx"]
 third_smallest = distance_frame.iloc[2]["idx"]
 fourth_smallest = distance_frame.iloc[3]["idx"]
 fifth_smallest = distance_frame.iloc[4]["idx"]
+sixth_smallest = distance_frame.iloc[5]["idx"]
+
 most_similar_to_selected_user = User_Profile.loc[int(second_smallest)]["userID"]
 thirdmost_similar_to_selected_user = User_Profile.loc[int(third_smallest)]["userID"]
 fourthmost_similar_to_selected_user = User_Profile.loc[int(fourth_smallest)]["userID"]
 fifthmost_similar_to_selected_user = User_Profile.loc[int(fifth_smallest)]["userID"]
+sixthmost_similar_to_selected_user = User_Profile.loc[int(sixth_smallest)]["userID"]
+
 
 print(most_similar_to_selected_user)
 print(thirdmost_similar_to_selected_user)
 print(fourthmost_similar_to_selected_user)
 print(fifthmost_similar_to_selected_user)
+print(sixthmost_similar_to_selected_user)
