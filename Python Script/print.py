@@ -29,7 +29,6 @@ for x in ll:
     d[x['name']]=x['value']*100
     print(x['name'],str(x['value']*100)+"%")
     # db.child('User').child('1').push('{'+x['name']+':'+str(x['value']*100)+"%"+'}')
-# print(d)
 finalList = {}
 
 
@@ -98,5 +97,23 @@ elif finalList['activity']==1 and finalList['ambience']==2 and finalList['dress_
     finalList['budget']=2
 
 print(finalList)
-# print(finalList)
 db.child('User').push(finalList)
+
+import csv
+
+def get_last_row(csv_filename):
+    with open(csv_filename, 'r') as f:
+        lastrow = None
+        for lastrow in csv.reader(f): pass
+        s=lastrow[0]
+        n=int(s[1:])+1
+        s=s[0]+str(n)
+        return s
+testdata=r'C:/Users/Stark/Desktop/Programming/Android Development/CognitiveRecommender/Python Script/Recommender/Testing_Binary.csv'
+s=get_last_row(testdata)
+
+for x in finalList.values():
+    s+=','+str(x)
+fd = open(testdata,'a')
+fd.write(s+'\n')
+fd.close()
