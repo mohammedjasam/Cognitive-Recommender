@@ -70,6 +70,8 @@ if finalList['dress_preference']==1:
     finalList['budget']=1
 else:
     finalList['budget']=0
+
+    
 # resolving family vs friends when students are encountered
 if finalList['ambience']==0 and finalList['activity']==0:
     finalList['ambience']=1
