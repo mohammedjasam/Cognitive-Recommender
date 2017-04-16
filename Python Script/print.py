@@ -27,9 +27,9 @@ ll = data['outputs'][0]['data']['concepts']
 d={}
 for x in ll:
     d[x['name']]=x['value']*100
-    # print(x['name'],str(x['value']*100)+"%")
+    print(x['name'],str(x['value']*100)+"%")
     # db.child('User').child('1').push('{'+x['name']+':'+str(x['value']*100)+"%"+'}')
-print(d)
+# print(d)
 finalList = {}
 
 
@@ -70,7 +70,9 @@ if finalList['dress_preference']==1:
     finalList['budget']=1
 else:
     finalList['budget']=0
-# print(finalList)
+# resolving family vs friends when students are encountered
+if finalList['ambience']==0 and finalList['activity']==0:
+    finalList['ambience']=1
 #### is a student and single and formal ==> med
 if finalList['activity']==0 and finalList['ambience']==2 and finalList['dress_preference']==1:
     finalList['budget']=1
