@@ -14,15 +14,8 @@ storage  = firebase.storage()
 db = firebase.database()
 
 users = db.child('darklordofasgard').get()
-
-# print(users.val())
-
 d=dict(users.val())
 print(d['url']+' ----------------->in firebase_new')
 
 s= d['url']
 os.system("main.py "+s)
-
-
-# def get_lastUID():
-#     return d['timeStamp']
