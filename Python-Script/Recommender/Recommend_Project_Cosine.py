@@ -107,7 +107,7 @@ new=list(set(Restraunts))
 
 for x in new:
     old.remove(x)
-print("The Similar Restraunts among the Similar Users!")
+print("The common Restraunts among the Similar Users!")
 print("===============================================\n")
 common = old
 for x in common:

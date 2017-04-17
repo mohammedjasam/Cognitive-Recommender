@@ -13,9 +13,11 @@ firebase = pyrebase.initialize_app(config)
 storage  = firebase.storage()
 db = firebase.database()
 
+
+# set the child to the respective user!
 users = db.child('darklordofasgard').get()
 d=dict(users.val())
-print(d['url']+' ----------------->in firebase_new')
+print("The URL of the Image\n"+d['url'])
 
 s= d['url']
 os.system("main.py "+s)
