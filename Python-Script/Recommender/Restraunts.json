@@ -39,12 +39,62 @@
         "Cenaduria El Rincón de Tlaquepaque",
         "don burguers"
     ],
-    "U1117": [
-        "El Oceano Dorado",
-        "Cafeteria cenidet",
-        "Arrachela Grill",
+    "U1087": [
+        "Carreton de Flautas y Migadas",
+        "Taqueria EL amigo ",
+        "vips",
+        "tacos abi",
+        "puesto de gorditas",
+        "tacos de barbacoa enfrente del Tec",
+        "carnitas mata calle Emilio Portes Gil",
+        "little pizza Emilio Portes Gil"
+    ],
+    "U1043": [
+        "Taqueria EL amigo ",
+        "palomo tec",
+        "carnitas_mata",
+        "Hamburguesas La perica",
+        "Pollo_Frito_Buenos_Aires"
+    ],
+    "U1082": [
+        "Little Cesarz",
+        "Taqueria EL amigo ",
+        "palomo tec",
+        "tacos abi",
+        "carnitas_mata",
+        "Hamburguesas La perica",
+        "Pollo_Frito_Buenos_Aires",
+        "puesto de gorditas",
+        "tacos de barbacoa enfrente del Tec"
+    ],
+    "U1109": [
+        "puesto de tacos",
+        "Tortas Locas Hipocampo",
+        "La Virreina",
+        "Cafeteria y Restaurant El Pacifico",
+        "Restaurant Oriental Express",
+        "Restaurante Tiberius",
+        "Restaurant la Chalita",
+        "Restaurante Alhondiga",
+        "Unicols Pizza",
+        "Pizzeria Julios"
+    ],
+    "U1040": [
+        "Restaurant Bar Coty y Pablo",
         "El cotorreo",
-        "Restaurant los Pinos",
-        "Mikasa"
+        "Kiku Cuernavaca",
+        "Giovannis"
+    ],
+    "U1101": [
+        "Restaurant de Mariscos de Picon",
+        "Restaurante Versalles",
+        "El Rincn de San Francisco",
+        "La Cantina Restaurante",
+        "Luna Cafe",
+        "Cafeteria y Restaurant El Pacifico",
+        "Restaurant la Chalita",
+        "Unicols Pizza",
+        "Restaurante Bar El Gallinero",
+        "Restaurant Orizatlan"
     ]
 }
