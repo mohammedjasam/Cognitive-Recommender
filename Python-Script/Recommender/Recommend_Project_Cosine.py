@@ -22,7 +22,15 @@ with open("userprofile_Jenny.csv", 'r') as csvfile:
 with open("Testing_Binary.csv", 'r') as csvfile:
     Test_User_Profile = pd.read_csv(csvfile)
 
+df = pd.read_csv('userprofile_Jenny.csv')
+df1 = pd.read_csv('rating_final.csv')
+df2 = pd.read_csv('geoplaces2.csv')
 
+
+df2_select = df2[['placeID','name']]
+df1_select = df1[['userID', 'placeID']]
+user_restaurant = pd.merge(df,df1_select)
+user_restaurant_final = pd.merge(user_restaurant,df2_select)
 
 
 def get_lastUID(csv_filename):
@@ -69,7 +77,11 @@ distance_frame.sort("dist", inplace=True)
 Users=[]
 Restraunts = []
 UserRes={}
-for i in range(10):
+
+
+
+
+for i in range(5):
     d=distance_frame.iloc[i+1]["idx"]
     u=User_Profile.loc[int(d)]['userID']
     r=user_restaurant_final.loc[user_restaurant_final['userID'] == u]
@@ -78,12 +90,44 @@ for i in range(10):
     UserRes[u]=list(r['name'])
 
 
-print("\n\n")
-
-
-print(Users)
+print("\n")
+print("===================================")
+print("||The User Being tested is: "+ get_lastUID("Testing_Binary.csv")+"||")
+print("===================================")
 print()
-print(Restraunts)
-print("\n\n")
-for k,v in UserRes.items():
-    print(k,v)
+print("The following are the top 5 Users similar to the user in the picture and their corresponding restaurant choices!")
+print("================================================================================================================\n")
+# print(Users)
+# print()
+# print(Restraunts)
+# print("\n")
+# print()
+# print(len(Restraunts))
+# print()
+# print(len(set(Restraunts)))
+#
+import json
+
+# # load from file:
+# with open('/path/to/my_file.json', 'r') as f:
+#     try:
+#         data = json.load(f)
+#     # if the file is empty the ValueError will be thrown
+#     except ValueError:
+#         data = {}
+
+# save to file:
+sss=json.dumps(UserRes)#, indent=4, sort_keys=True)
+# print(sss)
+with open('Restraunts.json', 'w') as f:
+    json.dump(UserRes,f,indent=4,ensure_ascii=False)
+    # print(sss,f)
+#     # data['new_key'] = [1, 2, 3]
+#     sss=json.dump(UserRes,indent=4, sort_keys=True)
+#
+#     json.dump(UserRes,indent=4, sort_keys=True, f)
+# #
+# with open('Restraunts.csv','w') as f:
+#     # for k,v in UserRes.items():
+#     #     print((k,v),f)
+#     print(Restraunts,f)
