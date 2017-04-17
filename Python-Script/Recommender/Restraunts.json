@@ -1,4 +1,11 @@
 {
+    "U1066": [
+        "Restaurant Familiar El Chino",
+        "Restaurant Bar Coty y Pablo",
+        "Kiku Cuernavaca",
+        "Giovannis",
+        "Los Vikingos"
+    ],
     "U1115": [
         "Rincon Huasteco",
         "El Herradero Restaurante and Bar",
@@ -20,13 +27,6 @@
         "Restaurante El Reyecito",
         "la Cochinita Pibil Restaurante Yucateco",
         "Restaurante la Parroquia Potosina"
-    ],
-    "U1066": [
-        "Restaurant Familiar El Chino",
-        "Restaurant Bar Coty y Pablo",
-        "Kiku Cuernavaca",
-        "Giovannis",
-        "Los Vikingos"
     ],
     "U1120": [
         "Tortas Locas Hipocampo",
@@ -79,12 +79,6 @@
         "Unicols Pizza",
         "Pizzeria Julios"
     ],
-    "U1040": [
-        "Restaurant Bar Coty y Pablo",
-        "El cotorreo",
-        "Kiku Cuernavaca",
-        "Giovannis"
-    ],
     "U1101": [
         "Restaurant de Mariscos de Picon",
         "Restaurante Versalles",
@@ -96,5 +90,12 @@
         "Unicols Pizza",
         "Restaurante Bar El Gallinero",
         "Restaurant Orizatlan"
+    ],
+    "U1102": [
+        "Hamburguesas Valle Dorado",
+        "Sirlone",
+        "el lechon potosino ",
+        "Tortas y hamburguesas el gordo",
+        "don burguers"
     ]
 }
