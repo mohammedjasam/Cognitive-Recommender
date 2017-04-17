@@ -13,12 +13,17 @@ import csv
 import os
 dir_path = os.path.dirname(os.path.realpath(__file__))
 os.chdir(dir_path)
+
+
+
 with open("userprofile_Jenny.csv", 'r') as csvfile:
     User_Profile = pd.read_csv(csvfile)
 
-
 with open("Testing_Binary.csv", 'r') as csvfile:
     Test_User_Profile = pd.read_csv(csvfile)
+
+
+
 
 def get_lastUID(csv_filename):
     with open(csv_filename, 'r') as f:
@@ -61,23 +66,24 @@ distance_frame.sort("dist", inplace=True)
 
 # sns.heatmap(distance_frame['dist'])
 # plt.show()
-
-# Find the most similar user to selected user (the lowest distance to lebron is lebron, the second smallest is the most similar non-lebron player)
-second_smallest = distance_frame.iloc[1]["idx"]
-third_smallest = distance_frame.iloc[2]["idx"]
-fourth_smallest = distance_frame.iloc[3]["idx"]
-fifth_smallest = distance_frame.iloc[4]["idx"]
-sixth_smallest = distance_frame.iloc[5]["idx"]
-
-most_similar_to_selected_user = User_Profile.loc[int(second_smallest)]["userID"]
-thirdmost_similar_to_selected_user = User_Profile.loc[int(third_smallest)]["userID"]
-fourthmost_similar_to_selected_user = User_Profile.loc[int(fourth_smallest)]["userID"]
-fifthmost_similar_to_selected_user = User_Profile.loc[int(fifth_smallest)]["userID"]
-sixthmost_similar_to_selected_user = User_Profile.loc[int(sixth_smallest)]["userID"]
+Users=[]
+Restraunts = []
+UserRes={}
+for i in range(10):
+    d=distance_frame.iloc[i+1]["idx"]
+    u=User_Profile.loc[int(d)]['userID']
+    r=user_restaurant_final.loc[user_restaurant_final['userID'] == u]
+    Users.append(u)
+    Restraunts+=list(r['name'])
+    UserRes[u]=list(r['name'])
 
 
-print(most_similar_to_selected_user)
-print(thirdmost_similar_to_selected_user)
-print(fourthmost_similar_to_selected_user)
-print(fifthmost_similar_to_selected_user)
-print(sixthmost_similar_to_selected_user)
+print("\n\n")
+
+
+print(Users)
+print()
+print(Restraunts)
+print("\n\n")
+for k,v in UserRes.items():
+    print(k,v)
