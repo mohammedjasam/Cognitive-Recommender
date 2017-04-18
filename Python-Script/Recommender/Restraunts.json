@@ -1,101 +1,90 @@
 {
-    "U1066": [
-        "Restaurant Familiar El Chino",
-        "Restaurant Bar Coty y Pablo",
-        "Kiku Cuernavaca",
-        "Giovannis",
-        "Los Vikingos"
-    ],
-    "U1115": [
-        "Rincon Huasteco",
-        "El Herradero Restaurante and Bar",
-        "Potzocalli",
-        "Abondance Restaurante Bar",
-        "Restaurante y Pescaderia Tampico",
-        "Restaurante la Cantina",
-        "la Estrella de Dimas",
-        "Restaurante 75"
-    ],
-    "U1136": [
-        "crudalia",
-        "La Posada del Virrey",
-        "Restaurante El Chivero S.A. de C.V.",
-        "La Virreina",
-        "tacos los volcanes",
-        "Restaurante Bar Fu-hao",
-        "Sushi Itto",
-        "Restaurante El Reyecito",
-        "la Cochinita Pibil Restaurante Yucateco",
-        "Restaurante la Parroquia Potosina"
-    ],
-    "U1120": [
-        "Tortas Locas Hipocampo",
-        "Restaurante la Gran Via",
-        "Cafeteria y Restaurant El Pacifico",
-        "El Herradero Restaurante and Bar",
-        "la Cantina",
-        "Restaurant la Chalita",
-        "el lechon potosino ",
-        "Cenaduria El Rincón de Tlaquepaque",
-        "don burguers"
-    ],
-    "U1087": [
-        "Carreton de Flautas y Migadas",
-        "Taqueria EL amigo ",
-        "vips",
-        "tacos abi",
-        "puesto de gorditas",
-        "tacos de barbacoa enfrente del Tec",
-        "carnitas mata calle Emilio Portes Gil",
-        "little pizza Emilio Portes Gil"
-    ],
-    "U1043": [
-        "Taqueria EL amigo ",
-        "palomo tec",
-        "carnitas_mata",
-        "Hamburguesas La perica",
-        "Pollo_Frito_Buenos_Aires"
-    ],
-    "U1082": [
-        "Little Cesarz",
-        "Taqueria EL amigo ",
-        "palomo tec",
-        "tacos abi",
-        "carnitas_mata",
-        "Hamburguesas La perica",
-        "Pollo_Frito_Buenos_Aires",
-        "puesto de gorditas",
-        "tacos de barbacoa enfrente del Tec"
-    ],
-    "U1109": [
+    "U1114": [
         "puesto de tacos",
-        "Tortas Locas Hipocampo",
-        "La Virreina",
-        "Cafeteria y Restaurant El Pacifico",
-        "Restaurant Oriental Express",
+        "Gordas de morales",
+        "La Estrella de Dimas",
+        "Cabana Huasteca",
         "Restaurante Tiberius",
-        "Restaurant la Chalita",
-        "Restaurante Alhondiga",
-        "Unicols Pizza",
+        "Gorditas Doa Gloria",
+        "La Fontana Pizza Restaurante and Cafe",
+        "El angel Restaurante",
+        "Sushi Itto",
+        "VIPS",
         "Pizzeria Julios"
     ],
-    "U1101": [
+    "U1028": [
+        "Carreton de Flautas y Migadas",
+        "Little Cesarz",
+        "Taqueria EL amigo ",
+        "vips",
+        "palomo tec",
+        "tacos abi",
+        "carnitas_mata"
+    ],
+    "U1047": [
+        "shi ro ie",
+        "dairy queen",
+        "sirloin stockade"
+    ],
+    "U1067": [
+        "Little Cesarz",
+        "Taqueria EL amigo ",
+        "vips",
+        "palomo tec",
+        "puesto de gorditas",
+        "Gorditas Dona Tota"
+    ],
+    "U1133": [
+        "Vips",
+        "Restaurant and Bar and Clothesline Carlos N Charlies",
+        "Restaurant Las Mananitas",
+        "Rincon del Bife",
+        "Restaurant Familiar El Chino",
+        "Restaurant Bar Coty y Pablo",
+        "Subway",
+        "Restaurant Teely",
+        "Mikasa"
+    ],
+    "U1011": [
+        "tortas hawai",
+        "churchs",
+        "tacos de la estacion"
+    ],
+    "U1005": [
+        "Rincon Huasteco",
+        "Luna Cafe",
+        "Cafeteria y Restaurant El Pacifico",
+        "Restaurante la Estrella de Dima",
+        "Restaurante Pueblo Bonito",
+        "Restaurante Guerra",
+        "El Herradero Restaurante and Bar",
+        "pizza clasica",
+        "Restaurant Oriental Express"
+    ],
+    "U1110": [
+        "Restaurant Familiar El Chino",
+        "Kiku Cuernavaca",
+        "Giovannis",
+        "Subway"
+    ],
+    "U1040": [
+        "Restaurant Bar Coty y Pablo",
+        "El cotorreo",
+        "Kiku Cuernavaca",
+        "Giovannis"
+    ],
+    "U1104": [
+        "puesto de tacos",
+        "Tortas Locas Hipocampo",
         "Restaurant de Mariscos de Picon",
-        "Restaurante Versalles",
-        "El Rincn de San Francisco",
+        "Restaurant El Muladar de Calzada",
+        "El Rincon de San Francisco",
+        "Restaurante El Cielo Potosino",
         "La Cantina Restaurante",
         "Luna Cafe",
         "Cafeteria y Restaurant El Pacifico",
-        "Restaurant la Chalita",
-        "Unicols Pizza",
-        "Restaurante Bar El Gallinero",
-        "Restaurant Orizatlan"
-    ],
-    "U1102": [
-        "Hamburguesas Valle Dorado",
-        "Sirlone",
-        "el lechon potosino ",
-        "Tortas y hamburguesas el gordo",
-        "don burguers"
+        "Preambulo Wifi Zone Cafe",
+        "Gorditas Doa Gloria",
+        "Restaurante Casa de las Flores"
     ]
 }

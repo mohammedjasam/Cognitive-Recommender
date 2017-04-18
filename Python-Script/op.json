@@ -1,73 +1,73 @@
 {
     "outputs": [
         {
-            "created_at": "2017-04-17T20:52:03.782304Z", 
+            "created_at": "2017-04-18T00:02:27.691694Z", 
             "data": {
                 "concepts": [
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "student", 
                         "name": "student", 
-                        "value": 0.04864817
+                        "value": 0.059596892
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "informal", 
                         "name": "informal", 
-                        "value": 0.030452853
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "single", 
-                        "name": "single", 
-                        "value": 0.029478187
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "professional", 
-                        "name": "professional", 
-                        "value": 0.026653403
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "smoker", 
-                        "name": "smoker", 
-                        "value": 0.024448019
+                        "value": 0.056613322
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "friends", 
                         "name": "friends", 
-                        "value": 0.022881223
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "drinker", 
-                        "name": "drinker", 
-                        "value": 0.016885053
+                        "value": 0.040620588
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "formal", 
                         "name": "formal", 
-                        "value": 0.013232892
+                        "value": 0.032315347
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "professional", 
+                        "name": "professional", 
+                        "value": 0.023041107
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "single", 
+                        "name": "single", 
+                        "value": 0.015278631
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "drinker", 
+                        "name": "drinker", 
+                        "value": 0.011850663
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "smoker", 
+                        "name": "smoker", 
+                        "value": 0.0098035475
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "family", 
                         "name": "family", 
-                        "value": 0.007789664
+                        "value": 0.0070286714
                     }
                 ]
             }, 
-            "id": "ff11c3417f594dd282dd1f2a3a15c49a", 
+            "id": "ba464cd69aff4f3c9ef497b54c83e9bc", 
             "input": {
                 "data": {
                     "image": {
-                        "url": "https://firebasestorage.googleapis.com/v0/b/cameraapp-6a5ab.appspot.com/o/darklordofasgard%2F15188305193941?alt=media"
+                        "url": "https://firebasestorage.googleapis.com/v0/b/cameraapp-6a5ab.appspot.com/o/darklordofasgard%2F26345870470730?alt=media"
                     }
                 }, 
-                "id": "d90ca0e6714b4ea4a30ca53b68bdcfa2"
+                "id": "f3b5cf0a35e74b118e735f86facfc65f"
             }, 
             "model": {
                 "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
