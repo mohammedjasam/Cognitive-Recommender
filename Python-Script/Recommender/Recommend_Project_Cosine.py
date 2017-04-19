@@ -79,7 +79,7 @@ Restraunts = []
 UserRes={}
 
 noOfUsers=0
-for i in range(10):
+for i in range(5):
     d=distance_frame.iloc[i+1]["idx"]
     u=User_Profile.loc[int(d)]['userID']
     r=user_restaurant_final.loc[user_restaurant_final['userID'] == u]

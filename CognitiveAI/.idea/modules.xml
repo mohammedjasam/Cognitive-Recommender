@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AmberCam.iml" filepath="$PROJECT_DIR$/AmberCam.iml" />
       <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CognitiveAI.iml" filepath="$PROJECT_DIR$/CognitiveAI.iml" />
     </modules>
   </component>
 </project>

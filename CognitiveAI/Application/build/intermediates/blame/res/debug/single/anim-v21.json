@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\7cdcc9c99446ed514419d5038240163e2ce4bfff\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\7cdcc9c99446ed514419d5038240163e2ce4bfff\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\7cdcc9c99446ed514419d5038240163e2ce4bfff\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\7cdcc9c99446ed514419d5038240163e2ce4bfff\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     }
 ]

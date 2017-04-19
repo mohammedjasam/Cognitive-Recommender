@@ -1,50 +1,50 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:17:1-78:12
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:17:1-78:12
 	package
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:17:11-54
-		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:17:11-54
+		INJECTED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:18:11-69
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:18:11-69
 	android:versionCode
-		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:20:5-64
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:20:5-64
 	android:name
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:20:22-62
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:20:22-62
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:21:5-66
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:21:5-66
 MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:21:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Stark\.android\build-cache\1fa7e06b2e35bfdbde4312f1d9d2df47caaa575f\output\AndroidManifest.xml:21:5-67
 MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:21:22-64
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:21:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:22:5-78
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:22:5-78
 MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Stark\.android\build-cache\1fa7e06b2e35bfdbde4312f1d9d2df47caaa575f\output\AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Stark\.android\build-cache\9c113b6ef78b50ea58bacaba5ec882bf4d79066f\output\AndroidManifest.xml:20:5-79
 	android:name
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:22:22-76
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:22:22-76
 uses-feature#android.hardware.camera
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:24:5-59
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:24:5-59
 	android:name
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:24:19-57
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:24:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:25:5-69
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:25:5-69
 	android:name
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:25:19-67
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:25:19-67
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:27:5-65
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:27:5-65
 	android:name
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:27:22-63
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:27:22-63
 application
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:29:5-76:19
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:29:5-76:19
 MERGED from [com.android.support:support-v13:23.4.0] C:\Users\Stark\.android\build-cache\691c0daa95a7ebe490b4df1d4c408ade9cf2a0e8\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Stark\.android\build-cache\c52da307d99b80f5f7cff92de8eea7dba4473c34\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:23.4.0] C:\Users\Stark\.android\build-cache\7cdcc9c99446ed514419d5038240163e2ce4bfff\output\AndroidManifest.xml:22:5-20
@@ -65,85 +65,85 @@ MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Stark
 MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Stark\.android\build-cache\d1113baa639f0f9c8bd86519046752a4adcaeaf2\output\AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Stark\.android\build-cache\be6a9875acdecf87c5d9f654c9d51cfc65715219\output\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:32:9-42
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:32:9-42
 	android:allowBackup
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:30:9-35
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:30:9-35
 	android:icon
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:31:9-45
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:31:9-45
 	android:theme
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:33:9-45
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:33:9-45
 activity#com.ambercam.android.camera2basic.ui.GetStartedActivity
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:34:9-43:20
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:34:9-43:20
 	android:label
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:36:13-46
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:36:13-46
 	android:theme
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:37:13-49
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:37:13-49
 	android:name
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:35:13-50
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:35:13-50
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:38:13-42:29
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:38:13-42:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:39:17-68
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:39:17-68
 	android:name
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:39:25-66
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:39:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:41:17-76
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:41:17-76
 	android:name
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:41:27-74
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:41:27-74
 activity#com.ambercam.android.camera2basic.ui.CameraActivity
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:44:9-48:20
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:44:9-48:20
 	android:label
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:46:13-46
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:46:13-46
 	android:theme
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:47:13-49
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:47:13-49
 	android:name
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:45:13-46
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:45:13-46
 activity#com.ambercam.android.camera2basic.ui.CreateAccountActivity
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:49:9-54:20
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:49:9-54:20
 	android:label
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:51:13-66
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:51:13-66
 	android:parentActivityName
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:52:13-64
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:52:13-64
 	android:theme
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:53:13-49
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:53:13-49
 	android:name
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:50:13-53
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:50:13-53
 activity#com.ambercam.android.camera2basic.ui.GalleryActivity
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:55:9-59:20
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:55:9-59:20
 	android:label
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:57:13-59
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:57:13-59
 	android:theme
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:58:13-49
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:58:13-49
 	android:name
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:56:13-47
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:56:13-47
 activity#com.ambercam.android.camera2basic.ui.DetailActivity
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:60:9-65:20
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:60:9-65:20
 	android:label
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:62:13-58
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:62:13-58
 	android:parentActivityName
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:63:13-61
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:63:13-61
 	android:theme
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:64:13-49
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:64:13-49
 	android:name
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:61:13-46
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:61:13-46
 activity#com.ambercam.android.camera2basic.ui.UsageActivity
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:66:9-71:20
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:66:9-71:20
 	android:label
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:68:13-57
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:68:13-57
 	android:parentActivityName
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:69:13-60
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:69:13-60
 	android:theme
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:70:13-59
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:70:13-59
 	android:name
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:67:13-45
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:67:13-45
 activity#com.ambercam.android.camera2basic.ui.PreferenceActivity
-ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:72:9-75:20
+ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:72:9-75:20
 	android:label
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:74:13-62
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:74:13-62
 	android:name
-		ADDED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml:73:13-50
+		ADDED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml:73:13-50
 uses-sdk
-INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:support-v13:23.4.0] C:\Users\Stark\.android\build-cache\691c0daa95a7ebe490b4df1d4c408ade9cf2a0e8\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Stark\.android\build-cache\c52da307d99b80f5f7cff92de8eea7dba4473c34\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:design:23.4.0] C:\Users\Stark\.android\build-cache\7cdcc9c99446ed514419d5038240163e2ce4bfff\output\AndroidManifest.xml:20:5-43
@@ -174,11 +174,11 @@ MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Stark\.android\buil
 	tools:overrideLibrary
 		ADDED from [com.afollestad.material-dialogs:core:0.9.0.1] C:\Users\Stark\.android\build-cache\06777308e673a3ece42f7d4ece3a80cc19986c88\output\AndroidManifest.xml:11:9-72
 	android:targetSdkVersion
-		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Stark\Desktop\AmberCam\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stark\Desktop\Programming\Android-Development\CognitiveRecommender\CognitiveAI\Application\src\main\AndroidManifest.xml
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Stark\.android\build-cache\48a769468a6792cf8b097eb881dd6a1cc82caa03\output\AndroidManifest.xml:24:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Stark\.android\build-cache\1fa7e06b2e35bfdbde4312f1d9d2df47caaa575f\output\AndroidManifest.xml:24:5-67

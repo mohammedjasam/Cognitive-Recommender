@@ -1,218 +1,218 @@
 [
     {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_item_selected.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected_dark.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_btn_selected_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info_black_24dp.xml",
-        "source": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\7cdcc9c99446ed514419d5038240163e2ce4bfff\\output\\res\\drawable\\design_snackbar_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sync_black_24dp.xml",
-        "source": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\src\\main\\res\\drawable\\ic_sync_black_24dp.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.xml",
-        "source": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector_dark.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_selector_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_transparent.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_transparent.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\7cdcc9c99446ed514419d5038240163e2ce4bfff\\output\\res\\drawable\\design_fab_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected_dark.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_item_selected_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
-        "source": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\src\\main\\res\\drawable\\app_logo.png"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector_dark.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_btn_selector_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_btn_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected.xml",
-        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_btn_selected.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "C:\\Users\\Stark\\Desktop\\AmberCam\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected_dark.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_item_selected_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
+        "source": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_transparent.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector_dark.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info_black_24dp.xml",
+        "source": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected_dark.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\7cdcc9c99446ed514419d5038240163e2ce4bfff\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\7cdcc9c99446ed514419d5038240163e2ce4bfff\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sync_black_24dp.xml",
+        "source": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\src\\main\\res\\drawable\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_btn_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector_dark.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\06777308e673a3ece42f7d4ece3a80cc19986c88\\output\\res\\drawable\\md_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.xml",
+        "source": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\0e8a3b2fa2bc45911cda7e5a7a164ad9001a77c7\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stark\\Desktop\\Programming\\Android-Development\\CognitiveRecommender\\CognitiveAI\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Stark\\.android\\build-cache\\7425adb40a78da38375d0a4ac6522528f57e3742\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
     }
 ]

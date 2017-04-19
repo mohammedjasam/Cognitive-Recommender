@@ -101,6 +101,8 @@ import java.util.List;
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;
 
+import static com.ambercam.android.camera2basic.ui.GetStartedActivity.UID;
+
 public class Camera2BasicFragment extends Fragment
         implements View.OnClickListener, FragmentCompat.OnRequestPermissionsResultCallback {
 
@@ -123,7 +125,7 @@ public class Camera2BasicFragment extends Fragment
     private DrawerLayout mDrawerLayout;
     private FloatingActionButton mCameraChangeFab;
     private boolean mIsFacingFront;
-    private static int UID = 1152;
+    SharedPreferences staticUserCount;
     static {
         ORIENTATIONS.append(Surface.ROTATION_0, 90);
         ORIENTATIONS.append(Surface.ROTATION_90, 0);
@@ -1205,7 +1207,7 @@ public class Camera2BasicFragment extends Fragment
 
 //            mTimestamp = String.valueOf(mImage.getTimestamp());
 
-            mTimestamp = String.valueOf(UID++);
+            mTimestamp = String.valueOf(UID);
             try {
                 output = new FileOutputStream(mFile);
                 output.write(bytes);
@@ -1284,7 +1286,7 @@ public class Camera2BasicFragment extends Fragment
                                                String user,
                                                String url){
 
-            CloudImage cloudImage = new CloudImage(url, mTimestamp, UID);
+            CloudImage cloudImage = new CloudImage(url, mTimestamp);
 
             //reference to the main tree
             DatabaseReference reference = database.getReference(user);
@@ -1294,7 +1296,7 @@ public class Camera2BasicFragment extends Fragment
             reference.setValue(cloudImage);
             //sets a new value containing the url within the user unique tree
 //            subReference.setValue(cloudImage);
-//            UID++;
+            UID++;
         }
 
         public void updateImageCount(FirebaseDatabase database,

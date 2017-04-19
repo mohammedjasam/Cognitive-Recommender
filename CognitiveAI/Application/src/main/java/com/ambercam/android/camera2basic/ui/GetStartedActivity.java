@@ -3,8 +3,10 @@ package com.ambercam.android.camera2basic.ui;
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.app.Activity;
+import android.preference.PreferenceManager;
 import android.support.annotation.NonNull;
 import android.util.Log;
 import android.view.View;
@@ -24,6 +26,8 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
+import java.util.UUID;
+
 public class GetStartedActivity extends Activity {
 
     private EditText mEmailEditText;
@@ -35,10 +39,14 @@ public class GetStartedActivity extends Activity {
     private FirebaseAuth.AuthStateListener mAuthListener;
     private TextView mCreateTextView;
     private ImageView mIconImageView;
+    public static int UID = 1152;
+
+
 
     /**
      * LIFE CYCLE methods
      */
+    SharedPreferences staticUserCount;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -52,12 +60,24 @@ public class GetStartedActivity extends Activity {
 
         setLoginButtonListener();
         setCreateTextViewListener();
+
+        staticUserCount = PreferenceManager.getDefaultSharedPreferences(this);
+        UID = staticUserCount.getInt("Count",0);
+//        staticUserCount.edit();
+        
     }
 
     @Override
     public void onStart() {
         super.onStart();
         mAuth.addAuthStateListener(mAuthListener);
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        staticUserCount.edit().putInt("Count", UID);
+        staticUserCount.edit().apply();
     }
 
     @Override
