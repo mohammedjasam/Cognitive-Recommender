@@ -51,5 +51,16 @@ knn = KNeighborsClassifier(n_neighbors=5)
 knn.fit(User_Profile[x_columns], user_restaurant_final[y_column])
 # Make point predictions on the test set using the fit model.
 predictions = knn.predict(Test_User_Profile_final[x_columns])
+print()
+print("===================================")
+print("||Prediciton from kNN Classsifier||")
+print("===================================")
 
-print (predictions)
+for x in range(len(predictions)):
+    print ("%s. " %(x+1) + predictions.item(x))
+
+# print("||Prediciton from kNN Classsifier||")
+print("===================================")
+
+
+print()

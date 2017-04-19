@@ -121,7 +121,8 @@ s='U'+ UID.get_lastUID()
 
 for x in finalList.values():
     s+=','+str(x)
-fd = open(testdata,'a')
+fd = open(testdata,'w')
+fd.write("userID,smoker,drink_level,dress_preference,ambience,activity,budget\n")
 fd.write(s+'\n')
 fd.close()
 
