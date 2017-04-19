@@ -128,6 +128,19 @@ fd.close()
 import subprocess
 import os
 dir_path = os.path.dirname(os.path.realpath(__file__))
-dir_path+="/Recommender/Recommend_Project_Cosine.py"
-Recommender= 'python ' + dir_path
-subprocess.call(Recommender,shell=True)
+
+print(dir_path+ "\Recommender\ ")
+os.chdir(dir_path+ "\Recommender\ ")
+
+# DecisionPath = dir_path+"/Recommender/Recommend_Project_decision.py"
+# KNNPath = dir_path+"/Recommender/Recommend_Project_KNN.py"
+# RandomForestPath = dir_path+"/Recommender/Recommend_Project_decision_randomForest.py"
+#
+# Recommender= 'python ' + DecisionPath
+# subprocess.call('python Recommend_Project_decision.py',shell=True)
+
+# Recommender= 'python ' + KNNPath
+subprocess.call("python Recommend_Project_KNN.py",shell=True)
+
+# Recommender= 'python ' + RandomForestPath
+subprocess.call("python Recommend_Project_decision_randomForest.py",shell=True)
