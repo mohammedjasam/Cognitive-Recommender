@@ -1,73 +1,73 @@
 {
     "outputs": [
         {
-            "created_at": "2017-04-22T09:32:56.263769Z", 
+            "created_at": "2017-04-22T10:01:16.280825Z", 
             "data": {
                 "concepts": [
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "formal", 
+                        "name": "formal", 
+                        "value": 0.061223187
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "smoker", 
                         "name": "smoker", 
-                        "value": 0.060357757
+                        "value": 0.037956815
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "professional", 
                         "name": "professional", 
-                        "value": 0.046239015
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "drinker", 
-                        "name": "drinker", 
-                        "value": 0.04081176
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "student", 
-                        "name": "student", 
-                        "value": 0.028260173
+                        "value": 0.031583495
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "single", 
                         "name": "single", 
-                        "value": 0.025645185
+                        "value": 0.027087819
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "drinker", 
+                        "name": "drinker", 
+                        "value": 0.023696074
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "informal", 
                         "name": "informal", 
-                        "value": 0.017602386
+                        "value": 0.02295844
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "formal", 
-                        "name": "formal", 
-                        "value": 0.01620681
+                        "id": "student", 
+                        "name": "student", 
+                        "value": 0.018153166
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "friends", 
                         "name": "friends", 
-                        "value": 0.015929248
+                        "value": 0.012629259
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "family", 
                         "name": "family", 
-                        "value": 0.0055957804
+                        "value": 0.005943624
                     }
                 ]
             }, 
-            "id": "d7410da081654c729fd5a090afab9fcb", 
+            "id": "b2e76de1a94341aca6f23044dc101be5", 
             "input": {
                 "data": {
                     "image": {
-                        "url": "https://firebasestorage.googleapis.com/v0/b/cameraapp-6a5ab.appspot.com/o/darklordofasgard%2F155333379059859?alt=media"
+                        "url": "https://firebasestorage.googleapis.com/v0/b/cameraapp-6a5ab.appspot.com/o/darklordofasgard%2F158251179749251?alt=media"
                     }
                 }, 
-                "id": "d6979d03fd394f52904c638e79bad6ec"
+                "id": "c8333bcbe7794ec7a4ac5b698c9c0526"
             }, 
             "model": {
                 "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 

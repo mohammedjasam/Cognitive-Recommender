@@ -18,11 +18,11 @@ import UID
 # os.chdir(dir_path)
 
 # ll='37.9485,-91.7715'
-'''s='37.9485° N, 91.7715° W'
+s="17.3850° N, 78.4867° E" #NYC
 la,lo = s.split(',')
 la=la[:-3]
 lo=lo[1:-3]
-ll=la+",-"+lo'''
+ll=la+","+lo
 
 ### Creating a Client to Access the API
 client = foursquare.Foursquare(client_id='Q3JHJJ1TS1XOR0TK1LTF5OFJHQC4OTLHMBIK1GYOIYXORSMB', client_secret='C54VXQIUTU2PKCPZI3RJQICLYNLYKZQ40ST1T50PYN5YVHUO')
@@ -34,7 +34,7 @@ os.chdir(dir_path+'\\DataSets\\')
 
 ## Extracting the data by querying!
 with open('Restaurants.json', 'w') as f:
-    print(json.dumps(client.venues.search(params={'ll':UID.get_location(),'radius':'10000','categoryId':'4d4b7105d754a06374d81259'}),sort_keys=True, indent=4, separators=(',', ': ')),file=f)
+    print(json.dumps(client.venues.search(params={'ll':ll,'radius':'10000','categoryId':'4d4b7105d754a06374d81259'}),sort_keys=True, indent=4, separators=(',', ': ')),file=f)
 
 ### Displaying Results
 # dir_path = os.path.dirname(os.path.realpath(__file__))

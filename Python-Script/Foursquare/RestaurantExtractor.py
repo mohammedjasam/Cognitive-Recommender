@@ -8,15 +8,20 @@ l=[]
 names=[]
 
 
+print()
+print("=======================================================================================================================")
 
 with open('Restaurants.json') as data_file:
     data = json.load(data_file)
 
     data = dict(data)
     city=data['venues'][0]['location']['city']
+
     print("These are the Restaurants in %s:"%city)
+    print("=======================================================================================================================\n")
     for i in range(100):
         try:
+            city=data['venues'][0]['location']['city']
             x= data['venues'][i]['name']
             if x not in names:
                 names.append(data['venues'][i]['name'])
