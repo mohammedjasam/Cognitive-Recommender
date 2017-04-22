@@ -3,7 +3,7 @@ from foursquare import Foursquare
 import json
 
 client = foursquare.Foursquare(client_id='Q3JHJJ1TS1XOR0TK1LTF5OFJHQC4OTLHMBIK1GYOIYXORSMB', client_secret='C54VXQIUTU2PKCPZI3RJQICLYNLYKZQ40ST1T50PYN5YVHUO')
-key=['Restaurant','chicken','steak','pizza','veg']
+key=['Restaurant','chicken','steak','pizza']
 
 client.users('9650322')
 import os
