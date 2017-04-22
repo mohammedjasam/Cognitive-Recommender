@@ -9,63 +9,71 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/market_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
                         "suffix": ".png"
                     },
-                    "id": "50be8ee891d4fa8dcc7199a7",
-                    "name": "Market",
-                    "pluralName": "Markets",
+                    "id": "4bf58dd8d48988d1ca941735",
+                    "name": "Pizza Place",
+                    "pluralName": "Pizza Places",
                     "primary": true,
-                    "shortName": "Market"
+                    "shortName": "Pizza"
                 }
             ],
             "contact": {
-                "formattedPhone": "(212) 897-2895",
-                "phone": "2128972895"
+                "formattedPhone": "(573) 364-2669",
+                "phone": "5733642669"
             },
+            "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
                 "count": 0,
                 "groups": [],
                 "summary": "Nobody here"
             },
-            "id": "579c12cd498e6e815b3acf50",
+            "id": "4b7c45c6f964a520ca882fe3",
             "location": {
-                "address": "101 Liberty St",
+                "address": "122 W 8th St",
                 "cc": "US",
-                "city": "New York",
+                "city": "Rolla",
                 "country": "United States",
-                "crossStreet": "btwn Church & Greenwich St",
-                "distance": 583,
+                "crossStreet": "at Pine St.",
+                "distance": 177,
                 "formattedAddress": [
-                    "101 Liberty St (btwn Church & Greenwich St)",
-                    "New York, NY 10007",
+                    "122 W 8th St (at Pine St.)",
+                    "Rolla, MO 65401",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 40.710035993084155,
-                        "lng": -74.01178121566772
+                        "lat": 37.950059996024244,
+                        "lng": -91.77110958800581
                     }
                 ],
-                "lat": 40.710035993084155,
-                "lng": -74.01178121566772,
-                "postalCode": "10007",
-                "state": "NY"
+                "lat": 37.950059996024244,
+                "lng": -91.77110958800581,
+                "postalCode": "65401",
+                "state": "MO"
             },
-            "name": "Eataly Downtown",
-            "referralId": "v-1492835551",
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4b7c45c6f964a520ca882fe3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/alexs-pizza/4b7c45c6f964a520ca882fe3/menu"
+            },
+            "name": "Alex's Pizza",
+            "referralId": "v-1492836180",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 6694,
-                "tipCount": 57,
-                "usersCount": 4259
+                "checkinsCount": 1307,
+                "tipCount": 30,
+                "usersCount": 625
             },
-            "url": "https://www.eataly.com/us_en/stores/nycdowntown",
+            "url": "http://www.alexspizza.com/",
             "venueChains": [],
             "verified": false
         },
@@ -77,85 +85,208 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
                         "suffix": ".png"
                     },
-                    "id": "56aa371be4b08b9a8d573538",
-                    "name": "Theme Restaurant",
-                    "pluralName": "Theme Restaurants",
+                    "id": "4bf58dd8d48988d1c1941735",
+                    "name": "Mexican Restaurant",
+                    "pluralName": "Mexican Restaurants",
                     "primary": true,
-                    "shortName": "Theme Restaurant"
+                    "shortName": "Mexican"
                 }
             ],
-            "contact": {
-                "facebook": "50401128319",
-                "facebookName": "Hard Rock",
-                "facebookUsername": "hardrock",
-                "formattedPhone": "(212) 343-3355",
-                "phone": "2123433355",
-                "twitter": "hardrock"
-            },
-            "delivery": {
-                "id": "20816",
-                "provider": {
-                    "name": "seamless"
-                },
-                "url": "http://www.seamless.com/food-delivery/restaurant.20816.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink"
-            },
+            "contact": {},
             "hasPerk": false,
             "hereNow": {
-                "count": 3,
-                "groups": [
-                    {
-                        "count": 3,
-                        "items": [],
-                        "name": "Other people here",
-                        "type": "others"
-                    }
-                ],
-                "summary": "3 people are here"
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
             },
-            "id": "428a8580f964a52083231fe3",
+            "id": "53374256498e1c57f2fe6fdc",
             "location": {
-                "address": "1501 Broadway",
                 "cc": "US",
-                "city": "New York",
+                "city": "Rolla",
                 "country": "United States",
-                "crossStreet": "at W 43rd St",
-                "distance": 5200,
+                "distance": 1937,
                 "formattedAddress": [
-                    "1501 Broadway (at W 43rd St)",
-                    "New York, NY 10036",
+                    "Rolla, MO",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 40.75718879075926,
-                        "lng": -73.98669719696045
+                        "lat": 37.93761015555853,
+                        "lng": -91.75427861342858
                     }
                 ],
-                "lat": 40.75718879075926,
-                "lng": -73.98669719696045,
-                "postalCode": "10036",
-                "state": "NY"
+                "lat": 37.93761015555853,
+                "lng": -91.75427861342858,
+                "state": "MO"
             },
-            "name": "Hard Rock Cafe New York",
-            "referralId": "v-1492835551",
+            "name": "Los Arcos",
+            "referralId": "v-1492836180",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 58356,
-                "tipCount": 555,
-                "usersCount": 46864
+                "checkinsCount": 84,
+                "tipCount": 8,
+                "usersCount": 49
             },
-            "storeId": "",
-            "url": "http://www.hardrock.com",
+            "venueChains": [],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1d0941735",
+                    "name": "Dessert Shop",
+                    "pluralName": "Dessert Shops",
+                    "primary": true,
+                    "shortName": "Desserts"
+                }
+            ],
+            "contact": {},
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4b64ff19f964a5206ade2ae3",
+            "location": {
+                "address": "601 Kingshighway St",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "crossStreet": "at 6th St.",
+                "distance": 334,
+                "formattedAddress": [
+                    "601 Kingshighway St (at 6th St.)",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.947962,
+                        "lng": -91.775246
+                    }
+                ],
+                "lat": 37.947962,
+                "lng": -91.775246,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4b64ff19f964a5206ade2ae3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/a-slice-of-pie/4b64ff19f964a5206ade2ae3/menu"
+            },
+            "name": "A Slice of Pie",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 555,
+                "tipCount": 20,
+                "usersCount": 349
+            },
+            "url": "http://asliceofpie.info",
+            "venueChains": [],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d16e941735",
+                    "name": "Fast Food Restaurant",
+                    "pluralName": "Fast Food Restaurants",
+                    "primary": true,
+                    "shortName": "Fast Food"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 364-7725",
+                "phone": "5733647725",
+                "twitter": "burgerking"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4b8814fbf964a5206cde31e3",
+            "location": {
+                "address": "1022 Kings Highway",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 931,
+                "formattedAddress": [
+                    "1022 Kings Highway",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.94571861119712,
+                        "lng": -91.78150244057178
+                    }
+                ],
+                "lat": 37.94571861119712,
+                "lng": -91.78150244057178,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4b8814fbf964a5206cde31e3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/burger-king/4b8814fbf964a5206cde31e3/menu"
+            },
+            "name": "Burger King",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 288,
+                "tipCount": 6,
+                "usersCount": 170
+            },
+            "storeId": "5357",
+            "url": "http://www.bk.com",
             "venueChains": [
                 {
-                    "id": "556a337ba7c8957d73d4b6b4"
+                    "id": "556d12d9aceaff43eb090cdb"
                 }
             ],
             "verified": true
@@ -168,72 +299,55 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/thai_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d157941735",
-                    "name": "New American Restaurant",
-                    "pluralName": "New American Restaurants",
+                    "id": "4bf58dd8d48988d149941735",
+                    "name": "Thai Restaurant",
+                    "pluralName": "Thai Restaurants",
                     "primary": true,
-                    "shortName": "New American"
+                    "shortName": "Thai"
                 }
             ],
-            "contact": {
-                "facebook": "1439553926375259",
-                "facebookName": "Union Fare",
-                "formattedPhone": "(212) 633-6003",
-                "phone": "2126336003"
-            },
+            "contact": {},
             "hasPerk": false,
             "hereNow": {
-                "count": 4,
-                "groups": [
-                    {
-                        "count": 4,
-                        "items": [],
-                        "name": "Other people here",
-                        "type": "others"
-                    }
-                ],
-                "summary": "4 people are here"
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
             },
-            "id": "5735dc3f498e1ac6a088f324",
+            "id": "542b3d80498e0cea6ba42bf3",
             "location": {
-                "address": "5 E 17th St",
                 "cc": "US",
-                "city": "New York",
+                "city": "Rolla",
                 "country": "United States",
-                "crossStreet": "btwn 5th Ave & Union Sq W",
-                "distance": 3014,
+                "distance": 1077,
                 "formattedAddress": [
-                    "5 E 17th St (btwn 5th Ave & Union Sq W)",
-                    "New York, NY 10003",
+                    "Rolla, MO",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 40.73761009868986,
-                        "lng": -73.99157989655953
+                        "lat": 37.94491441641601,
+                        "lng": -91.7828998886407
                     }
                 ],
-                "lat": 40.73761009868986,
-                "lng": -73.99157989655953,
-                "postalCode": "10003",
-                "state": "NY"
+                "lat": 37.94491441641601,
+                "lng": -91.7828998886407,
+                "state": "MO"
             },
-            "name": "Union Fare",
-            "referralId": "v-1492835551",
+            "name": "Sawadee Thai Restaurant",
+            "referralId": "v-1492836180",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 6356,
-                "tipCount": 77,
-                "usersCount": 3417
+                "checkinsCount": 50,
+                "tipCount": 5,
+                "usersCount": 27
             },
-            "url": "http://www.unionfare.com",
             "venueChains": [],
             "verified": false
         },
@@ -255,77 +369,50 @@
                     "shortName": "Coffee Shop"
                 }
             ],
-            "contact": {
-                "facebook": "588157437885035",
-                "facebookName": "FREEHOLD Brooklyn",
-                "facebookUsername": "freeholdbrooklyn",
-                "formattedPhone": "(718) 388-7591",
-                "phone": "7183887591"
-            },
+            "contact": {},
             "hasPerk": false,
             "hereNow": {
-                "count": 2,
-                "groups": [
-                    {
-                        "count": 2,
-                        "items": [],
-                        "name": "Other people here",
-                        "type": "others"
-                    }
-                ],
-                "summary": "2 people are here"
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
             },
-            "id": "51a931d12fc6bd6c3f9bd028",
+            "id": "578f747a498e155ba5232653",
             "location": {
-                "address": "45 S 3rd St",
+                "address": "12355 State Route Cc",
                 "cc": "US",
-                "city": "Brooklyn",
+                "city": "Rolla",
                 "country": "United States",
-                "crossStreet": "btwn Kent Ave & Wythe Ave",
-                "distance": 3362,
+                "distance": 3435,
                 "formattedAddress": [
-                    "45 S 3rd St (btwn Kent Ave & Wythe Ave)",
-                    "Brooklyn, NY 11249",
+                    "12355 State Route Cc",
+                    "Rolla, MO 65401",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 40.71370372777467,
-                        "lng": -73.9660656452179
+                        "lat": 37.922543,
+                        "lng": -91.792656
                     }
                 ],
-                "lat": 40.71370372777467,
-                "lng": -73.9660656452179,
-                "postalCode": "11249",
-                "state": "NY"
+                "lat": 37.922543,
+                "lng": -91.792656,
+                "postalCode": "65401",
+                "state": "MO"
             },
-            "menu": {
-                "anchor": "View Menu",
-                "externalUrl": "http://freeholdbrooklyn.com/#seventh",
-                "label": "Menu",
-                "mobileUrl": "http://freeholdbrooklyn.com/#seventh",
-                "type": "Menu",
-                "url": "http://freeholdbrooklyn.com/#seventh"
-            },
-            "name": "Freehold",
-            "referralId": "v-1492835551",
+            "name": "The ART of COFFEE",
+            "referralId": "v-1492836180",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 12677,
-                "tipCount": 130,
-                "usersCount": 5719
+                "checkinsCount": 84,
+                "tipCount": 0,
+                "usersCount": 3
             },
-            "storeId": "",
-            "url": "http://www.freeholdbrooklyn.com",
             "venueChains": [],
-            "venuePage": {
-                "id": "57714638"
-            },
-            "verified": true
+            "verified": false
         },
         {
             "allowMenuUrlEdit": true,
@@ -335,81 +422,222 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d118951735",
-                    "name": "Grocery Store",
-                    "pluralName": "Grocery Stores",
+                    "id": "4bf58dd8d48988d14e941735",
+                    "name": "American Restaurant",
+                    "pluralName": "American Restaurants",
                     "primary": true,
-                    "shortName": "Grocery Store"
+                    "shortName": "American"
                 }
             ],
             "contact": {
-                "facebook": "160380060670252",
-                "facebookName": "Wholefoods",
-                "formattedPhone": "(212) 420-1320",
-                "phone": "2124201320",
-                "twitter": "wholefoodsnyc"
+                "formattedPhone": "(573) 364-2010",
+                "phone": "5733642010"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4e06796fb0fbba5eee165bc8",
+            "location": {
+                "address": "1049 Kingshighway St",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 1264,
+                "formattedAddress": [
+                    "1049 Kingshighway St",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.94420478,
+                        "lng": -91.784834
+                    }
+                ],
+                "lat": 37.94420478,
+                "lng": -91.784834,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "name": "Penelope's Restaurant",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 294,
+                "tipCount": 7,
+                "usersCount": 148
+            },
+            "venueChains": [],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d14e941735",
+                    "name": "American Restaurant",
+                    "pluralName": "American Restaurants",
+                    "primary": true,
+                    "shortName": "American"
+                }
+            ],
+            "contact": {
+                "facebook": "492669800853982",
+                "facebookName": "Denny's",
+                "facebookUsername": "DennysRollaMartinSpringsRd",
+                "formattedPhone": "(573) 426-3996",
+                "phone": "5734263996",
+                "twitter": "dennysdiner"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "528e11df498ec75c9477e6c9",
+            "location": {
+                "address": "1419 Martin Springs Dr",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 2090,
+                "formattedAddress": [
+                    "1419 Martin Springs Dr",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.9418781288876,
+                        "lng": -91.7937882989645
+                    }
+                ],
+                "lat": 37.9418781288876,
+                "lng": -91.7937882989645,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "externalUrl": "http://www.listingextensions.com/f43115baa3/3750374886/menu",
+                "label": "Menu",
+                "mobileUrl": "http://www.listingextensions.com/f43115baa3/3750374886/menu",
+                "type": "Menu",
+                "url": "http://www.listingextensions.com/f43115baa3/3750374886/menu"
+            },
+            "name": "Denny's",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 111,
+                "tipCount": 1,
+                "usersCount": 78
+            },
+            "url": "http://locations.dennys.com/MO/ROLLA/248783",
+            "venueChains": [
+                {
+                    "id": "556e0690a7c82e6b724e70a8"
+                }
+            ],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
+                    "primary": true,
+                    "shortName": "Coffee Shop"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 426-6750",
+                "phone": "5734266750"
             },
             "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
-                "count": 3,
-                "groups": [
-                    {
-                        "count": 3,
-                        "items": [],
-                        "name": "Other people here",
-                        "type": "others"
-                    }
-                ],
-                "summary": "3 people are here"
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
             },
-            "id": "460d4b1ef964a52004451fe3",
+            "id": "4b7af9e1f964a5209e492fe3",
             "location": {
-                "address": "95 East Houston St",
+                "address": "704 N Bishop Ave #2",
                 "cc": "US",
-                "city": "New York",
+                "city": "Rolla",
                 "country": "United States",
-                "crossStreet": "btwn Bowery & Chrystie St",
-                "distance": 1702,
+                "crossStreet": "at 8th St.",
+                "distance": 495,
                 "formattedAddress": [
-                    "95 East Houston St (btwn Bowery & Chrystie St)",
-                    "New York, NY 10002",
+                    "704 N Bishop Ave #2 (at 8th St.)",
+                    "Rolla, MO 65401",
                     "United States"
                 ],
-                "lat": 40.72379391152151,
-                "lng": -73.99186684082225,
-                "postalCode": "10002",
-                "state": "NY"
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.949781461026625,
+                        "lng": -91.77690982818602
+                    }
+                ],
+                "lat": 37.949781461026625,
+                "lng": -91.77690982818602,
+                "postalCode": "65401",
+                "state": "MO"
             },
             "menu": {
-                "anchor": "View Products",
-                "label": "Products",
-                "mobileUrl": "https://foursquare.com/v/460d4b1ef964a52004451fe3/device_menu",
-                "type": "Products",
-                "url": "https://foursquare.com/v/whole-foods-market/460d4b1ef964a52004451fe3/menu"
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4b7af9e1f964a5209e492fe3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/the-giddy-goat/4b7af9e1f964a5209e492fe3/menu"
             },
-            "name": "Whole Foods Market",
-            "referralId": "v-1492835551",
+            "name": "The Giddy Goat",
+            "referralId": "v-1492836180",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 87686,
-                "tipCount": 313,
-                "usersCount": 23375
+                "checkinsCount": 2238,
+                "tipCount": 28,
+                "usersCount": 220
             },
-            "storeId": "HOU",
-            "url": "http://www.wholefoodsmarket.com/stores/bowery",
-            "venueChains": [
-                {
-                    "id": "556cdf5baceaff43eb042df6"
-                }
-            ],
-            "verified": true
+            "url": "http://www.tggch.com/",
+            "venueChains": [],
+            "verified": false
         },
         {
             "allowMenuUrlEdit": true,
@@ -419,86 +647,156 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/streetfood_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d1cb941735",
-                    "name": "Food Truck",
-                    "pluralName": "Food Trucks",
+                    "id": "4bf58dd8d48988d1c5941735",
+                    "name": "Sandwich Place",
+                    "pluralName": "Sandwich Places",
                     "primary": true,
-                    "shortName": "Food Truck"
+                    "shortName": "Sandwiches"
                 }
             ],
             "contact": {
-                "facebook": "157700344254837",
-                "facebookName": "The Halal Guys",
-                "facebookUsername": "TheHalalGuys",
-                "formattedPhone": "(347) 527-1505",
-                "phone": "3475271505",
-                "twitter": "halalguys"
+                "formattedPhone": "(573) 364-7828",
+                "phone": "5733647828"
             },
+            "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
-                "count": 1,
-                "groups": [
-                    {
-                        "count": 1,
-                        "items": [],
-                        "name": "Other people here",
-                        "type": "others"
-                    }
-                ],
-                "summary": "One other person is here"
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
             },
-            "id": "4a19d1edf964a5205a7a1fe3",
+            "id": "4bfc6d601be376b0c2adf8b4",
             "location": {
-                "address": "W 53rd St",
+                "address": "901 Forum Dr",
                 "cc": "US",
-                "city": "New York",
+                "city": "Rolla",
                 "country": "United States",
-                "crossStreet": "at 6th Ave",
-                "distance": 6303,
+                "crossStreet": "at 10th St.",
+                "distance": 1657,
                 "formattedAddress": [
-                    "W 53rd St (at 6th Ave)",
-                    "New York, NY 10019",
+                    "901 Forum Dr (at 10th St.)",
+                    "Rolla, MO 65401",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 40.76548533254129,
-                        "lng": -73.97851773958897
+                        "lat": 37.951168924722246,
+                        "lng": -91.75292015075684
                     }
                 ],
-                "lat": 40.76548533254129,
-                "lng": -73.97851773958897,
-                "postalCode": "10019",
-                "state": "NY"
+                "lat": 37.951168924722246,
+                "lng": -91.75292015075684,
+                "postalCode": "65401",
+                "state": "MO"
             },
             "menu": {
                 "anchor": "View Menu",
-                "externalUrl": "http://thehalalguys.com/menu/",
                 "label": "Menu",
-                "mobileUrl": "http://thehalalguys.com/menu/",
+                "mobileUrl": "https://foursquare.com/v/4bfc6d601be376b0c2adf8b4/device_menu",
                 "type": "Menu",
-                "url": "http://thehalalguys.com/menu/"
+                "url": "https://foursquare.com/v/subway/4bfc6d601be376b0c2adf8b4/menu"
             },
-            "name": "The Halal Guys",
-            "referralId": "v-1492835551",
+            "name": "Subway",
+            "referralId": "v-1492836180",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 71867,
-                "tipCount": 849,
-                "usersCount": 33426
+                "checkinsCount": 280,
+                "tipCount": 3,
+                "usersCount": 118
             },
-            "url": "http://thehalalguys.com",
-            "venueChains": [],
-            "venuePage": {
-                "id": "47491332"
+            "url": "http://www.subway.com",
+            "venueChains": [
+                {
+                    "id": "556e0bfaa7c82e6b724f552f"
+                }
+            ],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
             },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d16e941735",
+                    "name": "Fast Food Restaurant",
+                    "pluralName": "Fast Food Restaurants",
+                    "primary": true,
+                    "shortName": "Fast Food"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 341-2700",
+                "phone": "5733412700"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4b74651df964a520d5d92de3",
+            "location": {
+                "address": "1106 Kingshighway St",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 1289,
+                "formattedAddress": [
+                    "1106 Kingshighway St",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.94486534846411,
+                        "lng": -91.78544480419595
+                    }
+                ],
+                "lat": 37.94486534846411,
+                "lng": -91.78544480419595,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4b74651df964a520d5d92de3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/mcdonalds/4b74651df964a520d5d92de3/menu"
+            },
+            "name": "McDonald's",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 1724,
+                "tipCount": 10,
+                "usersCount": 630
+            },
+            "storeId": "3564",
+            "url": "http://mcdonalds.com",
+            "venueChains": [
+                {
+                    "id": "556f7a12bd6a75a9903bddb2"
+                }
+            ],
             "verified": true
         },
         {
@@ -520,73 +818,593 @@
                 }
             ],
             "contact": {
-                "formattedPhone": "(212) 302-2000",
-                "phone": "2123022000",
-                "twitter": "juniorsbroadway"
-            },
-            "delivery": {
-                "id": "3639",
-                "provider": {
-                    "name": "seamless"
-                },
-                "url": "http://www.seamless.com/food-delivery/restaurant.3639.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink"
+                "formattedPhone": "(573) 308-1600",
+                "phone": "5733081600",
+                "twitter": "applebees"
             },
             "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
-                "count": 2,
-                "groups": [
-                    {
-                        "count": 2,
-                        "items": [],
-                        "name": "Other people here",
-                        "type": "others"
-                    }
-                ],
-                "summary": "2 people are here"
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
             },
-            "id": "462a6065f964a520d9451fe3",
+            "id": "4b7c4197f964a520b7872fe3",
             "location": {
-                "address": "1515 Broadway",
+                "address": "511 S Bishop Ave",
                 "cc": "US",
-                "city": "New York",
+                "city": "Rolla",
                 "country": "United States",
-                "crossStreet": "at W 45th St",
-                "distance": 5338,
+                "crossStreet": "btwn Williams & Fort Wyman",
+                "distance": 1113,
                 "formattedAddress": [
-                    "1515 Broadway (at W 45th St)",
-                    "New York, NY 10036",
+                    "511 S Bishop Ave (btwn Williams & Fort Wyman)",
+                    "Rolla, MO 65401",
                     "United States"
                 ],
-                "lat": 40.75845791765643,
-                "lng": -73.9865353463385,
-                "postalCode": "10036",
-                "state": "NY"
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.93951574,
+                        "lng": -91.77707837
+                    }
+                ],
+                "lat": 37.93951574,
+                "lng": -91.77707837,
+                "postalCode": "65401",
+                "state": "MO"
             },
             "menu": {
                 "anchor": "View Menu",
                 "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/462a6065f964a520d9451fe3/device_menu",
+                "mobileUrl": "https://foursquare.com/v/4b7c4197f964a520b7872fe3/device_menu",
                 "type": "Menu",
-                "url": "https://foursquare.com/v/juniors-restaurant--bakery/462a6065f964a520d9451fe3/menu"
+                "url": "https://foursquare.com/v/applebees/4b7c4197f964a520b7872fe3/menu"
             },
-            "name": "Junior's Restaurant & Bakery",
-            "referralId": "v-1492835551",
+            "name": "Applebee's",
+            "referralId": "v-1492836180",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 38194,
-                "tipCount": 599,
-                "usersCount": 27341
+                "checkinsCount": 1541,
+                "tipCount": 20,
+                "usersCount": 670
             },
-            "storeId": "",
-            "url": "http://www.juniorscheesecake.com/our_restaurants/times_square/",
+            "url": "http://restaurants.applebees.com/mo/rolla/511-s-bishop.html",
+            "venueChains": [
+                {
+                    "id": "556e146fa7c82e6b725097e1"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d16e941735",
+                    "name": "Fast Food Restaurant",
+                    "pluralName": "Fast Food Restaurants",
+                    "primary": true,
+                    "shortName": "Fast Food"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 364-7474",
+                "phone": "5733647474"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4bb92ee553649c74f4d047fb",
+            "location": {
+                "address": "1109 N Bishop Ave",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "crossStreet": "at 12th St.",
+                "distance": 723,
+                "formattedAddress": [
+                    "1109 N Bishop Ave (at 12th St.)",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.95296243652328,
+                        "lng": -91.77748918533325
+                    }
+                ],
+                "lat": 37.95296243652328,
+                "lng": -91.77748918533325,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4bb92ee553649c74f4d047fb/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/taco-bell/4bb92ee553649c74f4d047fb/menu"
+            },
+            "name": "Taco Bell",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 1899,
+                "tipCount": 17,
+                "usersCount": 525
+            },
+            "storeId": "287603",
+            "url": "http://www.tacobell.com",
+            "venueChains": [
+                {
+                    "id": "556f46f6bd6a007c77390fac"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1c9941735",
+                    "name": "Ice Cream Shop",
+                    "pluralName": "Ice Cream Shops",
+                    "primary": true,
+                    "shortName": "Ice Cream"
+                }
+            ],
+            "contact": {
+                "facebook": "230118460507978",
+                "facebookName": "DQ Woodlands",
+                "facebookUsername": "dqwoodlands",
+                "formattedPhone": "(573) 364-7200",
+                "phone": "5733647200",
+                "twitter": "dairyqueen"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4bc9f57bcc8cd13aee8bbccf",
+            "location": {
+                "address": "1303 N Bishop Ave",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "crossStreet": "at 13th St.",
+                "distance": 846,
+                "formattedAddress": [
+                    "1303 N Bishop Ave (at 13th St.)",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.954464116666664,
+                        "lng": -91.77748519
+                    }
+                ],
+                "lat": 37.954464116666664,
+                "lng": -91.77748519,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4bc9f57bcc8cd13aee8bbccf/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/dairy-queen/4bc9f57bcc8cd13aee8bbccf/menu"
+            },
+            "name": "Dairy Queen",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 721,
+                "tipCount": 6,
+                "usersCount": 411
+            },
+            "storeId": "12851",
+            "url": "http://www.dairyqueen.com",
+            "venueChains": [
+                {
+                    "id": "556a4bb0a7c8957d73d68bb4"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d14c941735",
+                    "name": "Wings Joint",
+                    "pluralName": "Wings Joints",
+                    "primary": true,
+                    "shortName": "Wings"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 341-0303",
+                "phone": "5733410303"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "528bbc7c11d2b612fd02a923",
+            "location": {
+                "address": "1811 N Bishop Ave",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "crossStreet": "Oak",
+                "distance": 1324,
+                "formattedAddress": [
+                    "1811 N Bishop Ave (Oak)",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.96014027536156,
+                        "lng": -91.7683857679367
+                    }
+                ],
+                "lat": 37.96014027536156,
+                "lng": -91.7683857679367,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "name": "Buffalo Wild Wings",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 419,
+                "tipCount": 3,
+                "usersCount": 205
+            },
+            "url": "http://buffalowildwings.com",
+            "venueChains": [
+                {
+                    "id": "556d1d36aceaff43eb0a9e66"
+                }
+            ],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1cc941735",
+                    "name": "Steakhouse",
+                    "pluralName": "Steakhouses",
+                    "primary": true,
+                    "shortName": "Steakhouse"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 426-4240",
+                "phone": "5734264240"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4ccf375c3e63721e12f196cc",
+            "location": {
+                "address": "1675 N Bishop Ave",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "crossStreet": "at Vichy Rd.",
+                "distance": 1126,
+                "formattedAddress": [
+                    "1675 N Bishop Ave (at Vichy Rd.)",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.9584162,
+                        "lng": -91.77405106
+                    }
+                ],
+                "lat": 37.9584162,
+                "lng": -91.77405106,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "name": "Colton's Steak House & Grill",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 1303,
+                "tipCount": 8,
+                "usersCount": 611
+            },
             "venueChains": [],
-            "venuePage": {
-                "id": "77465459"
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
             },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d14e941735",
+                    "name": "American Restaurant",
+                    "pluralName": "American Restaurants",
+                    "primary": true,
+                    "shortName": "American"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 341-5550",
+                "phone": "5733415550"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4b661f47f964a520e2142be3",
+            "location": {
+                "address": "2004 North Bishop",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 1729,
+                "formattedAddress": [
+                    "2004 North Bishop",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.96324151257508,
+                        "lng": -91.76529408517337
+                    }
+                ],
+                "lat": 37.96324151257508,
+                "lng": -91.76529408517337,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4b661f47f964a520e2142be3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/steak-n-shake/4b661f47f964a520e2142be3/menu"
+            },
+            "name": "Steak 'n Shake",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 1291,
+                "tipCount": 16,
+                "usersCount": 798
+            },
+            "storeId": "1701702",
+            "url": "http://www.steaknshake.com/locations/24361-steak-n-shake-north-bishop-rolla",
+            "venueChains": [
+                {
+                    "id": "556cfe41aceaff43eb06e33d"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1c9941735",
+                    "name": "Ice Cream Shop",
+                    "pluralName": "Ice Cream Shops",
+                    "primary": true,
+                    "shortName": "Ice Cream"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 458-2339",
+                "phone": "5734582339"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4ed8249146907c1b3feef6fc",
+            "location": {
+                "address": "1051 N Bishop Ave",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "crossStreet": "btwn 11th & 12th",
+                "distance": 632,
+                "formattedAddress": [
+                    "1051 N Bishop Ave (btwn 11th & 12th)",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.95185590613354,
+                        "lng": -91.7773206204472
+                    }
+                ],
+                "lat": 37.95185590613354,
+                "lng": -91.7773206204472,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "name": "Spoon Me",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 1590,
+                "tipCount": 12,
+                "usersCount": 290
+            },
+            "url": "http://spoonme.com",
+            "venueChains": [],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1c5941735",
+                    "name": "Sandwich Place",
+                    "pluralName": "Sandwich Places",
+                    "primary": true,
+                    "shortName": "Sandwiches"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 341-9009",
+                "phone": "5733419009",
+                "twitter": "jimmyjohns"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4dc19c86d4c07bbdf77963cc",
+            "location": {
+                "address": "1051 N Bishop Ave",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "crossStreet": "at 11th St.",
+                "distance": 644,
+                "formattedAddress": [
+                    "1051 N Bishop Ave (at 11th St.)",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.951991340817315,
+                        "lng": -91.7773586693094
+                    }
+                ],
+                "lat": 37.951991340817315,
+                "lng": -91.7773586693094,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "name": "Jimmy John's",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 2337,
+                "tipCount": 14,
+                "usersCount": 435
+            },
+            "storeId": "1359",
+            "url": "http://www.jimmyjohns.com",
+            "venueChains": [
+                {
+                    "id": "556e119fa7c82e6b725012dc"
+                }
+            ],
             "verified": true
         },
         {
@@ -600,158 +1418,72 @@
                         "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d146941735",
-                    "name": "Deli / Bodega",
-                    "pluralName": "Delis / Bodegas",
+                    "id": "4bf58dd8d48988d1c5941735",
+                    "name": "Sandwich Place",
+                    "pluralName": "Sandwich Places",
                     "primary": true,
-                    "shortName": "Deli / Bodega"
+                    "shortName": "Sandwiches"
                 }
             ],
             "contact": {
-                "facebook": "89033874836",
-                "facebookName": "Katz's Delicatessen",
-                "facebookUsername": "katzsdeli",
-                "formattedPhone": "(800) 446-8364",
-                "phone": "8004468364",
-                "twitter": "katzsdeli"
-            },
-            "delivery": {
-                "id": "25417",
-                "provider": {
-                    "name": "seamless"
-                },
-                "url": "http://www.seamless.com/food-delivery/restaurant.25417.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink"
+                "formattedPhone": "(573) 368-4499",
+                "phone": "5733684499",
+                "twitter": "panerabread"
             },
             "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
-                "count": 2,
-                "groups": [
-                    {
-                        "count": 2,
-                        "items": [],
-                        "name": "Other people here",
-                        "type": "others"
-                    }
-                ],
-                "summary": "2 people are here"
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
             },
-            "id": "4acbe67af964a52044c820e3",
+            "id": "4b54aa8ef964a520ddc527e3",
             "location": {
-                "address": "205 E Houston St",
+                "address": "1651 N Bishop Ave",
                 "cc": "US",
-                "city": "New York",
+                "city": "Rolla",
                 "country": "United States",
-                "crossStreet": "at Ludlow St",
-                "distance": 1889,
+                "distance": 1086,
                 "formattedAddress": [
-                    "205 E Houston St (at Ludlow St)",
-                    "New York, NY 10002",
+                    "1651 N Bishop Ave",
+                    "Rolla, MO 65401",
                     "United States"
                 ],
-                "lat": 40.72230706635953,
-                "lng": -73.98735165596008,
-                "postalCode": "10002",
-                "state": "NY"
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.9579548886884,
+                        "lng": -91.77457167784513
+                    }
+                ],
+                "lat": 37.9579548886884,
+                "lng": -91.77457167784513,
+                "postalCode": "65401",
+                "state": "MO"
             },
             "menu": {
                 "anchor": "View Menu",
                 "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4acbe67af964a52044c820e3/device_menu",
+                "mobileUrl": "https://foursquare.com/v/4b54aa8ef964a520ddc527e3/device_menu",
                 "type": "Menu",
-                "url": "https://foursquare.com/v/katzs-delicatessen/4acbe67af964a52044c820e3/menu"
+                "url": "https://foursquare.com/v/panera-bread/4b54aa8ef964a520ddc527e3/menu"
             },
-            "name": "Katz's Delicatessen",
-            "referralId": "v-1492835551",
+            "name": "Panera Bread",
+            "referralId": "v-1492836180",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 64144,
-                "tipCount": 1145,
-                "usersCount": 48297
+                "checkinsCount": 3313,
+                "tipCount": 31,
+                "usersCount": 997
             },
-            "url": "http://katzsdelicatessen.com",
-            "venueChains": [],
-            "venuePage": {
-                "id": "36639778"
-            },
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_gourmet_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1f5941735",
-                    "name": "Gourmet Shop",
-                    "pluralName": "Gourmet Shops",
-                    "primary": true,
-                    "shortName": "Gourmet"
-                }
-            ],
-            "contact": {
-                "facebook": "128969973814087",
-                "facebookName": "Eataly NYC Flatiron",
-                "facebookUsername": "EatalyNYCFlatiron",
-                "formattedPhone": "(212) 229-2560",
-                "phone": "2122292560",
-                "twitter": "eataly"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 1,
-                "groups": [
-                    {
-                        "count": 1,
-                        "items": [],
-                        "name": "Other people here",
-                        "type": "others"
-                    }
-                ],
-                "summary": "One other person is here"
-            },
-            "id": "4c5ef77bfff99c74eda954d3",
-            "location": {
-                "address": "200 5th Ave",
-                "cc": "US",
-                "city": "New York",
-                "country": "United States",
-                "crossStreet": "at W 23rd St",
-                "distance": 3523,
-                "formattedAddress": [
-                    "200 5th Ave (at W 23rd St)",
-                    "New York, NY 10010",
-                    "United States"
-                ],
-                "lat": 40.74200290380737,
-                "lng": -73.98979509360808,
-                "postalCode": "10010",
-                "state": "NY"
-            },
-            "name": "Eataly NYC",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 164007,
-                "tipCount": 1363,
-                "usersCount": 85645
-            },
-            "storeId": "",
-            "url": "https://www.eataly.com/us_en/stores/new-york/",
+            "storeId": "2892",
+            "url": "http://www.panerabread.com",
             "venueChains": [
                 {
-                    "id": "556e579ebd6a82902e28c34a"
+                    "id": "556e0f6fa7c82e6b724f8c8a"
                 }
             ],
             "verified": true
@@ -764,279 +1496,19 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d16c941735",
-                    "name": "Burger Joint",
-                    "pluralName": "Burger Joints",
+                    "id": "4bf58dd8d48988d1df931735",
+                    "name": "BBQ Joint",
+                    "pluralName": "BBQ Joints",
                     "primary": true,
-                    "shortName": "Burgers"
+                    "shortName": "BBQ"
                 }
             ],
             "contact": {
-                "facebook": "124653650181",
-                "facebookName": "Shake Shack",
-                "facebookUsername": "shakeshack",
-                "formattedPhone": "(646) 435-0135",
-                "phone": "6464350135",
-                "twitter": "shakeshack"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 2,
-                "groups": [
-                    {
-                        "count": 2,
-                        "items": [],
-                        "name": "Other people here",
-                        "type": "others"
-                    }
-                ],
-                "summary": "2 people are here"
-            },
-            "id": "4c2bccc7d1a10f475a88f864",
-            "location": {
-                "address": "691 8th Ave",
-                "cc": "US",
-                "city": "New York",
-                "country": "United States",
-                "crossStreet": "at W 44th St",
-                "distance": 5262,
-                "formattedAddress": [
-                    "691 8th Ave (at W 44th St)",
-                    "New York, NY 10036",
-                    "United States"
-                ],
-                "lat": 40.75830820064628,
-                "lng": -73.98899737888202,
-                "postalCode": "10036",
-                "state": "NY"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4c2bccc7d1a10f475a88f864/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/shake-shack/4c2bccc7d1a10f475a88f864/menu"
-            },
-            "name": "Shake Shack",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 76952,
-                "tipCount": 811,
-                "usersCount": 50383
-            },
-            "storeId": "",
-            "url": "http://www.shakeshack.com",
-            "venueChains": [
-                {
-                    "id": "5569f96da7c8896abe7d2328"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d118951735",
-                    "name": "Grocery Store",
-                    "pluralName": "Grocery Stores",
-                    "primary": true,
-                    "shortName": "Grocery Store"
-                }
-            ],
-            "contact": {
-                "facebook": "168990803155451",
-                "facebookName": "Whole Foods",
-                "formattedPhone": "(212) 673-5388",
-                "phone": "2126735388",
-                "twitter": "wholefoodsnyc"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 2,
-                "groups": [
-                    {
-                        "count": 2,
-                        "items": [],
-                        "name": "Other people here",
-                        "type": "others"
-                    }
-                ],
-                "summary": "2 people are here"
-            },
-            "id": "43bba61df964a520eb2c1fe3",
-            "location": {
-                "address": "4 Union Square South",
-                "cc": "US",
-                "city": "New York",
-                "country": "United States",
-                "crossStreet": "btwn Broadway & University Pl",
-                "distance": 2768,
-                "formattedAddress": [
-                    "4 Union Square South (btwn Broadway & University Pl)",
-                    "New York, NY 10003",
-                    "United States"
-                ],
-                "lat": 40.73499835589473,
-                "lng": -73.99110930703945,
-                "postalCode": "10003",
-                "state": "NY"
-            },
-            "name": "Whole Foods Market",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 103461,
-                "tipCount": 382,
-                "usersCount": 34036
-            },
-            "storeId": "USQ",
-            "url": "http://www.wholefoodsmarket.com/stores/unionsquare",
-            "venueChains": [
-                {
-                    "id": "556cdf5baceaff43eb042df6"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d16c941735",
-                    "name": "Burger Joint",
-                    "pluralName": "Burger Joints",
-                    "primary": true,
-                    "shortName": "Burgers"
-                }
-            ],
-            "contact": {
-                "facebook": "124653650181",
-                "facebookName": "Shake Shack",
-                "facebookUsername": "shakeshack",
-                "formattedPhone": "(212) 889-6600",
-                "instagram": "shakeshack",
-                "phone": "2128896600",
-                "twitter": "shakeshack"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 1,
-                "groups": [
-                    {
-                        "count": 1,
-                        "items": [],
-                        "name": "Other people here",
-                        "type": "others"
-                    }
-                ],
-                "summary": "One other person is here"
-            },
-            "id": "40e74880f964a520150a1fe3",
-            "location": {
-                "address": "11 Madison Ave",
-                "cc": "US",
-                "city": "New York",
-                "country": "United States",
-                "crossStreet": "at E 23rd St",
-                "distance": 3512,
-                "formattedAddress": [
-                    "11 Madison Ave (at E 23rd St)",
-                    "New York, NY 10010",
-                    "United States"
-                ],
-                "lat": 40.7414310296604,
-                "lng": -73.98841200337655,
-                "neighborhood": "Flatiron",
-                "postalCode": "10010",
-                "state": "NY"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/40e74880f964a520150a1fe3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/shake-shack/40e74880f964a520150a1fe3/menu"
-            },
-            "name": "Shake Shack",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 103356,
-                "tipCount": 1179,
-                "usersCount": 55244
-            },
-            "storeId": "",
-            "url": "http://www.shakeshack.com",
-            "venueChains": [
-                {
-                    "id": "5569f96da7c8896abe7d2328"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d157941735",
-                    "name": "New American Restaurant",
-                    "pluralName": "New American Restaurants",
-                    "primary": true,
-                    "shortName": "New American"
-                }
-            ],
-            "contact": {
-                "facebook": "75789532909",
-                "facebookName": "The Smith",
-                "facebookUsername": "TheSmithRestaurant",
-                "formattedPhone": "(212) 685-4500",
-                "instagram": "thesmithrestaurant",
-                "phone": "2126854500",
-                "twitter": "thesmithnyc"
-            },
-            "delivery": {
-                "id": "45131",
-                "provider": {
-                    "name": "seamless"
-                },
-                "url": "http://www.seamless.com/food-delivery/restaurant.45131.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink"
+                "formattedPhone": "(573) 426-3331",
+                "phone": "5734263331"
             },
             "hasPerk": false,
             "hereNow": {
@@ -1044,43 +1516,201 @@
                 "groups": [],
                 "summary": "Nobody here"
             },
-            "id": "5328a37f498e0fcd62614b29",
+            "id": "4c27cbe13492a5938371b628",
             "location": {
-                "address": "1150 Broadway",
+                "address": "1705 Martin Springs Dr",
                 "cc": "US",
-                "city": "New York",
+                "city": "Rolla",
                 "country": "United States",
-                "crossStreet": "at W27th St",
-                "distance": 3801,
+                "distance": 2845,
                 "formattedAddress": [
-                    "1150 Broadway (at W27th St)",
-                    "New York, NY 10001",
+                    "1705 Martin Springs Dr",
+                    "Rolla, MO 65401",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 40.74437717554172,
-                        "lng": -73.98875060315132
+                        "lat": 37.939882331710095,
+                        "lng": -91.80201530456543
                     }
                 ],
-                "lat": 40.74437717554172,
-                "lng": -73.98875060315132,
-                "postalCode": "10001",
-                "state": "NY"
+                "lat": 37.939882331710095,
+                "lng": -91.80201530456543,
+                "postalCode": "65401",
+                "state": "MO"
             },
-            "name": "The Smith",
-            "referralId": "v-1492835551",
+            "name": "Bandana's BBQ Rolla",
+            "referralId": "v-1492836180",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 5402,
-                "tipCount": 31,
-                "usersCount": 3864
+                "checkinsCount": 712,
+                "tipCount": 18,
+                "usersCount": 424
             },
-            "url": "http://thesmithrestaurant.com/location/nomad/",
+            "venueChains": [
+                {
+                    "id": "5569f1bca7c8896abe7c2ac6"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d16e941735",
+                    "name": "Fast Food Restaurant",
+                    "pluralName": "Fast Food Restaurants",
+                    "primary": true,
+                    "shortName": "Fast Food"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 341-9911",
+                "phone": "5733419911",
+                "twitter": "sonicdrivein"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4cba05e3adcd5481258a20a2",
+            "location": {
+                "address": "814 S Bishop Ave",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 1899,
+                "formattedAddress": [
+                    "814 S Bishop Ave",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.932396,
+                        "lng": -91.7786433
+                    }
+                ],
+                "lat": 37.932396,
+                "lng": -91.7786433,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4cba05e3adcd5481258a20a2/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/sonic-drive-in/4cba05e3adcd5481258a20a2/menu"
+            },
+            "name": "SONIC Drive In",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 1059,
+                "tipCount": 13,
+                "usersCount": 308
+            },
+            "storeId": "1253",
+            "url": "http://sonicdrivein.com",
+            "venueChains": [
+                {
+                    "id": "556e2b60a7c82e6b7253b20b"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1cc941735",
+                    "name": "Steakhouse",
+                    "pluralName": "Steakhouses",
+                    "primary": true,
+                    "shortName": "Steakhouse"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 364-1220",
+                "phone": "5733641220"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4b64d66ef964a520ebd32ae3",
+            "location": {
+                "address": "12200 Miner Cir",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 6951,
+                "formattedAddress": [
+                    "12200 Miner Cir",
+                    "Rolla, MO 65409",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.98079,
+                        "lng": -91.703697
+                    }
+                ],
+                "lat": 37.98079,
+                "lng": -91.703697,
+                "postalCode": "65409",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4b64d66ef964a520ebd32ae3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/matts-steak-house/4b64d66ef964a520ebd32ae3/menu"
+            },
+            "name": "Matt's Steak House",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 599,
+                "tipCount": 8,
+                "usersCount": 354
+            },
+            "url": "http://www.mattssteakhouse.com/",
             "venueChains": [],
             "verified": false
         },
@@ -1092,73 +1722,72 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d118951735",
-                    "name": "Grocery Store",
-                    "pluralName": "Grocery Stores",
+                    "id": "4bf58dd8d48988d1d2941735",
+                    "name": "Sushi Restaurant",
+                    "pluralName": "Sushi Restaurants",
                     "primary": true,
-                    "shortName": "Grocery Store"
+                    "shortName": "Sushi"
                 }
             ],
             "contact": {
-                "facebook": "24922591487",
-                "facebookName": "Whole Foods Market",
-                "facebookUsername": "WholeFoods",
-                "formattedPhone": "(646) 497-1222",
-                "phone": "6464971222",
-                "twitter": "wholefoods"
+                "formattedPhone": "(573) 341-2939",
+                "phone": "5733412939"
             },
+            "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
                 "count": 0,
                 "groups": [],
                 "summary": "Nobody here"
             },
-            "id": "4f2ad1fa6b74bfbf8bb98162",
+            "id": "4b50aac2f964a5205d2c27e3",
             "location": {
-                "address": "226 E 57th Street",
+                "address": "1002 N Bishop Ave",
                 "cc": "US",
-                "city": "New York",
+                "city": "Rolla",
                 "country": "United States",
-                "crossStreet": "btwn 2nd & 3rd Ave",
-                "distance": 6202,
+                "crossStreet": "at 11th St.",
+                "distance": 608,
                 "formattedAddress": [
-                    "226 E 57th Street (btwn 2nd & 3rd Ave)",
-                    "New York, NY 10022",
+                    "1002 N Bishop Ave (at 11th St.)",
+                    "Rolla, MO 65401",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 40.75966585850886,
-                        "lng": -73.96612623539521
+                        "lat": 37.95208361804845,
+                        "lng": -91.77673562336237
                     }
                 ],
-                "lat": 40.75966585850886,
-                "lng": -73.96612623539521,
-                "postalCode": "10022",
-                "state": "NY"
+                "lat": 37.95208361804845,
+                "lng": -91.77673562336237,
+                "postalCode": "65401",
+                "state": "MO"
             },
-            "name": "Whole Foods Market",
-            "referralId": "v-1492835551",
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4b50aac2f964a5205d2c27e3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/kyoto-japanese-restaurant/4b50aac2f964a5205d2c27e3/menu"
+            },
+            "name": "Kyoto Japanese Restaurant",
+            "referralId": "v-1492836180",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 23104,
-                "tipCount": 99,
-                "usersCount": 5945
+                "checkinsCount": 599,
+                "tipCount": 21,
+                "usersCount": 231
             },
-            "storeId": "MTE",
-            "url": "http://www.wholefoodsmarket.com/stores/Midtown-East",
-            "venueChains": [
-                {
-                    "id": "556cdf5baceaff43eb042df6"
-                }
-            ],
+            "url": "http://www.rollakyoto.com",
+            "venueChains": [],
             "verified": true
         },
         {
@@ -1169,144 +1798,72 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/friedchicken_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d118951735",
-                    "name": "Grocery Store",
-                    "pluralName": "Grocery Stores",
+                    "id": "4d4ae6fc7a7b7dea34424761",
+                    "name": "Fried Chicken Joint",
+                    "pluralName": "Fried Chicken Joints",
                     "primary": true,
-                    "shortName": "Grocery Store"
+                    "shortName": "Fried Chicken"
                 }
             ],
             "contact": {
-                "facebook": "24922591487",
-                "facebookName": "Whole Foods Market",
-                "facebookUsername": "WholeFoods",
-                "formattedPhone": "(212) 222-6160",
-                "phone": "2122226160",
-                "twitter": "wholefoodsnyc"
+                "formattedPhone": "(573) 364-9330",
+                "phone": "5733649330"
             },
+            "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
                 "count": 0,
                 "groups": [],
                 "summary": "Nobody here"
             },
-            "id": "4a95cf86f964a520c92420e3",
+            "id": "4bc50cfc702076b0117704c9",
             "location": {
-                "address": "808 Columbus Avenue",
+                "address": "1902 N Bishop Ave",
                 "cc": "US",
-                "city": "New York",
+                "city": "Rolla",
                 "country": "United States",
-                "crossStreet": "at W 97th St",
-                "distance": 9625,
+                "crossStreet": "at Cedar St.",
+                "distance": 1337,
                 "formattedAddress": [
-                    "808 Columbus Avenue (at W 97th St)",
-                    "New York, NY 10025",
-                    "United States"
-                ],
-                "lat": 40.794001551635084,
-                "lng": -73.96668872020632,
-                "postalCode": "10025",
-                "state": "NY"
-            },
-            "name": "Whole Foods Market",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 32537,
-                "tipCount": 138,
-                "usersCount": 8435
-            },
-            "storeId": "UWS",
-            "url": "http://www.wholefoodsmarket.com/stores/upperwestside",
-            "venueChains": [
-                {
-                    "id": "556cdf5baceaff43eb042df6"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d118951735",
-                    "name": "Grocery Store",
-                    "pluralName": "Grocery Stores",
-                    "primary": true,
-                    "shortName": "Grocery Store"
-                }
-            ],
-            "contact": {
-                "facebook": "24922591487",
-                "facebookName": "Whole Foods Market",
-                "facebookUsername": "WholeFoods",
-                "formattedPhone": "(718) 734-2321",
-                "phone": "7187342321",
-                "twitter": "wfmbrooklyn"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "57ffc2e438fad9d2a9122e23",
-            "location": {
-                "address": "238 Bedford Ave",
-                "cc": "US",
-                "city": "Brooklyn",
-                "country": "United States",
-                "crossStreet": "N 4th St",
-                "distance": 3988,
-                "formattedAddress": [
-                    "238 Bedford Ave (N 4th St)",
-                    "Brooklyn, NY 11249",
+                    "1902 N Bishop Ave (at Cedar St.)",
+                    "Rolla, MO 65401",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 40.71718072820428,
-                        "lng": -73.95898312366626
+                        "lat": 37.95994162559509,
+                        "lng": -91.766861
                     }
                 ],
-                "lat": 40.71718072820428,
-                "lng": -73.95898312366626,
-                "postalCode": "11249",
-                "state": "NY"
+                "lat": 37.95994162559509,
+                "lng": -91.766861,
+                "postalCode": "65401",
+                "state": "MO"
             },
-            "name": "Whole Foods Market",
-            "referralId": "v-1492835551",
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4bc50cfc702076b0117704c9/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/lees-famous-recipe-chicken/4bc50cfc702076b0117704c9/menu"
+            },
+            "name": "Lee's Famous Recipe Chicken",
+            "referralId": "v-1492836180",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 7207,
-                "tipCount": 24,
-                "usersCount": 2321
+                "checkinsCount": 313,
+                "tipCount": 8,
+                "usersCount": 165
             },
-            "storeId": "WBG",
-            "url": "http://www.wholefoodsmarket.com/stores/williamsburg",
-            "venueChains": [
-                {
-                    "id": "556cdf5baceaff43eb042df6"
-                }
-            ],
-            "verified": true
+            "venueChains": [],
+            "verified": false
         },
         {
             "allowMenuUrlEdit": true,
@@ -1316,581 +1873,237 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d118951735",
-                    "name": "Grocery Store",
-                    "pluralName": "Grocery Stores",
+                    "id": "4bf58dd8d48988d147941735",
+                    "name": "Diner",
+                    "pluralName": "Diners",
                     "primary": true,
-                    "shortName": "Grocery Store"
+                    "shortName": "Diner"
                 }
             ],
             "contact": {
-                "facebook": "24922591487",
-                "facebookName": "Whole Foods Market",
-                "facebookUsername": "WholeFoods",
-                "formattedPhone": "(646) 891-3888",
-                "phone": "6468913888",
-                "twitter": "wholefoodsnyc"
+                "formattedPhone": "(573) 364-1434",
+                "phone": "5733641434",
+                "twitter": "maidrite"
             },
+            "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
                 "count": 0,
                 "groups": [],
                 "summary": "Nobody here"
             },
-            "id": "52517696498e820f4e998347",
+            "id": "4c76e44ef2473704e16764eb",
             "location": {
-                "address": "1551 3rd Ave",
+                "address": "1028 Kingshighway St",
                 "cc": "US",
-                "city": "New York",
+                "city": "Rolla",
                 "country": "United States",
-                "distance": 8688,
+                "distance": 1018,
                 "formattedAddress": [
-                    "1551 3rd Ave",
-                    "New York, NY 10128",
+                    "1028 Kingshighway St",
+                    "Rolla, MO 65401",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 40.77974526957732,
-                        "lng": -73.95294159650803
+                        "lat": 37.945379187437155,
+                        "lng": -91.7824051932861
                     }
                 ],
-                "lat": 40.77974526957732,
-                "lng": -73.95294159650803,
-                "postalCode": "10128",
-                "state": "NY"
+                "lat": 37.945379187437155,
+                "lng": -91.7824051932861,
+                "postalCode": "65401",
+                "state": "MO"
             },
-            "name": "Whole Foods Market",
-            "referralId": "v-1492835551",
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4c76e44ef2473704e16764eb/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/maidrite/4c76e44ef2473704e16764eb/menu"
+            },
+            "name": "Maid-Rite",
+            "referralId": "v-1492836180",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 9205,
-                "tipCount": 51,
-                "usersCount": 2151
-            },
-            "storeId": "UES",
-            "url": "http://www.wholefoodsmarket.com/stores/uppereastside",
-            "venueChains": [
-                {
-                    "id": "556cdf5baceaff43eb042df6"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d118951735",
-                    "name": "Grocery Store",
-                    "pluralName": "Grocery Stores",
-                    "primary": true,
-                    "shortName": "Grocery Store"
-                }
-            ],
-            "contact": {
-                "facebook": "24922591487",
-                "facebookName": "Whole Foods Market",
-                "facebookUsername": "WholeFoods",
-                "formattedPhone": "(718) 907-3622",
-                "phone": "7189073622",
-                "twitter": "wfmbrooklyn"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "52781665498e79b52476d279",
-            "location": {
-                "address": "214 3rd Street",
-                "cc": "US",
-                "city": "Brooklyn",
-                "country": "United States",
-                "crossStreet": "at 3rd Ave",
-                "distance": 4450,
-                "formattedAddress": [
-                    "214 3rd Street (at 3rd Ave)",
-                    "Brooklyn, NY 11215",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 40.6750013908737,
-                        "lng": -73.98871958255762
-                    }
-                ],
-                "lat": 40.6750013908737,
-                "lng": -73.98871958255762,
-                "postalCode": "11215",
-                "state": "NY"
-            },
-            "name": "Whole Foods Market",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 23297,
-                "tipCount": 136,
-                "usersCount": 6604
-            },
-            "storeId": "BKN",
-            "url": "http://www.wholefoodsmarket.com/stores/thirdand3rd",
-            "venueChains": [
-                {
-                    "id": "556cdf5baceaff43eb042df6"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d118951735",
-                    "name": "Grocery Store",
-                    "pluralName": "Grocery Stores",
-                    "primary": true,
-                    "shortName": "Grocery Store"
-                }
-            ],
-            "contact": {
-                "facebook": "107822261014",
-                "facebookName": "Whole Foods Market NYC",
-                "facebookUsername": "wholefoodsnyc",
-                "formattedPhone": "(212) 924-5969",
-                "phone": "2129245969",
-                "twitter": "wholefoodsnyc"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "460d4b66f964a52005451fe3",
-            "location": {
-                "address": "250 7th Ave",
-                "cc": "US",
-                "city": "New York",
-                "country": "United States",
-                "crossStreet": "at W 24th St",
-                "distance": 3693,
-                "formattedAddress": [
-                    "250 7th Ave (at W 24th St)",
-                    "New York, NY 10001",
-                    "United States"
-                ],
-                "lat": 40.74497515639613,
-                "lng": -73.99522979557925,
-                "postalCode": "10001",
-                "state": "NY"
-            },
-            "name": "Whole Foods Market",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 50145,
-                "tipCount": 168,
-                "usersCount": 14376
-            },
-            "storeId": "CHE",
-            "url": "http://www.wholefoodsmarket.com/stores/chelsea",
-            "venueChains": [
-                {
-                    "id": "556cdf5baceaff43eb042df6"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
-                        "suffix": ".png"
-                    },
-                    "id": "52f2ab2ebcbc57f1066b8b45",
-                    "name": "Organic Grocery",
-                    "pluralName": "Organic Groceries",
-                    "primary": true,
-                    "shortName": "Organic Grocery"
-                }
-            ],
-            "contact": {
-                "facebook": "24922591487",
-                "facebookName": "Whole Foods Market",
-                "facebookUsername": "WholeFoods",
-                "formattedPhone": "(917) 728-5700",
-                "phone": "9177285700",
-                "twitter": "wholefoodsnyc"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "5866f5c30b7e937108ec2adb",
-            "location": {
-                "address": "1095 Avenue of the Americas",
-                "cc": "US",
-                "city": "New York",
-                "country": "United States",
-                "crossStreet": "at W. 41st St",
-                "distance": 4955,
-                "formattedAddress": [
-                    "1095 Avenue of the Americas (at W. 41st St)",
-                    "New York, NY 10036",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 40.75429554721598,
-                        "lng": -73.98463726043701
-                    }
-                ],
-                "lat": 40.75429554721598,
-                "lng": -73.98463726043701,
-                "postalCode": "10036",
-                "state": "NY"
-            },
-            "name": "Whole Foods Market",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 2659,
+                "checkinsCount": 553,
                 "tipCount": 11,
-                "usersCount": 1447
-            },
-            "storeId": "BPK",
-            "url": "http://www.wholefoodsmarket.com",
-            "venueChains": [
-                {
-                    "id": "556cdf5baceaff43eb042df6"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1e0931735",
-                    "name": "Coffee Shop",
-                    "pluralName": "Coffee Shops",
-                    "primary": true,
-                    "shortName": "Coffee Shop"
-                }
-            ],
-            "contact": {
-                "facebook": "22092443056",
-                "facebookName": "Starbucks",
-                "facebookUsername": "Starbucks",
-                "formattedPhone": "(212) 242-5981",
-                "instagram": "starbucks",
-                "phone": "2122425981",
-                "twitter": "starbucks"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4a1c91b1f964a520527b1fe3",
-            "location": {
-                "address": "510 Sixth Ave",
-                "cc": "US",
-                "city": "New York",
-                "country": "United States",
-                "crossStreet": "at W 14th St",
-                "distance": 2808,
-                "formattedAddress": [
-                    "510 Sixth Ave (at W 14th St)",
-                    "New York, NY 10011",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 40.73698,
-                        "lng": -73.9964
-                    }
-                ],
-                "lat": 40.73698,
-                "lng": -73.9964,
-                "postalCode": "10011",
-                "state": "NY"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "externalUrl": "http://www.starbucks.com/menu",
-                "label": "Menu",
-                "mobileUrl": "http://www.starbucks.com/menu",
-                "type": "Menu",
-                "url": "http://www.starbucks.com/menu"
-            },
-            "name": "Starbucks",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 14813,
-                "tipCount": 42,
-                "usersCount": 6175
-            },
-            "storeId": "7675",
-            "url": "http://www.starbucks.com/store/8919/",
-            "venueChains": [
-                {
-                    "id": "556f676fbd6a75a99038d8ec"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_farmersmarket_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1fa941735",
-                    "name": "Farmers Market",
-                    "pluralName": "Farmers Markets",
-                    "primary": true,
-                    "shortName": "Farmer's Market"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(212) 788-7476",
-                "phone": "2127887476",
-                "twitter": "unsqgreenmarket"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "49c27575f964a520f1551fe3",
-            "location": {
-                "address": "1 Union Sq W",
-                "cc": "US",
-                "city": "New York",
-                "country": "United States",
-                "crossStreet": "btwn 15th & 17th St",
-                "distance": 2941,
-                "formattedAddress": [
-                    "1 Union Sq W (btwn 15th & 17th St)",
-                    "New York, NY 10003",
-                    "United States"
-                ],
-                "lat": 40.73652697126574,
-                "lng": -73.9905595779419,
-                "postalCode": "10003",
-                "state": "NY"
-            },
-            "menu": {
-                "anchor": "View Products",
-                "label": "Products",
-                "mobileUrl": "https://foursquare.com/v/49c27575f964a520f1551fe3/device_menu",
-                "type": "Products",
-                "url": "https://foursquare.com/v/union-square-greenmarket/49c27575f964a520f1551fe3/menu"
-            },
-            "name": "Union Square Greenmarket",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 109370,
-                "tipCount": 402,
-                "usersCount": 40218
-            },
-            "url": "http://www.grownyc.org/Greenmarket",
-            "venueChains": [],
-            "venuePage": {
-                "id": "32897601"
-            },
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/botanicalgarden_",
-                        "suffix": ".png"
-                    },
-                    "id": "52e81612bcbc57f1066b7a22",
-                    "name": "Botanical Garden",
-                    "pluralName": "Botanical Gardens",
-                    "primary": true,
-                    "shortName": "Botanical Garden"
-                }
-            ],
-            "contact": {
-                "facebook": "23052204384",
-                "facebookName": "Brooklyn Botanic Garden",
-                "facebookUsername": "BrooklynBotanic",
-                "formattedPhone": "(718) 623-7200",
-                "phone": "7186237200",
-                "twitter": "bklynbotanic"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "42717900f964a5206f211fe3",
-            "location": {
-                "address": "990 Washington Ave",
-                "cc": "US",
-                "city": "Brooklyn",
-                "country": "United States",
-                "crossStreet": "at President St",
-                "distance": 6024,
-                "formattedAddress": [
-                    "990 Washington Ave (at President St)",
-                    "Brooklyn, NY 11225",
-                    "United States"
-                ],
-                "lat": 40.66912322571704,
-                "lng": -73.96374426621672,
-                "postalCode": "11225",
-                "state": "NY"
-            },
-            "name": "Brooklyn Botanic Garden",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 1,
-                "items": [
-                    {
-                        "description": "",
-                        "icon": "default",
-                        "id": "588fbebcfc5a5f5164fae63b",
-                        "interaction": {
-                            "entryUrl": "https://foursquare.com/device/specials/588fbebcfc5a5f5164fae63b?venueId=42717900f964a5206f211fe3"
-                        },
-                        "message": "Winter weekdays are FREE, Tue-Fri through the end of February.",
-                        "page": {
-                            "bio": "",
-                            "contact": {
-                                "facebook": "23052204384"
-                            },
-                            "firstName": "Brooklyn Botanic Garden",
-                            "gender": "none",
-                            "homeCity": "Brooklyn, NY",
-                            "id": "33288113",
-                            "lists": {
-                                "groups": [
-                                    {
-                                        "count": 2,
-                                        "items": [],
-                                        "type": "created"
-                                    }
-                                ]
-                            },
-                            "photo": {
-                                "prefix": "https://igx.4sqi.net/img/user/",
-                                "suffix": "/33288113-4G1KFQ3GIHKA4HY4.png"
-                            },
-                            "tips": {
-                                "count": 8
-                            },
-                            "type": "venuePage",
-                            "venue": {
-                                "id": "42717900f964a5206f211fe3"
-                            }
-                        },
-                        "photo": {
-                            "createdAt": 1485815484,
-                            "height": 1407,
-                            "id": "588fbebc4816f0248bcd042d",
-                            "prefix": "https://igx.4sqi.net/img/general/",
-                            "suffix": "/33288113_uS3XglqJxeSYaay6zWKIcK93e7EC_j6AbUNJMwZjnFU.jpg",
-                            "visibility": "public",
-                            "width": 1662
-                        },
-                        "provider": "foursquare",
-                        "redemption": "webview",
-                        "state": "unlocked",
-                        "title": "Special",
-                        "type": "frequency",
-                        "unlocked": true
-                    }
-                ]
-            },
-            "stats": {
-                "checkinsCount": 37428,
-                "tipCount": 303,
-                "usersCount": 23105
+                "usersCount": 283
             },
             "storeId": "",
-            "url": "http://bbg.org",
+            "url": "http://maid-rite.com",
+            "venueChains": [
+                {
+                    "id": "5569f842a7c8896abe7cfb44"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d16e941735",
+                    "name": "Fast Food Restaurant",
+                    "pluralName": "Fast Food Restaurants",
+                    "primary": true,
+                    "shortName": "Fast Food"
+                }
+            ],
+            "contact": {
+                "facebook": "113385204488",
+                "facebookName": "Wendy's",
+                "facebookUsername": "wendys",
+                "formattedPhone": "(573) 364-5500",
+                "phone": "5733645500",
+                "twitter": "wendys"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4c02c1120d0e0f474799019a",
+            "location": {
+                "address": "1007 Kingshighway St",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 689,
+                "formattedAddress": [
+                    "1007 Kingshighway St",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.94620269895763,
+                        "lng": -91.77879810333252
+                    }
+                ],
+                "lat": 37.94620269895763,
+                "lng": -91.77879810333252,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4c02c1120d0e0f474799019a/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/wendys/4c02c1120d0e0f474799019a/menu"
+            },
+            "name": "Wendy's",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 816,
+                "tipCount": 3,
+                "usersCount": 415
+            },
+            "storeId": "02929-FS-OP",
+            "url": "http://www.wendys.com",
+            "venueChains": [
+                {
+                    "id": "556f46f6bd6a007c77390fa9"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1ca941735",
+                    "name": "Pizza Place",
+                    "pluralName": "Pizza Places",
+                    "primary": true,
+                    "shortName": "Pizza"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 341-8484",
+                "phone": "5733418484"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4b9e675cf964a5209de036e3",
+            "location": {
+                "address": "632 S Bishop Ave",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 1495,
+                "formattedAddress": [
+                    "632 S Bishop Ave",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.936011481396896,
+                        "lng": -91.77776769667102
+                    }
+                ],
+                "lat": 37.936011481396896,
+                "lng": -91.77776769667102,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4b9e675cf964a5209de036e3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/imos-pizza/4b9e675cf964a5209de036e3/menu"
+            },
+            "name": "Imo's Pizza",
+            "referralId": "v-1492836180",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 575,
+                "tipCount": 12,
+                "usersCount": 202
+            },
+            "url": "http://imospizza.com",
             "venueChains": [],
-            "venuePage": {
-                "id": "33288113"
-            },
-            "verified": true
+            "verified": false
         },
         {
             "allowMenuUrlEdit": true,
@@ -1900,20 +2113,20 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_gourmet_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d1f5941735",
-                    "name": "Gourmet Shop",
-                    "pluralName": "Gourmet Shops",
+                    "id": "4bf58dd8d48988d147941735",
+                    "name": "Diner",
+                    "pluralName": "Diners",
                     "primary": true,
-                    "shortName": "Gourmet"
+                    "shortName": "Diner"
                 }
             ],
             "contact": {
-                "formattedPhone": "(212) 226-6800",
-                "phone": "2122266800",
-                "twitter": "deananddeluca"
+                "formattedPhone": "(573) 341-2655",
+                "phone": "5733412655",
+                "twitter": "wafflehouse"
             },
             "hasMenu": true,
             "hasPerk": false,
@@ -1922,134 +2135,53 @@
                 "groups": [],
                 "summary": "Nobody here"
             },
-            "id": "44d9e8dbf964a5208a361fe3",
+            "id": "4bb7419646d4a5935739c7c0",
             "location": {
-                "address": "560 Broadway",
+                "address": "1405 Martin Springs Dr",
                 "cc": "US",
-                "city": "New York",
+                "city": "Rolla",
                 "country": "United States",
-                "crossStreet": "at Prince St",
-                "distance": 1440,
+                "distance": 1879,
                 "formattedAddress": [
-                    "560 Broadway (at Prince St)",
-                    "New York, NY 10012",
-                    "United States"
-                ],
-                "lat": 40.724154220508936,
-                "lng": -73.9977089326415,
-                "postalCode": "10012",
-                "state": "NY"
-            },
-            "menu": {
-                "anchor": "View Products",
-                "label": "Products",
-                "mobileUrl": "https://foursquare.com/v/44d9e8dbf964a5208a361fe3/device_menu",
-                "type": "Products",
-                "url": "https://foursquare.com/v/dean--deluca/44d9e8dbf964a5208a361fe3/menu"
-            },
-            "name": "Dean & DeLuca",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 49522,
-                "tipCount": 388,
-                "usersCount": 19669
-            },
-            "url": "http://www.deandeluca.com",
-            "venueChains": [
-                {
-                    "id": "556e57cdbd6a82902e28cb1e"
-                }
-            ],
-            "venuePage": {
-                "id": "39094592"
-            },
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/salad_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1bd941735",
-                    "name": "Salad Place",
-                    "pluralName": "Salad Places",
-                    "primary": true,
-                    "shortName": "Salad"
-                }
-            ],
-            "contact": {
-                "facebook": "1387531261477239",
-                "facebookName": "sweetgreen",
-                "facebookUsername": "sweetgreennomad",
-                "formattedPhone": "(646) 449-8884",
-                "phone": "6464498884",
-                "twitter": "sweetgreen"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "51c080d9abd88bfe62869a59",
-            "location": {
-                "address": "1164 Broadway",
-                "cc": "US",
-                "city": "New York",
-                "country": "United States",
-                "crossStreet": "at W 28th St",
-                "distance": 3848,
-                "formattedAddress": [
-                    "1164 Broadway (at W 28th St)",
-                    "New York, NY 10001",
+                    "1405 Martin Springs Dr",
+                    "Rolla, MO 65401",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 40.7448018,
-                        "lng": -73.9886439
+                        "lat": 37.94241855,
+                        "lng": -91.791469
                     }
                 ],
-                "lat": 40.7448018,
-                "lng": -73.9886439,
-                "postalCode": "10001",
-                "state": "NY"
+                "lat": 37.94241855,
+                "lng": -91.791469,
+                "postalCode": "65401",
+                "state": "MO"
             },
             "menu": {
                 "anchor": "View Menu",
-                "externalUrl": "https://order.sweetgreen.com/nomad/menu/",
                 "label": "Menu",
-                "mobileUrl": "https://order.sweetgreen.com/nomad/menu/",
+                "mobileUrl": "https://foursquare.com/v/4bb7419646d4a5935739c7c0/device_menu",
                 "type": "Menu",
-                "url": "https://order.sweetgreen.com/nomad/menu/"
+                "url": "https://foursquare.com/v/waffle-house/4bb7419646d4a5935739c7c0/menu"
             },
-            "name": "sweetgreen",
-            "referralId": "v-1492835551",
+            "name": "Waffle House",
+            "referralId": "v-1492836180",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 31114,
-                "tipCount": 310,
-                "usersCount": 8635
+                "checkinsCount": 639,
+                "tipCount": 10,
+                "usersCount": 407
             },
-            "url": "http://sweetgreen.com",
+            "storeId": "1681",
+            "url": "http://www.wafflehouse.com",
             "venueChains": [
                 {
-                    "id": "5568f630a7c8a9cf8ec4d221"
+                    "id": "556e0f6fa7c82e6b724f8c7e"
                 }
             ],
             "verified": true
@@ -2062,394 +2194,72 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_foodcourt_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d120951735",
-                    "name": "Food Court",
-                    "pluralName": "Food Courts",
+                    "id": "4bf58dd8d48988d145941735",
+                    "name": "Chinese Restaurant",
+                    "pluralName": "Chinese Restaurants",
                     "primary": true,
-                    "shortName": "Food Court"
+                    "shortName": "Chinese"
                 }
             ],
             "contact": {
-                "facebook": "128889200472466",
-                "facebookName": "Urbanspace",
-                "facebookUsername": "urbanspace",
-                "formattedPhone": "(212) 529-9262",
-                "phone": "2125299262",
-                "twitter": "urbanspacenyc"
+                "formattedPhone": "(573) 364-9610",
+                "phone": "5733649610"
             },
+            "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
                 "count": 0,
                 "groups": [],
                 "summary": "Nobody here"
             },
-            "id": "55c2627a498e6734787e29ef",
+            "id": "4b54a8caf964a52067c527e3",
             "location": {
-                "address": "230 Park Avenue",
+                "address": "635 S Bishop Ave",
                 "cc": "US",
-                "city": "New York",
+                "city": "Rolla",
                 "country": "United States",
-                "crossStreet": "btwn E 45th St & Vanderbilt Ave",
-                "distance": 5238,
+                "crossStreet": "at Oaklane Dr.",
+                "distance": 1565,
                 "formattedAddress": [
-                    "230 Park Avenue (btwn E 45th St & Vanderbilt Ave)",
-                    "New York, NY 10017",
+                    "635 S Bishop Ave (at Oaklane Dr.)",
+                    "Rolla, MO 65401",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 40.75439923526908,
-                        "lng": -73.9768705592111
+                        "lat": 37.93525,
+                        "lng": -91.77746341
                     }
                 ],
-                "lat": 40.75439923526908,
-                "lng": -73.9768705592111,
-                "postalCode": "10017",
-                "state": "NY"
+                "lat": 37.93525,
+                "lng": -91.77746341,
+                "postalCode": "65401",
+                "state": "MO"
             },
-            "name": "UrbanSpace Vanderbilt",
-            "referralId": "v-1492835551",
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4b54a8caf964a52067c527e3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/mandarin-garden/4b54a8caf964a52067c527e3/menu"
+            },
+            "name": "Mandarin Garden",
+            "referralId": "v-1492836180",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 15418,
-                "tipCount": 122,
-                "usersCount": 6590
+                "checkinsCount": 428,
+                "tipCount": 8,
+                "usersCount": 187
             },
-            "url": "http://urbanspacenyc.com/our-markets/urbanspacevanderbilt/",
             "venueChains": [],
-            "venuePage": {
-                "id": "138447335"
-            },
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/salad_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1bd941735",
-                    "name": "Salad Place",
-                    "pluralName": "Salad Places",
-                    "primary": true,
-                    "shortName": "Salad"
-                }
-            ],
-            "contact": {
-                "facebook": "328059044053199",
-                "facebookName": "sweetgreen",
-                "facebookUsername": "sweetgreennolita",
-                "formattedPhone": "(646) 964-5012",
-                "phone": "6469645012",
-                "twitter": "sweetgreen"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "5484890c498e985cf4e3c076",
-            "location": {
-                "address": "100 Kenmare St",
-                "cc": "US",
-                "city": "New York",
-                "country": "United States",
-                "crossStreet": "btwn Cleveland & Mulberry St",
-                "distance": 1170,
-                "formattedAddress": [
-                    "100 Kenmare St (btwn Cleveland & Mulberry St)",
-                    "New York, NY 10012",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 40.72102629522486,
-                        "lng": -73.99725689562729
-                    }
-                ],
-                "lat": 40.72102629522486,
-                "lng": -73.99725689562729,
-                "postalCode": "10012",
-                "state": "NY"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "externalUrl": "https://order.sweetgreen.com/nolita/menu/",
-                "label": "Menu",
-                "mobileUrl": "https://order.sweetgreen.com/nolita/menu/",
-                "type": "Menu",
-                "url": "https://order.sweetgreen.com/nolita/menu/"
-            },
-            "name": "sweetgreen",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 14824,
-                "tipCount": 120,
-                "usersCount": 3256
-            },
-            "url": "http://sweetgreen.com",
-            "venueChains": [
-                {
-                    "id": "5568f630a7c8a9cf8ec4d221"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1e0931735",
-                    "name": "Coffee Shop",
-                    "pluralName": "Coffee Shops",
-                    "primary": true,
-                    "shortName": "Coffee Shop"
-                }
-            ],
-            "contact": {
-                "facebook": "188161167913607",
-                "facebookName": "Gasoline Alley Coffee",
-                "formattedPhone": "(212) 933-0113",
-                "phone": "2129330113",
-                "twitter": "gasolinealleyco"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4e4d9c17814dd49447e709e1",
-            "location": {
-                "address": "325 Lafayette St",
-                "cc": "US",
-                "city": "New York",
-                "country": "United States",
-                "crossStreet": "btwn Bleecker & E Houston St",
-                "distance": 1702,
-                "formattedAddress": [
-                    "325 Lafayette St (btwn Bleecker & E Houston St)",
-                    "New York, NY 10012",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 40.725551325924265,
-                        "lng": -73.99476528167725
-                    }
-                ],
-                "lat": 40.725551325924265,
-                "lng": -73.99476528167725,
-                "postalCode": "10012",
-                "state": "NY"
-            },
-            "name": "Gasoline Alley Coffee",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 27804,
-                "tipCount": 279,
-                "usersCount": 6996
-            },
-            "storeId": "",
-            "url": "http://gasolinealleycoffee.com",
-            "venueChains": [
-                {
-                    "id": "55cbd992498e3b614d2011f4"
-                }
-            ],
-            "venuePage": {
-                "id": "53804667"
-            },
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/salad_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1bd941735",
-                    "name": "Salad Place",
-                    "pluralName": "Salad Places",
-                    "primary": true,
-                    "shortName": "Salad"
-                }
-            ],
-            "contact": {
-                "facebook": "795573620552501",
-                "facebookName": "sweetgreen",
-                "facebookUsername": "sweetgreenunionsquare",
-                "formattedPhone": "(646) 692-3131",
-                "phone": "6466923131",
-                "twitter": "sweetgreen"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "5673b4b5498ed6368456b30d",
-            "location": {
-                "address": "8 E 18th St",
-                "cc": "US",
-                "city": "New York",
-                "country": "United States",
-                "distance": 3072,
-                "formattedAddress": [
-                    "8 E 18th St",
-                    "New York, NY 10003",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 40.73806133544267,
-                        "lng": -73.99122334551976
-                    }
-                ],
-                "lat": 40.73806133544267,
-                "lng": -73.99122334551976,
-                "postalCode": "10003",
-                "state": "NY"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "externalUrl": "https://order.sweetgreen.com/union-square/menu/",
-                "label": "Menu",
-                "mobileUrl": "https://order.sweetgreen.com/union-square/menu/",
-                "type": "Menu",
-                "url": "https://order.sweetgreen.com/union-square/menu/"
-            },
-            "name": "sweetgreen",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 8659,
-                "tipCount": 48,
-                "usersCount": 2556
-            },
-            "url": "http://sweetgreen.com",
-            "venueChains": [
-                {
-                    "id": "5568f630a7c8a9cf8ec4d221"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1e0931735",
-                    "name": "Coffee Shop",
-                    "pluralName": "Coffee Shops",
-                    "primary": true,
-                    "shortName": "Coffee Shop"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(646) 559-0161",
-                "phone": "6465590161",
-                "twitter": "tobysbrooklyn"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "525eeb3811d2c49bf03e23ec",
-            "location": {
-                "address": "160 5th Ave",
-                "cc": "US",
-                "city": "New York",
-                "country": "United States",
-                "crossStreet": "btwn E 20th & E 21st St",
-                "distance": 3298,
-                "formattedAddress": [
-                    "160 5th Ave (btwn E 20th & E 21st St)",
-                    "New York, NY 10010",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 40.74008224791916,
-                        "lng": -73.990638716365
-                    }
-                ],
-                "lat": 40.74008224791916,
-                "lng": -73.990638716365,
-                "postalCode": "10010",
-                "state": "NY"
-            },
-            "name": "Toby's Estate Coffee",
-            "referralId": "v-1492835551",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 19986,
-                "tipCount": 216,
-                "usersCount": 6415
-            },
-            "storeId": "",
-            "url": "http://www.tobysestate.com",
-            "venueChains": [
-                {
-                    "id": "556e59bbbd6a82902e2915e7"
-                }
-            ],
-            "verified": true
+            "verified": false
         }
     ]
 }

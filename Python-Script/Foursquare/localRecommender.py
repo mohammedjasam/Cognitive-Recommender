@@ -6,7 +6,7 @@ from foursquare import Foursquare
 
 
 # ll='37.9485,-91.7715'
-s='40.7128° N, 74.0059° W'
+s='37.9485° N, 91.7715° W'
 la,lo = s.split(',')
 la=la[:-3]
 lo=lo[1:-3]

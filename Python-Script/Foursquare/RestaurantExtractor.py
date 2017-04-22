@@ -20,7 +20,7 @@ with open('Restaurants.json') as data_file:
             x= data['venues'][i]['name']
             if x not in names:
                 names.append(data['venues'][i]['name'])
-                print(str(i+1) + ". " + x)
+                print(str(i+1) + ". " + x + "                         \nAddress ====> " + data['venues'][i]['location']['formattedAddress'][0]+" "+data['venues'][i]['location']['formattedAddress'][1]+"\n")
 
             else:
                 pass
