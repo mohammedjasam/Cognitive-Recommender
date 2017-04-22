@@ -7,17 +7,21 @@ os.chdir(dir_path+'\\DataSets\\')
 l=[]
 names=[]
 
+
+
 with open('Restaurants.json') as data_file:
     data = json.load(data_file)
 
     data = dict(data)
-    print("These are the Restaurants in your location:")
+    city=data['venues'][0]['location']['city']
+    print("These are the Restaurants in %s:"%city)
     for i in range(100):
         try:
             x= data['venues'][i]['name']
             if x not in names:
                 names.append(data['venues'][i]['name'])
                 print(str(i+1) + ". " + x)
+
             else:
                 pass
 
