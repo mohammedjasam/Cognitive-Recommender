@@ -1,14 +1,15 @@
 import json
 from pprint import pprint
 from ast import literal_eval
-with open('op.json') as data_file:
-    data = json.load(data_file)
-
 import pyrebase
 import sys
 import os
-# import firebase_new
+import subprocess
 import UID
+
+with open('op.json') as data_file:
+    data = json.load(data_file)
+
 config = {
   "apiKey": "AIzaSyCuygRGzgjeLAZcu5NJasnL3DK8GMweuh4",
   "authDomain": "cognitive-recommender.firebaseapp.com",
@@ -23,13 +24,10 @@ db = firebase.database()
 data = dict(data)
 ll = data['outputs'][0]['data']['concepts']
 
-# print(ll)
-
 d={}
 for x in ll:
     d[x['name']]=x['value']*100
     print(x['name'],str(x['value']*100)+"%")
-    # db.child('User').child('1').push('{'+x['name']+':'+str(x['value']*100)+"%"+'}')
 finalList = {}
 
 
@@ -114,10 +112,6 @@ testdata=r'C:/Users/Stark/Desktop/Programming/Android-Development/CognitiveRecom
 s='U'+ UID.get_lastUID()
 
 
-# print(firebase_new.get_lastUID())
-
-
-
 
 for x in finalList.values():
     s+=','+str(x)
@@ -126,22 +120,14 @@ fd.write("userID,smoker,drink_level,dress_preference,ambience,activity,budget\n"
 fd.write(s+'\n')
 fd.close()
 
-import subprocess
-import os
 dir_path = os.path.dirname(os.path.realpath(__file__))
+os.chdir(dir_path+ "\Foursquare\ ")
+subprocess.call("python localRecommender.py",shell=True)
+os.chdir(dir_path+ "\Foursquare\ ")
+subprocess.call('python RestaurantExtractor.py',shell=True)
 
-print(dir_path+ "\Recommender\ ")
-os.chdir(dir_path+ "\Recommender\ ")
 
-# DecisionPath = dir_path+"/Recommender/Recommend_Project_decision.py"
-# KNNPath = dir_path+"/Recommender/Recommend_Project_KNN.py"
-# RandomForestPath = dir_path+"/Recommender/Recommend_Project_decision_randomForest.py"
-#
-# Recommender= 'python ' + DecisionPath
-# subprocess.call('python Recommend_Project_decision.py',shell=True)
-
-# Recommender= 'python ' + KNNPath
+add = os.path.dirname(os.path.realpath(__file__))
+os.chdir(add + "\Recommender\ ")
 subprocess.call("python Recommend_Project_KNN.py",shell=True)
-
-# Recommender= 'python ' + RandomForestPath
 subprocess.call("python Recommend_Project_decision_randomForest.py",shell=True)
