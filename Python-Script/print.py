@@ -120,6 +120,13 @@ fd.write("userID,smoker,drink_level,dress_preference,ambience,activity,budget\n"
 fd.write(s+'\n')
 fd.close()
 
+# add = os.path.dirname(os.path.realpath(__file__))
+# os.chdir(add)
+# os.chdir(add + "\Recommender\ ")
+# subprocess.call("python Recommend_Project_KNN.py",shell=True)
+# subprocess.call("python Recommend_Project_decision_randomForest.py",shell=True)
+
+
 dir_path = os.path.dirname(os.path.realpath(__file__))
 os.chdir(dir_path+ "\Foursquare\ ")
 subprocess.call("python localRecommender.py",shell=True)
@@ -128,6 +135,7 @@ subprocess.call('python RestaurantExtractor.py',shell=True)
 
 
 add = os.path.dirname(os.path.realpath(__file__))
+os.chdir(add)
 os.chdir(add + "\Recommender\ ")
 subprocess.call("python Recommend_Project_KNN.py",shell=True)
 subprocess.call("python Recommend_Project_decision_randomForest.py",shell=True)

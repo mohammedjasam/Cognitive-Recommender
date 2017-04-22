@@ -1,6 +1,8 @@
 import pyrebase
 from subprocess import Popen, PIPE
+import time
 import os
+import webbrowser
 
 config = {
   "apiKey": "AIzaSyBw7fexfbjVhN9XTYxVG7bIxfQPH2zpvrI",
@@ -18,6 +20,10 @@ db = firebase.database()
 users = db.child('darklordofasgard').get()
 d=dict(users.val())
 print("The URL of the Image\n"+d['url'])
+url = d['url']
+webbrowser.open(url)
+
+time.sleep(3)
 
 s= d['url']
 os.system("main.py "+s)
