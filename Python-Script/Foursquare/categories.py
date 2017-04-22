@@ -12,7 +12,7 @@ os.chdir(dir_path+'\\DataSets\\')
 # for x in key:
 with open('categories.json', 'w') as f:
     # print(json.dumps(client.venues.search(params={'ll':'37.9485,-91.7715','query':x,'radius':'1000'}),sort_keys=True, indent=4, separators=(',', ': ')),file=f)
-    print(json.dumps(client.venues.categories(),sort_keys=True, indent=4, separators=(',', ': ')),file=f)
+    print(json.dumps(client.venues.categories()['categories'],sort_keys=True, indent=4, separators=(',', ': ')),file=f)
 
 
 

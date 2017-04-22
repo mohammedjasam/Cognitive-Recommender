@@ -2,8 +2,8 @@ import json
 import os
 dir_path = os.path.dirname(os.path.realpath(__file__))
 os.chdir(dir_path+'\\DataSets\\')
-# key=['Restaurant','chicken','steak','pizza','veg']
-key=['categories']
+key=['Restaurant','chicken','steak','pizza','veg']
+# key=['categories']
 l=[]
 names=[]
 

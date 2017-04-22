@@ -11,7 +11,7 @@ dir_path = os.path.dirname(os.path.realpath(__file__))
 os.chdir(dir_path+'\\DataSets\\')
 for x in key:
     with open(x+'.json', 'w') as f:
-        print(json.dumps(client.venues.search(params={'ll':'37.9485,-91.7715','query':x,'radius':'1000'}),sort_keys=True, indent=4, separators=(',', ': ')),file=f)
+        print(json.dumps(client.venues.search(params={'ll':'37.9485,-91.7715','query':x,'radius':'1000','categoryId':'4d4b7105d754a06374d81259'}),sort_keys=True, indent=4, separators=(',', ': ')),file=f)
 import subprocess
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
