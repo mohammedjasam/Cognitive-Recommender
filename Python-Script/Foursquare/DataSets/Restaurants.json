@@ -9,295 +9,78 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d1e0931735",
-                    "name": "Coffee Shop",
-                    "pluralName": "Coffee Shops",
+                    "id": "4bf58dd8d48988d1f9941735",
+                    "name": "Food & Drink Shop",
+                    "pluralName": "Food & Drink Shops",
                     "primary": true,
-                    "shortName": "Coffee Shop"
+                    "shortName": "Food & Drink"
                 }
             ],
             "contact": {
-                "formattedPhone": "(573) 426-6750",
-                "phone": "5734266750"
+                "facebook": "887100784648235",
+                "facebookName": "The Market",
+                "facebookUsername": "visitthemarket",
+                "formattedPhone": "(415) 767-5130",
+                "phone": "4157675130",
+                "twitter": "visitthemarket"
             },
-            "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
+                "count": 3,
+                "groups": [
+                    {
+                        "count": 3,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "3 people are here"
             },
-            "id": "4b7af9e1f964a5209e492fe3",
+            "id": "547cd07d498ef3265ffc5a75",
             "location": {
-                "address": "704 N Bishop Ave #2",
+                "address": "1355 Market St Ste 100",
                 "cc": "US",
-                "city": "Rolla",
+                "city": "San Francisco",
                 "country": "United States",
-                "crossStreet": "at 8th St.",
-                "distance": 129,
+                "crossStreet": "at 10th St",
+                "distance": 261,
                 "formattedAddress": [
-                    "704 N Bishop Ave #2 (at 8th St.)",
-                    "Rolla, MO 65401",
+                    "1355 Market St Ste 100 (at 10th St)",
+                    "San Francisco, CA 94103",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 37.949781461026625,
-                        "lng": -91.77690982818602
+                        "lat": 37.77656914141511,
+                        "lng": -122.41730186215622
                     }
                 ],
-                "lat": 37.949781461026625,
-                "lng": -91.77690982818602,
-                "postalCode": "65401",
-                "state": "MO"
+                "lat": 37.77656914141511,
+                "lng": -122.41730186215622,
+                "postalCode": "94103",
+                "state": "CA"
             },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b7af9e1f964a5209e492fe3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/the-giddy-goat/4b7af9e1f964a5209e492fe3/menu"
-            },
-            "name": "The Giddy Goat",
-            "referralId": "v-1492910913",
+            "name": "The Market",
+            "referralId": "v-1492977518",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 2239,
-                "tipCount": 28,
-                "usersCount": 220
+                "checkinsCount": 11491,
+                "tipCount": 58,
+                "usersCount": 3628
             },
-            "url": "http://www.tggch.com/",
+            "url": "http://www.visitthemarket.com",
             "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
+            "venuePage": {
+                "id": "134615431"
             },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1d0941735",
-                    "name": "Dessert Shop",
-                    "pluralName": "Dessert Shops",
-                    "primary": true,
-                    "shortName": "Desserts"
-                }
-            ],
-            "contact": {},
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4b64ff19f964a5206ade2ae3",
-            "location": {
-                "address": "601 Kingshighway St",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "crossStreet": "at 6th St.",
-                "distance": 162,
-                "formattedAddress": [
-                    "601 Kingshighway St (at 6th St.)",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.947962,
-                        "lng": -91.775246
-                    }
-                ],
-                "lat": 37.947962,
-                "lng": -91.775246,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b64ff19f964a5206ade2ae3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/a-slice-of-pie/4b64ff19f964a5206ade2ae3/menu"
-            },
-            "name": "A Slice of Pie",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 555,
-                "tipCount": 20,
-                "usersCount": 349
-            },
-            "url": "http://asliceofpie.info",
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1ca941735",
-                    "name": "Pizza Place",
-                    "pluralName": "Pizza Places",
-                    "primary": true,
-                    "shortName": "Pizza"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 364-2669",
-                "phone": "5733642669"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4b7c45c6f964a520ca882fe3",
-            "location": {
-                "address": "122 W 8th St",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "crossStreet": "at Pine St.",
-                "distance": 393,
-                "formattedAddress": [
-                    "122 W 8th St (at Pine St.)",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.950059996024244,
-                        "lng": -91.77110958800581
-                    }
-                ],
-                "lat": 37.950059996024244,
-                "lng": -91.77110958800581,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b7c45c6f964a520ca882fe3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/alexs-pizza/4b7c45c6f964a520ca882fe3/menu"
-            },
-            "name": "Alex's Pizza",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 1307,
-                "tipCount": 30,
-                "usersCount": 625
-            },
-            "url": "http://www.alexspizza.com/",
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1c5941735",
-                    "name": "Sandwich Place",
-                    "pluralName": "Sandwich Places",
-                    "primary": true,
-                    "shortName": "Sandwiches"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 341-9009",
-                "phone": "5733419009",
-                "twitter": "jimmyjohns"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4dc19c86d4c07bbdf77963cc",
-            "location": {
-                "address": "1051 N Bishop Ave",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "crossStreet": "at 11th St.",
-                "distance": 330,
-                "formattedAddress": [
-                    "1051 N Bishop Ave (at 11th St.)",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.951991340817315,
-                        "lng": -91.7773586693094
-                    }
-                ],
-                "lat": 37.951991340817315,
-                "lng": -91.7773586693094,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "name": "Jimmy John's",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 2337,
-                "tipCount": 14,
-                "usersCount": 436
-            },
-            "storeId": "1359",
-            "url": "http://www.jimmyjohns.com",
-            "venueChains": [
-                {
-                    "id": "556e119fa7c82e6b725012dc"
-                }
-            ],
             "verified": true
         },
         {
@@ -308,406 +91,74 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d1c1941735",
-                    "name": "Mexican Restaurant",
-                    "pluralName": "Mexican Restaurants",
+                    "id": "4bf58dd8d48988d16d941735",
+                    "name": "Caf\u00e9",
+                    "pluralName": "Caf\u00e9s",
                     "primary": true,
-                    "shortName": "Mexican"
-                }
-            ],
-            "contact": {},
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "53374256498e1c57f2fe6fdc",
-            "location": {
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 2280,
-                "formattedAddress": [
-                    "Rolla, MO",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.93761015555853,
-                        "lng": -91.75427861342858
-                    }
-                ],
-                "lat": 37.93761015555853,
-                "lng": -91.75427861342858,
-                "state": "MO"
-            },
-            "name": "Los Arcos",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 84,
-                "tipCount": 8,
-                "usersCount": 49
-            },
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1d2941735",
-                    "name": "Sushi Restaurant",
-                    "pluralName": "Sushi Restaurants",
-                    "primary": true,
-                    "shortName": "Sushi"
+                    "shortName": "Caf\u00e9"
                 }
             ],
             "contact": {
-                "formattedPhone": "(573) 341-2939",
-                "phone": "5733412939"
+                "facebook": "371643359695143",
+                "facebookName": "Tartine Manufactory",
+                "formattedPhone": "(415) 487-2600",
+                "instagram": "tartinemanufactory",
+                "phone": "4154872600",
+                "twitter": "sfmanufactory"
             },
-            "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
+                "count": 12,
+                "groups": [
+                    {
+                        "count": 12,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "12 people are here"
             },
-            "id": "4b50aac2f964a5205d2c27e3",
+            "id": "57ac23c1498eef0851316d5e",
             "location": {
-                "address": "1002 N Bishop Ave",
+                "address": "595 Alabama St",
                 "cc": "US",
-                "city": "Rolla",
+                "city": "San Francisco",
                 "country": "United States",
-                "crossStreet": "at 11th St.",
-                "distance": 316,
+                "crossStreet": "at 18th St",
+                "distance": 1581,
                 "formattedAddress": [
-                    "1002 N Bishop Ave (at 11th St.)",
-                    "Rolla, MO 65401",
+                    "595 Alabama St (at 18th St)",
+                    "San Francisco, CA 94110",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 37.95208361804845,
-                        "lng": -91.77673562336237
+                        "lat": 37.761982,
+                        "lng": -122.411919
                     }
                 ],
-                "lat": 37.95208361804845,
-                "lng": -91.77673562336237,
-                "postalCode": "65401",
-                "state": "MO"
+                "lat": 37.761982,
+                "lng": -122.411919,
+                "postalCode": "94110",
+                "state": "CA"
             },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b50aac2f964a5205d2c27e3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/kyoto-japanese-restaurant/4b50aac2f964a5205d2c27e3/menu"
-            },
-            "name": "Kyoto Japanese Restaurant",
-            "referralId": "v-1492910913",
+            "name": "Tartine Manufactory",
+            "referralId": "v-1492977518",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 599,
-                "tipCount": 21,
-                "usersCount": 231
+                "checkinsCount": 4178,
+                "tipCount": 67,
+                "usersCount": 2435
             },
-            "url": "http://www.rollakyoto.com",
-            "venueChains": [],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d16e941735",
-                    "name": "Fast Food Restaurant",
-                    "pluralName": "Fast Food Restaurants",
-                    "primary": true,
-                    "shortName": "Fast Food"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 364-7725",
-                "phone": "5733647725",
-                "twitter": "burgerking"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4b8814fbf964a5206cde31e3",
-            "location": {
-                "address": "1022 Kings Highway",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 666,
-                "formattedAddress": [
-                    "1022 Kings Highway",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.94571861119712,
-                        "lng": -91.78150244057178
-                    }
-                ],
-                "lat": 37.94571861119712,
-                "lng": -91.78150244057178,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b8814fbf964a5206cde31e3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/burger-king/4b8814fbf964a5206cde31e3/menu"
-            },
-            "name": "Burger King",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 288,
-                "tipCount": 6,
-                "usersCount": 170
-            },
-            "storeId": "5357",
-            "url": "http://www.bk.com",
-            "venueChains": [
-                {
-                    "id": "556d12d9aceaff43eb090cdb"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1c9941735",
-                    "name": "Ice Cream Shop",
-                    "pluralName": "Ice Cream Shops",
-                    "primary": true,
-                    "shortName": "Ice Cream"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 458-2339",
-                "phone": "5734582339"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4ed8249146907c1b3feef6fc",
-            "location": {
-                "address": "1051 N Bishop Ave",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "crossStreet": "btwn 11th & 12th",
-                "distance": 315,
-                "formattedAddress": [
-                    "1051 N Bishop Ave (btwn 11th & 12th)",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.95185590613354,
-                        "lng": -91.7773206204472
-                    }
-                ],
-                "lat": 37.95185590613354,
-                "lng": -91.7773206204472,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "name": "Spoon Me",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 1591,
-                "tipCount": 12,
-                "usersCount": 290
-            },
-            "url": "http://spoonme.com",
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d14e941735",
-                    "name": "American Restaurant",
-                    "pluralName": "American Restaurants",
-                    "primary": true,
-                    "shortName": "American"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 364-2010",
-                "phone": "5733642010"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4e06796fb0fbba5eee165bc8",
-            "location": {
-                "address": "1049 Kingshighway St",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 1001,
-                "formattedAddress": [
-                    "1049 Kingshighway St",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.94420478,
-                        "lng": -91.784834
-                    }
-                ],
-                "lat": 37.94420478,
-                "lng": -91.784834,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "name": "Penelope's Restaurant",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 294,
-                "tipCount": 7,
-                "usersCount": 148
-            },
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/thai_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d149941735",
-                    "name": "Thai Restaurant",
-                    "pluralName": "Thai Restaurants",
-                    "primary": true,
-                    "shortName": "Thai"
-                }
-            ],
-            "contact": {},
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "542b3d80498e0cea6ba42bf3",
-            "location": {
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 818,
-                "formattedAddress": [
-                    "Rolla, MO",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.94491441641601,
-                        "lng": -91.7828998886407
-                    }
-                ],
-                "lat": 37.94491441641601,
-                "lng": -91.7828998886407,
-                "state": "MO"
-            },
-            "name": "Sawadee Thai Restaurant",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 50,
-                "tipCount": 5,
-                "usersCount": 27
-            },
+            "url": "http://www.tartinemanufactory.com",
             "venueChains": [],
             "verified": false
         },
@@ -729,48 +180,570 @@
                     "shortName": "Coffee Shop"
                 }
             ],
-            "contact": {},
+            "contact": {
+                "formattedPhone": "(415) 780-0867",
+                "instagram": "vervecoffee",
+                "phone": "4157800867",
+                "twitter": "vervecoffee"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 6,
+                "groups": [
+                    {
+                        "count": 6,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "6 people are here"
+            },
+            "id": "589f6a4372714f7d35566b6a",
+            "location": {
+                "address": "2101 Market St",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "at Church St",
+                "distance": 1214,
+                "formattedAddress": [
+                    "2101 Market St (at Church St)",
+                    "San Francisco, CA 94114",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.767101,
+                        "lng": -122.429053
+                    }
+                ],
+                "lat": 37.767101,
+                "lng": -122.429053,
+                "postalCode": "94114",
+                "state": "CA"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "externalUrl": "https://cdn.shopify.com/s/files/1/0035/9372/files/SF_TAKEOUT_MENU_FINAL.pdf?2915844769754843436=",
+                "label": "Menu",
+                "mobileUrl": "https://cdn.shopify.com/s/files/1/0035/9372/files/SF_TAKEOUT_MENU_FINAL.pdf?2915844769754843436=",
+                "type": "Menu",
+                "url": "https://cdn.shopify.com/s/files/1/0035/9372/files/SF_TAKEOUT_MENU_FINAL.pdf?2915844769754843436="
+            },
+            "name": "Verve Coffee Roasters",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 1212,
+                "tipCount": 36,
+                "usersCount": 570
+            },
+            "url": "http://vervecoffee.com",
+            "venueChains": [
+                {
+                    "id": "56323bdb498e49163fc1f925"
+                }
+            ],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d118951735",
+                    "name": "Grocery Store",
+                    "pluralName": "Grocery Stores",
+                    "primary": true,
+                    "shortName": "Grocery Store"
+                }
+            ],
+            "contact": {
+                "facebook": "24922591487",
+                "facebookName": "Whole Foods Market",
+                "facebookUsername": "WholeFoods",
+                "formattedPhone": "(415) 626-1430",
+                "phone": "4156261430",
+                "twitter": "wholefoodsnorca"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 4,
+                "groups": [
+                    {
+                        "count": 4,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "4 people are here"
+            },
+            "id": "52603bff11d21a914be4eb71",
+            "location": {
+                "address": "2001 Market Street",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "at Dolores St",
+                "distance": 954,
+                "formattedAddress": [
+                    "2001 Market Street (at Dolores St)",
+                    "San Francisco, CA 94114",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.768735586838446,
+                        "lng": -122.42693589670061
+                    }
+                ],
+                "lat": 37.768735586838446,
+                "lng": -122.42693589670061,
+                "postalCode": "94114",
+                "state": "CA"
+            },
+            "name": "Whole Foods Market",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 17063,
+                "tipCount": 64,
+                "usersCount": 3805
+            },
+            "storeId": "CAS",
+            "url": "http://www.wholefoodsmarket.com/stores/2001marketstreet",
+            "venueChains": [
+                {
+                    "id": "556cdf5baceaff43eb042df6"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/souvlaki_",
+                        "suffix": ".png"
+                    },
+                    "id": "52e81612bcbc57f1066b79f3",
+                    "name": "Souvlaki Shop",
+                    "pluralName": "Souvlaki Shops",
+                    "primary": true,
+                    "shortName": "Souvlaki"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(415) 400-5458",
+                "phone": "4154005458",
+                "twitter": "soulvasf"
+            },
             "hasPerk": false,
             "hereNow": {
                 "count": 0,
                 "groups": [],
                 "summary": "Nobody here"
             },
-            "id": "578f747a498e155ba5232653",
+            "id": "533cc33f498e604ebad95d8c",
             "location": {
-                "address": "12355 State Route Cc",
+                "address": "517 Hayes St",
                 "cc": "US",
-                "city": "Rolla",
+                "city": "San Francisco",
                 "country": "United States",
-                "distance": 3347,
+                "crossStreet": "at Octavia St",
+                "distance": 520,
                 "formattedAddress": [
-                    "12355 State Route Cc",
-                    "Rolla, MO 65401",
+                    "517 Hayes St (at Octavia St)",
+                    "San Francisco, CA 94102",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 37.922543,
-                        "lng": -91.792656
+                        "lat": 37.77652235934059,
+                        "lng": -122.42494500911538
                     }
                 ],
-                "lat": 37.922543,
-                "lng": -91.792656,
-                "postalCode": "65401",
-                "state": "MO"
+                "lat": 37.77652235934059,
+                "lng": -122.42494500911538,
+                "postalCode": "94102",
+                "state": "CA"
             },
-            "name": "The ART of COFFEE",
-            "referralId": "v-1492910913",
+            "menu": {
+                "anchor": "View Menu",
+                "externalUrl": "http://sanfrancisco.menupages.com/restaurants/souvla/menu",
+                "label": "Menu",
+                "mobileUrl": "http://sanfrancisco.menupages.com/restaurants/souvla/menu",
+                "type": "Menu",
+                "url": "http://sanfrancisco.menupages.com/restaurants/souvla/menu"
+            },
+            "name": "Souvla",
+            "referralId": "v-1492977518",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 84,
-                "tipCount": 0,
-                "usersCount": 3
+                "checkinsCount": 10466,
+                "tipCount": 196,
+                "usersCount": 4508
             },
+            "storeId": "",
+            "url": "http://souvlasf.com",
+            "venueChains": [],
+            "venuePage": {
+                "id": "83689801"
+            },
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_farmersmarket_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1fa941735",
+                    "name": "Farmers Market",
+                    "pluralName": "Farmers Markets",
+                    "primary": true,
+                    "shortName": "Farmer's Market"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(415) 983-8030",
+                "phone": "4159838030"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 4,
+                "groups": [
+                    {
+                        "count": 4,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "4 people are here"
+            },
+            "id": "43067280f964a52023271fe3",
+            "location": {
+                "address": "1 Ferry Building",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "at The Embarcadero",
+                "distance": 3237,
+                "formattedAddress": [
+                    "1 Ferry Building (at The Embarcadero)",
+                    "San Francisco, CA 94111",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.79553812238765,
+                        "lng": -122.39347279071806
+                    }
+                ],
+                "lat": 37.79553812238765,
+                "lng": -122.39347279071806,
+                "postalCode": "94111",
+                "state": "CA"
+            },
+            "menu": {
+                "anchor": "View Products",
+                "label": "Products",
+                "mobileUrl": "https://foursquare.com/v/43067280f964a52023271fe3/device_menu",
+                "type": "Products",
+                "url": "https://foursquare.com/v/ferry-building/43067280f964a52023271fe3/menu"
+            },
+            "name": "Ferry Building (Ferry Building Marketplace)",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 145616,
+                "tipCount": 430,
+                "usersCount": 61508
+            },
+            "storeId": "",
+            "url": "http://www.ferrybuildingmarketplace.com",
+            "venueChains": [],
+            "venuePage": {
+                "id": "55562034"
+            },
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
+                    "primary": true,
+                    "shortName": "Coffee Shop"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(510) 653-3394",
+                "phone": "5106533394",
+                "twitter": "bluebottlemint"
+            },
+            "delivery": {
+                "id": "19007",
+                "provider": {
+                    "name": "seamless"
+                },
+                "url": "http://www.seamless.com/food-delivery/restaurant.19007.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 3,
+                "groups": [
+                    {
+                        "count": 3,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "3 people are here"
+            },
+            "id": "49ca8f4df964a520b9581fe3",
+            "location": {
+                "address": "66 Mint Plaza",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "at Jessie St",
+                "distance": 1321,
+                "formattedAddress": [
+                    "66 Mint Plaza (at Jessie St)",
+                    "San Francisco, CA 94103",
+                    "United States"
+                ],
+                "lat": 37.78246395814844,
+                "lng": -122.40782260894775,
+                "postalCode": "94103",
+                "state": "CA"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/49ca8f4df964a520b9581fe3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/blue-bottle-coffee/49ca8f4df964a520b9581fe3/menu"
+            },
+            "name": "Blue Bottle Coffee",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 59764,
+                "tipCount": 689,
+                "usersCount": 22360
+            },
+            "url": "http://www.bluebottlecoffee.com/cafes/mint-plaza",
+            "venueChains": [
+                {
+                    "id": "5588c8f2498eb4fced6bebab"
+                }
+            ],
+            "venuePage": {
+                "id": "67189389"
+            },
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
+                    "primary": true,
+                    "shortName": "Coffee Shop"
+                }
+            ],
+            "contact": {
+                "facebook": "111745868854244",
+                "facebookName": "Four Barrel Coffee",
+                "facebookUsername": "fourbarrelcoffee",
+                "formattedPhone": "(415) 896-4289",
+                "instagram": "fourbarrelcoffee",
+                "phone": "4158964289",
+                "twitter": "fourbarrel"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 2,
+                "groups": [
+                    {
+                        "count": 2,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "2 people are here"
+            },
+            "id": "480d1a5ef964a520284f1fe3",
+            "location": {
+                "address": "375 Valencia St",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "btwn 14th St & 15th St",
+                "distance": 905,
+                "formattedAddress": [
+                    "375 Valencia St (btwn 14th St & 15th St)",
+                    "San Francisco, CA 94103",
+                    "United States"
+                ],
+                "lat": 37.76702438676065,
+                "lng": -122.42195860692624,
+                "postalCode": "94103",
+                "state": "CA"
+            },
+            "name": "Four Barrel Coffee",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 58797,
+                "tipCount": 478,
+                "usersCount": 17974
+            },
+            "url": "http://www.fourbarrelcoffee.com",
+            "venueChains": [],
+            "venuePage": {
+                "id": "52311110"
+            },
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d16a941735",
+                    "name": "Bakery",
+                    "pluralName": "Bakeries",
+                    "primary": true,
+                    "shortName": "Bakery"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(415) 345-1953",
+                "phone": "4153451953",
+                "twitter": "themillsf"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 5,
+                "groups": [
+                    {
+                        "count": 5,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "5 people are here"
+            },
+            "id": "4feddd79d86cd6f22dc171a9",
+            "location": {
+                "address": "736 Divisadero St",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "btwn Grove St & Fulton St",
+                "distance": 1646,
+                "formattedAddress": [
+                    "736 Divisadero St (btwn Grove St & Fulton St)",
+                    "San Francisco, CA 94117",
+                    "United States"
+                ],
+                "lat": 37.77632881728594,
+                "lng": -122.43802428245543,
+                "postalCode": "94117",
+                "state": "CA"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "externalUrl": "http://themillsf.com/menu/",
+                "label": "Menu",
+                "mobileUrl": "http://themillsf.com/menu/",
+                "type": "Menu",
+                "url": "http://themillsf.com/menu/"
+            },
+            "name": "The Mill",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 25495,
+                "tipCount": 325,
+                "usersCount": 8181
+            },
+            "url": "http://themillsf.com",
             "venueChains": [],
             "verified": false
         },
@@ -782,77 +755,75 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d14e941735",
-                    "name": "American Restaurant",
-                    "pluralName": "American Restaurants",
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
                     "primary": true,
-                    "shortName": "American"
+                    "shortName": "Coffee Shop"
                 }
             ],
             "contact": {
-                "facebook": "492669800853982",
-                "facebookName": "Denny's",
-                "facebookUsername": "DennysRollaMartinSpringsRd",
-                "formattedPhone": "(573) 426-3996",
-                "phone": "5734263996",
-                "twitter": "dennysdiner"
+                "formattedPhone": "(415) 956-3331",
+                "phone": "4159563331",
+                "twitter": "bluebottleferry"
             },
+            "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "528e11df498ec75c9477e6c9",
-            "location": {
-                "address": "1419 Martin Springs Dr",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 1809,
-                "formattedAddress": [
-                    "1419 Martin Springs Dr",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
+                "count": 6,
+                "groups": [
                     {
-                        "label": "display",
-                        "lat": 37.9418781288876,
-                        "lng": -91.7937882989645
+                        "count": 6,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
                     }
                 ],
-                "lat": 37.9418781288876,
-                "lng": -91.7937882989645,
-                "postalCode": "65401",
-                "state": "MO"
+                "summary": "6 people are here"
+            },
+            "id": "49d68c61f964a520e65c1fe3",
+            "location": {
+                "address": "1 Ferry Building Ste 7",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "at The Embarcardero",
+                "distance": 3238,
+                "formattedAddress": [
+                    "1 Ferry Building Ste 7 (at The Embarcardero)",
+                    "San Francisco, CA 94111",
+                    "United States"
+                ],
+                "lat": 37.79590475625579,
+                "lng": -122.39393759555746,
+                "postalCode": "94111",
+                "state": "CA"
             },
             "menu": {
                 "anchor": "View Menu",
-                "externalUrl": "http://www.listingextensions.com/f43115baa3/3750374886/menu",
                 "label": "Menu",
-                "mobileUrl": "http://www.listingextensions.com/f43115baa3/3750374886/menu",
+                "mobileUrl": "https://foursquare.com/v/49d68c61f964a520e65c1fe3/device_menu",
                 "type": "Menu",
-                "url": "http://www.listingextensions.com/f43115baa3/3750374886/menu"
+                "url": "https://foursquare.com/v/blue-bottle-coffee/49d68c61f964a520e65c1fe3/menu"
             },
-            "name": "Denny's",
-            "referralId": "v-1492910913",
+            "name": "Blue Bottle Coffee",
+            "referralId": "v-1492977518",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 111,
-                "tipCount": 1,
-                "usersCount": 78
+                "checkinsCount": 46670,
+                "tipCount": 402,
+                "usersCount": 20540
             },
-            "url": "http://locations.dennys.com/MO/ROLLA/248783",
+            "url": "http://www.bluebottlecoffee.com/locations/ferry-building/",
             "venueChains": [
                 {
-                    "id": "556e0690a7c82e6b724e70a8"
+                    "id": "5588c8f2498eb4fced6bebab"
                 }
             ],
             "verified": false
@@ -865,19 +836,428 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d1cc941735",
-                    "name": "Steakhouse",
-                    "pluralName": "Steakhouses",
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
                     "primary": true,
-                    "shortName": "Steakhouse"
+                    "shortName": "Coffee Shop"
                 }
             ],
             "contact": {
-                "formattedPhone": "(573) 426-4240",
-                "phone": "5734264240"
+                "formattedPhone": "(415) 789-6258",
+                "instagram": "reveillecoffee",
+                "phone": "4157896258",
+                "twitter": "reveillecoffee"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 2,
+                "groups": [
+                    {
+                        "count": 2,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "2 people are here"
+            },
+            "id": "56c288a1cd106d58c5bf9495",
+            "location": {
+                "address": "610 Long Bridge St",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "at 4th St",
+                "distance": 2465,
+                "formattedAddress": [
+                    "610 Long Bridge St (at 4th St)",
+                    "San Francisco, CA 94158",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.773347990695086,
+                        "lng": -122.39145373080255
+                    }
+                ],
+                "lat": 37.773347990695086,
+                "lng": -122.39145373080255,
+                "postalCode": "94158",
+                "state": "CA"
+            },
+            "name": "R\u00e9veille Coffee Co.",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 3669,
+                "tipCount": 52,
+                "usersCount": 1192
+            },
+            "url": "http://www.reveillecoffee.com",
+            "venueChains": [
+                {
+                    "id": "5568ed39a7c8a9cf8ec3a08a"
+                }
+            ],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
+                    "primary": true,
+                    "shortName": "Coffee Shop"
+                }
+            ],
+            "contact": {},
+            "hasPerk": false,
+            "hereNow": {
+                "count": 3,
+                "groups": [
+                    {
+                        "count": 3,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "3 people are here"
+            },
+            "id": "582352764972292ad70ec0bd",
+            "location": {
+                "address": "2 South Park",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "distance": 2457,
+                "formattedAddress": [
+                    "2 South Park",
+                    "San Francisco, CA 94107",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.782484,
+                        "lng": -122.393163
+                    }
+                ],
+                "lat": 37.782484,
+                "lng": -122.393163,
+                "postalCode": "94107",
+                "state": "CA"
+            },
+            "name": "Blue Bottle Coffee",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 2323,
+                "tipCount": 16,
+                "usersCount": 920
+            },
+            "url": "https://bluebottlecoffee.com/cafes/south-park",
+            "venueChains": [
+                {
+                    "id": "5588c8f2498eb4fced6bebab"
+                }
+            ],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d16a941735",
+                    "name": "Bakery",
+                    "pluralName": "Bakeries",
+                    "primary": true,
+                    "shortName": "Bakery"
+                }
+            ],
+            "contact": {
+                "facebook": "64428277906",
+                "facebookName": "Tartine Bakery",
+                "facebookUsername": "tartinebakerysf",
+                "formattedPhone": "(415) 487-2600",
+                "phone": "4154872600"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 3,
+                "groups": [
+                    {
+                        "count": 3,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "3 people are here"
+            },
+            "id": "42814b00f964a52002221fe3",
+            "location": {
+                "address": "600 Guerrero St",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "at 18th St",
+                "distance": 1554,
+                "formattedAddress": [
+                    "600 Guerrero St (at 18th St)",
+                    "San Francisco, CA 94110",
+                    "United States"
+                ],
+                "lat": 37.76142131411304,
+                "lng": -122.42400974035263,
+                "postalCode": "94110",
+                "state": "CA"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/42814b00f964a52002221fe3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/tartine-bakery/42814b00f964a52002221fe3/menu"
+            },
+            "name": "Tartine Bakery",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 37287,
+                "tipCount": 690,
+                "usersCount": 20454
+            },
+            "url": "http://www.tartinebakery.com/",
+            "venueChains": [],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
+                    "primary": true,
+                    "shortName": "Coffee Shop"
+                }
+            ],
+            "contact": {
+                "facebook": "145768288146",
+                "facebookName": "Ritual Coffee Roasters",
+                "facebookUsername": "ritualroasters",
+                "formattedPhone": "(415) 641-1011",
+                "instagram": "ritualcoffee",
+                "phone": "4156411011",
+                "twitter": "ritualcoffee"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 2,
+                "groups": [
+                    {
+                        "count": 2,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "2 people are here"
+            },
+            "id": "42853f80f964a5200c231fe3",
+            "location": {
+                "address": "1026 Valencia St",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "btwn 21st & Hill St",
+                "distance": 2053,
+                "formattedAddress": [
+                    "1026 Valencia St (btwn 21st & Hill St)",
+                    "San Francisco, CA 94110",
+                    "United States"
+                ],
+                "lat": 37.756501,
+                "lng": -122.421146,
+                "postalCode": "94110",
+                "state": "CA"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/42853f80f964a5200c231fe3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/ritual-coffee-roasters/42853f80f964a5200c231fe3/menu"
+            },
+            "name": "Ritual Coffee Roasters",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 39711,
+                "tipCount": 299,
+                "usersCount": 13111
+            },
+            "storeId": "",
+            "url": "http://www.ritualroasters.com/",
+            "venueChains": [],
+            "venuePage": {
+                "id": "52354546"
+            },
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
+                    "primary": true,
+                    "shortName": "Coffee Shop"
+                }
+            ],
+            "contact": {
+                "facebook": "126476552450",
+                "facebookName": "Sightglass Coffee",
+                "facebookUsername": "sightglasscoffee",
+                "formattedPhone": "(415) 861-1313",
+                "instagram": "sightglass",
+                "phone": "4158611313",
+                "twitter": "sightglass"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 1,
+                "groups": [
+                    {
+                        "count": 1,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "One other person is here"
+            },
+            "id": "4a4b8a43f964a5206fac1fe3",
+            "location": {
+                "address": "270 7th St",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "btwn Howard & Folsom St",
+                "distance": 985,
+                "formattedAddress": [
+                    "270 7th St (btwn Howard & Folsom St)",
+                    "San Francisco, CA 94103",
+                    "United States"
+                ],
+                "lat": 37.77702490373948,
+                "lng": -122.40852980833175,
+                "postalCode": "94103",
+                "state": "CA"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4a4b8a43f964a5206fac1fe3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/sightglass-coffee/4a4b8a43f964a5206fac1fe3/menu"
+            },
+            "name": "Sightglass Coffee",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 57761,
+                "tipCount": 558,
+                "usersCount": 16022
+            },
+            "url": "http://www.sightglasscoffee.com",
+            "venueChains": [
+                {
+                    "id": "559464e9498e6a0fd536c91d"
+                }
+            ],
+            "venuePage": {
+                "id": "48020594"
+            },
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                        "suffix": ".png"
+                    },
+                    "id": "52f2ab2ebcbc57f1066b8b46",
+                    "name": "Supermarket",
+                    "pluralName": "Supermarkets",
+                    "primary": true,
+                    "shortName": "Supermarket"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(415) 861-7660",
+                "phone": "4158617660",
+                "twitter": "Safeway"
             },
             "hasPerk": false,
             "hereNow": {
@@ -892,111 +1272,40 @@
                 ],
                 "summary": "One other person is here"
             },
-            "id": "4ccf375c3e63721e12f196cc",
+            "id": "44610f81f964a52010331fe3",
             "location": {
-                "address": "1675 N Bishop Ave",
+                "address": "2020 Market St",
                 "cc": "US",
-                "city": "Rolla",
+                "city": "San Francisco",
                 "country": "United States",
-                "crossStreet": "at Vichy Rd.",
-                "distance": 1011,
+                "crossStreet": "at Church St",
+                "distance": 1035,
                 "formattedAddress": [
-                    "1675 N Bishop Ave (at Vichy Rd.)",
-                    "Rolla, MO 65401",
+                    "2020 Market St (at Church St)",
+                    "San Francisco, CA 94114",
                     "United States"
                 ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.9584162,
-                        "lng": -91.77405106
-                    }
-                ],
-                "lat": 37.9584162,
-                "lng": -91.77405106,
-                "postalCode": "65401",
-                "state": "MO"
+                "lat": 37.76883197614526,
+                "lng": -122.42831468582152,
+                "postalCode": "94114",
+                "state": "CA"
             },
-            "name": "Colton's Steak House & Grill",
-            "referralId": "v-1492910913",
+            "name": "Safeway",
+            "referralId": "v-1492977518",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 1304,
-                "tipCount": 8,
-                "usersCount": 611
+                "checkinsCount": 40124,
+                "tipCount": 122,
+                "usersCount": 8735
             },
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1df931735",
-                    "name": "BBQ Joint",
-                    "pluralName": "BBQ Joints",
-                    "primary": true,
-                    "shortName": "BBQ"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 426-3331",
-                "phone": "5734263331"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4c27cbe13492a5938371b628",
-            "location": {
-                "address": "1705 Martin Springs Dr",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 2556,
-                "formattedAddress": [
-                    "1705 Martin Springs Dr",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.939882331710095,
-                        "lng": -91.80201530456543
-                    }
-                ],
-                "lat": 37.939882331710095,
-                "lng": -91.80201530456543,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "name": "Bandana's BBQ Rolla",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 712,
-                "tipCount": 18,
-                "usersCount": 424
-            },
+            "storeId": "1507",
+            "url": "http://www.safeway.com",
             "venueChains": [
                 {
-                    "id": "5569f1bca7c8896abe7c2ac6"
+                    "id": "556d1eaeaceaff43eb0aea65"
                 }
             ],
             "verified": true
@@ -1009,718 +1318,74 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d14e941735",
-                    "name": "American Restaurant",
-                    "pluralName": "American Restaurants",
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
                     "primary": true,
-                    "shortName": "American"
+                    "shortName": "Coffee Shop"
                 }
             ],
             "contact": {
-                "formattedPhone": "(573) 308-1600",
-                "phone": "5733081600",
-                "twitter": "applebees"
+                "formattedPhone": "(415) 321-1499",
+                "phone": "4153211499",
+                "twitter": "philzcoffee"
             },
-            "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
+                "count": 3,
+                "groups": [
+                    {
+                        "count": 3,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "3 people are here"
             },
-            "id": "4b7c4197f964a520b7872fe3",
+            "id": "56593add498e44c8a53e41e8",
             "location": {
-                "address": "511 S Bishop Ave",
+                "address": "5 Embarcadero Ctr",
                 "cc": "US",
-                "city": "Rolla",
+                "city": "San Francisco",
                 "country": "United States",
-                "crossStreet": "btwn Williams & Fort Wyman",
-                "distance": 1109,
+                "crossStreet": "Market St",
+                "distance": 3027,
                 "formattedAddress": [
-                    "511 S Bishop Ave (btwn Williams & Fort Wyman)",
-                    "Rolla, MO 65401",
+                    "5 Embarcadero Ctr (Market St)",
+                    "San Francisco, CA 94111",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 37.93951574,
-                        "lng": -91.77707837
+                        "lat": 37.794222825016554,
+                        "lng": -122.39517674002478
                     }
                 ],
-                "lat": 37.93951574,
-                "lng": -91.77707837,
-                "postalCode": "65401",
-                "state": "MO"
+                "lat": 37.794222825016554,
+                "lng": -122.39517674002478,
+                "postalCode": "94111",
+                "state": "CA"
             },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b7c4197f964a520b7872fe3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/applebees/4b7c4197f964a520b7872fe3/menu"
-            },
-            "name": "Applebee's",
-            "referralId": "v-1492910913",
+            "name": "Philz Coffee",
+            "referralId": "v-1492977518",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 1541,
-                "tipCount": 20,
-                "usersCount": 670
-            },
-            "url": "http://restaurants.applebees.com/mo/rolla/511-s-bishop.html",
-            "venueChains": [
-                {
-                    "id": "556e146fa7c82e6b725097e1"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d16e941735",
-                    "name": "Fast Food Restaurant",
-                    "pluralName": "Fast Food Restaurants",
-                    "primary": true,
-                    "shortName": "Fast Food"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 364-7474",
-                "phone": "5733647474"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4bb92ee553649c74f4d047fb",
-            "location": {
-                "address": "1109 N Bishop Ave",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "crossStreet": "at 12th St.",
-                "distance": 432,
-                "formattedAddress": [
-                    "1109 N Bishop Ave (at 12th St.)",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.95296243652328,
-                        "lng": -91.77748918533325
-                    }
-                ],
-                "lat": 37.95296243652328,
-                "lng": -91.77748918533325,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4bb92ee553649c74f4d047fb/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/taco-bell/4bb92ee553649c74f4d047fb/menu"
-            },
-            "name": "Taco Bell",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 1899,
-                "tipCount": 17,
-                "usersCount": 525
-            },
-            "storeId": "287603",
-            "url": "http://www.tacobell.com",
-            "venueChains": [
-                {
-                    "id": "556f46f6bd6a007c77390fac"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d16e941735",
-                    "name": "Fast Food Restaurant",
-                    "pluralName": "Fast Food Restaurants",
-                    "primary": true,
-                    "shortName": "Fast Food"
-                }
-            ],
-            "contact": {
-                "facebook": "113385204488",
-                "facebookName": "Wendy's",
-                "facebookUsername": "wendys",
-                "formattedPhone": "(573) 364-5500",
-                "phone": "5733645500",
-                "twitter": "wendys"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4c02c1120d0e0f474799019a",
-            "location": {
-                "address": "1007 Kingshighway St",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 458,
-                "formattedAddress": [
-                    "1007 Kingshighway St",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.94620269895763,
-                        "lng": -91.77879810333252
-                    }
-                ],
-                "lat": 37.94620269895763,
-                "lng": -91.77879810333252,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4c02c1120d0e0f474799019a/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/wendys/4c02c1120d0e0f474799019a/menu"
-            },
-            "name": "Wendy's",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 816,
-                "tipCount": 3,
-                "usersCount": 415
-            },
-            "storeId": "02929-FS-OP",
-            "url": "http://www.wendys.com",
-            "venueChains": [
-                {
-                    "id": "556f46f6bd6a007c77390fa9"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1c5941735",
-                    "name": "Sandwich Place",
-                    "pluralName": "Sandwich Places",
-                    "primary": true,
-                    "shortName": "Sandwiches"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 364-7828",
-                "phone": "5733647828"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4bfc6d601be376b0c2adf8b4",
-            "location": {
-                "address": "901 Forum Dr",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "crossStreet": "at 10th St.",
-                "distance": 1993,
-                "formattedAddress": [
-                    "901 Forum Dr (at 10th St.)",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.951168924722246,
-                        "lng": -91.75292015075684
-                    }
-                ],
-                "lat": 37.951168924722246,
-                "lng": -91.75292015075684,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4bfc6d601be376b0c2adf8b4/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/subway/4bfc6d601be376b0c2adf8b4/menu"
-            },
-            "name": "Subway",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 280,
-                "tipCount": 3,
-                "usersCount": 118
-            },
-            "url": "http://www.subway.com",
-            "venueChains": [
-                {
-                    "id": "556e0bfaa7c82e6b724f552f"
-                }
-            ],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1c9941735",
-                    "name": "Ice Cream Shop",
-                    "pluralName": "Ice Cream Shops",
-                    "primary": true,
-                    "shortName": "Ice Cream"
-                }
-            ],
-            "contact": {
-                "facebook": "230118460507978",
-                "facebookName": "DQ Woodlands",
-                "facebookUsername": "dqwoodlands",
-                "formattedPhone": "(573) 364-7200",
-                "phone": "5733647200",
-                "twitter": "dairyqueen"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4bc9f57bcc8cd13aee8bbccf",
-            "location": {
-                "address": "1303 N Bishop Ave",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "crossStreet": "at 13th St.",
-                "distance": 589,
-                "formattedAddress": [
-                    "1303 N Bishop Ave (at 13th St.)",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.954464116666664,
-                        "lng": -91.77748519
-                    }
-                ],
-                "lat": 37.954464116666664,
-                "lng": -91.77748519,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4bc9f57bcc8cd13aee8bbccf/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/dairy-queen/4bc9f57bcc8cd13aee8bbccf/menu"
-            },
-            "name": "Dairy Queen",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 721,
-                "tipCount": 6,
-                "usersCount": 411
-            },
-            "storeId": "12851",
-            "url": "http://www.dairyqueen.com",
-            "venueChains": [
-                {
-                    "id": "556a4bb0a7c8957d73d68bb4"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1c5941735",
-                    "name": "Sandwich Place",
-                    "pluralName": "Sandwich Places",
-                    "primary": true,
-                    "shortName": "Sandwiches"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 368-4499",
-                "phone": "5733684499",
-                "twitter": "panerabread"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4b54aa8ef964a520ddc527e3",
-            "location": {
-                "address": "1651 N Bishop Ave",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 955,
-                "formattedAddress": [
-                    "1651 N Bishop Ave",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.9579548886884,
-                        "lng": -91.77457167784513
-                    }
-                ],
-                "lat": 37.9579548886884,
-                "lng": -91.77457167784513,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b54aa8ef964a520ddc527e3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/panera-bread/4b54aa8ef964a520ddc527e3/menu"
-            },
-            "name": "Panera Bread",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 3313,
+                "checkinsCount": 4794,
                 "tipCount": 31,
-                "usersCount": 997
+                "usersCount": 2238
             },
-            "storeId": "2892",
-            "url": "http://www.panerabread.com",
+            "url": "http://www.philzcoffee.com",
             "venueChains": [
                 {
-                    "id": "556e0f6fa7c82e6b724f8c8a"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d16e941735",
-                    "name": "Fast Food Restaurant",
-                    "pluralName": "Fast Food Restaurants",
-                    "primary": true,
-                    "shortName": "Fast Food"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 341-2700",
-                "phone": "5733412700"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4b74651df964a520d5d92de3",
-            "location": {
-                "address": "1106 Kingshighway St",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 1007,
-                "formattedAddress": [
-                    "1106 Kingshighway St",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.94486534846411,
-                        "lng": -91.78544480419595
-                    }
-                ],
-                "lat": 37.94486534846411,
-                "lng": -91.78544480419595,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b74651df964a520d5d92de3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/mcdonalds/4b74651df964a520d5d92de3/menu"
-            },
-            "name": "McDonald's",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 1724,
-                "tipCount": 10,
-                "usersCount": 630
-            },
-            "storeId": "3564",
-            "url": "http://mcdonalds.com",
-            "venueChains": [
-                {
-                    "id": "556f7a12bd6a75a9903bddb2"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d14e941735",
-                    "name": "American Restaurant",
-                    "pluralName": "American Restaurants",
-                    "primary": true,
-                    "shortName": "American"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 341-5550",
-                "phone": "5733415550"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4b661f47f964a520e2142be3",
-            "location": {
-                "address": "2004 North Bishop",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 1782,
-                "formattedAddress": [
-                    "2004 North Bishop",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.96324151257508,
-                        "lng": -91.76529408517337
-                    }
-                ],
-                "lat": 37.96324151257508,
-                "lng": -91.76529408517337,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b661f47f964a520e2142be3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/steak-n-shake/4b661f47f964a520e2142be3/menu"
-            },
-            "name": "Steak 'n Shake",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 1291,
-                "tipCount": 16,
-                "usersCount": 798
-            },
-            "storeId": "1701702",
-            "url": "http://www.steaknshake.com/locations/24361-steak-n-shake-north-bishop-rolla",
-            "venueChains": [
-                {
-                    "id": "556cfe41aceaff43eb06e33d"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d14c941735",
-                    "name": "Wings Joint",
-                    "pluralName": "Wings Joints",
-                    "primary": true,
-                    "shortName": "Wings"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 341-0303",
-                "phone": "5733410303"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "528bbc7c11d2b612fd02a923",
-            "location": {
-                "address": "1811 N Bishop Ave",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "crossStreet": "Oak",
-                "distance": 1349,
-                "formattedAddress": [
-                    "1811 N Bishop Ave (Oak)",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.96014027536156,
-                        "lng": -91.7683857679367
-                    }
-                ],
-                "lat": 37.96014027536156,
-                "lng": -91.7683857679367,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "name": "Buffalo Wild Wings",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 420,
-                "tipCount": 3,
-                "usersCount": 206
-            },
-            "url": "http://buffalowildwings.com",
-            "venueChains": [
-                {
-                    "id": "556d1d36aceaff43eb0a9e66"
+                    "id": "5568f13ba7c8a9cf8ec42a3e"
                 }
             ],
             "verified": false
@@ -1733,70 +1398,561 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d1cc941735",
-                    "name": "Steakhouse",
-                    "pluralName": "Steakhouses",
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
                     "primary": true,
-                    "shortName": "Steakhouse"
+                    "shortName": "Coffee Shop"
                 }
             ],
             "contact": {
-                "formattedPhone": "(573) 364-1220",
-                "phone": "5733641220"
+                "formattedPhone": "(415) 875-9943",
+                "phone": "4158759943",
+                "twitter": "philzcoffee"
             },
             "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4b64d66ef964a520ebd32ae3",
-            "location": {
-                "address": "12200 Miner Cir",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 7206,
-                "formattedAddress": [
-                    "12200 Miner Cir",
-                    "Rolla, MO 65409",
-                    "United States"
-                ],
-                "labeledLatLngs": [
+                "count": 2,
+                "groups": [
                     {
-                        "label": "display",
-                        "lat": 37.98079,
-                        "lng": -91.703697
+                        "count": 2,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
                     }
                 ],
-                "lat": 37.98079,
-                "lng": -91.703697,
-                "postalCode": "65409",
-                "state": "MO"
+                "summary": "2 people are here"
+            },
+            "id": "4a844f01f964a5203bfc1fe3",
+            "location": {
+                "address": "201 Berry St",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "at 4th St",
+                "distance": 2284,
+                "formattedAddress": [
+                    "201 Berry St (at 4th St)",
+                    "San Francisco, CA 94158",
+                    "United States"
+                ],
+                "lat": 37.775835520768936,
+                "lng": -122.39346184871675,
+                "postalCode": "94158",
+                "state": "CA"
             },
             "menu": {
                 "anchor": "View Menu",
                 "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b64d66ef964a520ebd32ae3/device_menu",
+                "mobileUrl": "https://foursquare.com/v/4a844f01f964a5203bfc1fe3/device_menu",
                 "type": "Menu",
-                "url": "https://foursquare.com/v/matts-steak-house/4b64d66ef964a520ebd32ae3/menu"
+                "url": "https://foursquare.com/v/philz-coffee/4a844f01f964a5203bfc1fe3/menu"
             },
-            "name": "Matt's Steak House",
-            "referralId": "v-1492910913",
+            "name": "Philz Coffee",
+            "referralId": "v-1492977518",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 599,
-                "tipCount": 8,
-                "usersCount": 354
+                "checkinsCount": 48245,
+                "tipCount": 304,
+                "usersCount": 11204
             },
-            "url": "http://www.mattssteakhouse.com/",
+            "url": "http://www.philzcoffee.com",
+            "venueChains": [
+                {
+                    "id": "5568f13ba7c8a9cf8ec42a3e"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d118951735",
+                    "name": "Grocery Store",
+                    "pluralName": "Grocery Stores",
+                    "primary": true,
+                    "shortName": "Grocery Store"
+                }
+            ],
+            "contact": {
+                "facebook": "24922591487",
+                "facebookName": "Whole Foods Market",
+                "facebookUsername": "WholeFoods",
+                "formattedPhone": "(415) 876-6740",
+                "phone": "4158766740",
+                "twitter": "wholefoodsnorca"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 5,
+                "groups": [
+                    {
+                        "count": 5,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "5 people are here"
+            },
+            "id": "4d5b5b343158cbff7a1ae28e",
+            "location": {
+                "address": "690 Stanyan Street",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "at Haight St.",
+                "distance": 3001,
+                "formattedAddress": [
+                    "690 Stanyan Street (at Haight St.)",
+                    "San Francisco, CA 94117",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.769544378348115,
+                        "lng": -122.45283544063568
+                    }
+                ],
+                "lat": 37.769544378348115,
+                "lng": -122.45283544063568,
+                "postalCode": "94117",
+                "state": "CA"
+            },
+            "name": "Whole Foods Market",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 17685,
+                "tipCount": 87,
+                "usersCount": 5332
+            },
+            "storeId": "STN",
+            "url": "http://www.wholefoodsmarket.com/stores/haightstreet",
+            "venueChains": [
+                {
+                    "id": "556cdf5baceaff43eb042df6"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d118951735",
+                    "name": "Grocery Store",
+                    "pluralName": "Grocery Stores",
+                    "primary": true,
+                    "shortName": "Grocery Store"
+                }
+            ],
+            "contact": {
+                "facebook": "24922591487",
+                "facebookName": "Whole Foods Market",
+                "facebookUsername": "WholeFoods",
+                "formattedPhone": "(415) 552-1155",
+                "phone": "4155521155",
+                "twitter": "wholefoodsnorca"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 1,
+                "groups": [
+                    {
+                        "count": 1,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "One other person is here"
+            },
+            "id": "475fbd10f964a520de4c1fe3",
+            "location": {
+                "address": "450 Rhode Island St",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "at 17th St",
+                "distance": 1878,
+                "formattedAddress": [
+                    "450 Rhode Island St (at 17th St)",
+                    "San Francisco, CA 94107",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.764298732304994,
+                        "lng": -122.40279614925385
+                    }
+                ],
+                "lat": 37.764298732304994,
+                "lng": -122.40279614925385,
+                "postalCode": "94107",
+                "state": "CA"
+            },
+            "name": "Whole Foods Market",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 28048,
+                "tipCount": 105,
+                "usersCount": 4910
+            },
+            "storeId": "PTH",
+            "url": "http://www.wholefoodsmarket.com/stores/potrerohill",
+            "venueChains": [
+                {
+                    "id": "556cdf5baceaff43eb042df6"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d118951735",
+                    "name": "Grocery Store",
+                    "pluralName": "Grocery Stores",
+                    "primary": true,
+                    "shortName": "Grocery Store"
+                }
+            ],
+            "contact": {
+                "facebook": "322320544529683",
+                "facebookName": "The Whole Food Shop",
+                "formattedPhone": "(415) 674-0500",
+                "phone": "4156740500",
+                "twitter": "wholefoodsnorca"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 1,
+                "groups": [
+                    {
+                        "count": 1,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "One other person is here"
+            },
+            "id": "46002d20f964a52093441fe3",
+            "location": {
+                "address": "1765 California St",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "at Franklin St",
+                "distance": 1717,
+                "formattedAddress": [
+                    "1765 California St (at Franklin St)",
+                    "San Francisco, CA 94109",
+                    "United States"
+                ],
+                "lat": 37.79000180992379,
+                "lng": -122.4234102666378,
+                "postalCode": "94109",
+                "state": "CA"
+            },
+            "name": "Whole Foods Market",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 31863,
+                "tipCount": 80,
+                "usersCount": 7154
+            },
+            "storeId": "FRK",
+            "url": "http://www.wholefoodsmarket.com/stores/franklin",
+            "venueChains": [
+                {
+                    "id": "556cdf5baceaff43eb042df6"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d16d941735",
+                    "name": "Caf\u00e9",
+                    "pluralName": "Caf\u00e9s",
+                    "primary": true,
+                    "shortName": "Caf\u00e9"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(415) 957-0558",
+                "phone": "4159570558"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 2,
+                "groups": [
+                    {
+                        "count": 2,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "2 people are here"
+            },
+            "id": "4b7ef75cf964a520ee0c30e3",
+            "location": {
+                "address": "690 Mission St",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "btwn 3rd & Annie St",
+                "distance": 2010,
+                "formattedAddress": [
+                    "690 Mission St (btwn 3rd & Annie St)",
+                    "San Francisco, CA 94105",
+                    "United States"
+                ],
+                "lat": 37.78653398485857,
+                "lng": -122.40192174911499,
+                "postalCode": "94105",
+                "state": "CA"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "externalUrl": "http://www.thegrovesf.com/menu.html",
+                "label": "Menu",
+                "mobileUrl": "http://www.thegrovesf.com/menu.html",
+                "type": "Menu",
+                "url": "http://www.thegrovesf.com/menu.html"
+            },
+            "name": "The Grove",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 34902,
+                "tipCount": 577,
+                "usersCount": 17690
+            },
+            "url": "http://www.thegrovesf.com",
+            "venueChains": [],
+            "venuePage": {
+                "id": "89928819"
+            },
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d16c941735",
+                    "name": "Burger Joint",
+                    "pluralName": "Burger Joints",
+                    "primary": true,
+                    "shortName": "Burgers"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(800) 786-1000",
+                "phone": "8007861000",
+                "twitter": "innoutburger"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 1,
+                "groups": [
+                    {
+                        "count": 1,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "One other person is here"
+            },
+            "id": "43f08afdf964a520752f1fe3",
+            "location": {
+                "address": "333 Jefferson St",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "btwn Jones St & Leavenworth St",
+                "distance": 3659,
+                "formattedAddress": [
+                    "333 Jefferson St (btwn Jones St & Leavenworth St)",
+                    "San Francisco, CA 94133",
+                    "United States"
+                ],
+                "lat": 37.807766561156924,
+                "lng": -122.41843342781067,
+                "postalCode": "94133",
+                "state": "CA"
+            },
+            "name": "In-N-Out Burger",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 39109,
+                "tipCount": 319,
+                "usersCount": 29506
+            },
+            "storeId": "154",
+            "url": "http://www.in-n-out.com",
+            "venueChains": [
+                {
+                    "id": "556cdd65aceaff43eb03dddb"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
+                    "primary": true,
+                    "shortName": "Coffee Shop"
+                }
+            ],
+            "contact": {
+                "facebook": "1494414577477679",
+                "facebookName": "Mazarine Coffee",
+                "facebookUsername": "MazarineCoffee",
+                "formattedPhone": "(415) 398-7700",
+                "phone": "4153987700",
+                "twitter": "wearemazarine"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 1,
+                "groups": [
+                    {
+                        "count": 1,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "One other person is here"
+            },
+            "id": "547cac4d498ecfcb0018b838",
+            "location": {
+                "address": "720 Market St",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "btwn O'Farrell & Kearny St",
+                "distance": 1951,
+                "formattedAddress": [
+                    "720 Market St (btwn O'Farrell & Kearny St)",
+                    "San Francisco, CA 94102",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.78737620645949,
+                        "lng": -122.40381715427705
+                    }
+                ],
+                "lat": 37.78737620645949,
+                "lng": -122.40381715427705,
+                "postalCode": "94102",
+                "state": "CA"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "externalUrl": "http://www.mazarinecoffee.com/menu/",
+                "label": "Menu",
+                "mobileUrl": "http://www.mazarinecoffee.com/menu/",
+                "type": "Menu",
+                "url": "http://www.mazarinecoffee.com/menu/"
+            },
+            "name": "Mazarine Coffee",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 7919,
+                "tipCount": 144,
+                "usersCount": 3109
+            },
+            "url": "http://www.mazarinecoffee.com",
             "venueChains": [],
             "verified": false
         },
@@ -1808,75 +1964,229 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d16e941735",
-                    "name": "Fast Food Restaurant",
-                    "pluralName": "Fast Food Restaurants",
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
                     "primary": true,
-                    "shortName": "Fast Food"
+                    "shortName": "Coffee Shop"
                 }
             ],
             "contact": {
-                "formattedPhone": "(573) 341-9911",
-                "phone": "5733419911",
-                "twitter": "sonicdrivein"
+                "twitter": "bluebottlemint"
             },
-            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 1,
+                "groups": [
+                    {
+                        "count": 1,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "One other person is here"
+            },
+            "id": "5579b87c498e975f3be98a1e",
+            "location": {
+                "address": "115 Sansome St",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "at Bush St",
+                "distance": 2442,
+                "formattedAddress": [
+                    "115 Sansome St (at Bush St)",
+                    "San Francisco, CA 94104",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.79132021905332,
+                        "lng": -122.40098297595978
+                    }
+                ],
+                "lat": 37.79132021905332,
+                "lng": -122.40098297595978,
+                "postalCode": "94104",
+                "state": "CA"
+            },
+            "name": "Blue Bottle Coffee",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 10190,
+                "tipCount": 91,
+                "usersCount": 3580
+            },
+            "url": "https://bluebottlecoffee.com",
+            "venueChains": [
+                {
+                    "id": "5588c8f2498eb4fced6bebab"
+                }
+            ],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
+                    "primary": true,
+                    "shortName": "Coffee Shop"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(415) 568-2535",
+                "phone": "4155682535",
+                "twitter": "philzcoffee"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 2,
+                "groups": [
+                    {
+                        "count": 2,
+                        "items": [],
+                        "name": "Other people here",
+                        "type": "others"
+                    }
+                ],
+                "summary": "2 people are here"
+            },
+            "id": "555b8b7d498e2877d4286508",
+            "location": {
+                "address": "1 Front St Ste 100",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "Market St",
+                "distance": 2546,
+                "formattedAddress": [
+                    "1 Front St Ste 100 (Market St)",
+                    "San Francisco, CA 94111",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.791257,
+                        "lng": -122.399166
+                    }
+                ],
+                "lat": 37.791257,
+                "lng": -122.399166,
+                "postalCode": "94111",
+                "state": "CA"
+            },
+            "name": "Philz Coffee",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 8311,
+                "tipCount": 63,
+                "usersCount": 3031
+            },
+            "url": "http://www.philzcoffee.com",
+            "venueChains": [
+                {
+                    "id": "5568f13ba7c8a9cf8ec42a3e"
+                }
+            ],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d118951735",
+                    "name": "Grocery Store",
+                    "pluralName": "Grocery Stores",
+                    "primary": true,
+                    "shortName": "Grocery Store"
+                }
+            ],
+            "contact": {
+                "facebook": "24922591487",
+                "facebookName": "Whole Foods Market",
+                "facebookUsername": "WholeFoods",
+                "formattedPhone": "(415) 282-4700",
+                "phone": "4152824700",
+                "twitter": "wholefoodsnorca"
+            },
             "hasPerk": false,
             "hereNow": {
                 "count": 0,
                 "groups": [],
                 "summary": "Nobody here"
             },
-            "id": "4cba05e3adcd5481258a20a2",
+            "id": "4abd43f4f964a5204f8920e3",
             "location": {
-                "address": "814 S Bishop Ave",
+                "address": "3950 24th Street",
                 "cc": "US",
-                "city": "Rolla",
+                "city": "San Francisco",
                 "country": "United States",
-                "distance": 1913,
+                "crossStreet": "btwn Sanchez and Noe St",
+                "distance": 2742,
                 "formattedAddress": [
-                    "814 S Bishop Ave",
-                    "Rolla, MO 65401",
+                    "3950 24th Street (btwn Sanchez and Noe St)",
+                    "San Francisco, CA 94114",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 37.932396,
-                        "lng": -91.7786433
+                        "lat": 37.75200159855069,
+                        "lng": -122.43090838193893
                     }
                 ],
-                "lat": 37.932396,
-                "lng": -91.7786433,
-                "postalCode": "65401",
-                "state": "MO"
+                "lat": 37.75200159855069,
+                "lng": -122.43090838193893,
+                "postalCode": "94114",
+                "state": "CA"
             },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4cba05e3adcd5481258a20a2/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/sonic-drive-in/4cba05e3adcd5481258a20a2/menu"
-            },
-            "name": "SONIC Drive In",
-            "referralId": "v-1492910913",
+            "name": "Whole Foods Market",
+            "referralId": "v-1492977518",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 1059,
-                "tipCount": 13,
-                "usersCount": 308
+                "checkinsCount": 22060,
+                "tipCount": 54,
+                "usersCount": 4058
             },
-            "storeId": "1253",
-            "url": "http://sonicdrivein.com",
+            "storeId": "NOE",
+            "url": "http://www.wholefoodsmarket.com/stores/noevalley",
             "venueChains": [
                 {
-                    "id": "556e2b60a7c82e6b7253b20b"
+                    "id": "556cdf5baceaff43eb042df6"
                 }
             ],
             "verified": true
@@ -1889,225 +2199,148 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d145941735",
-                    "name": "Chinese Restaurant",
-                    "pluralName": "Chinese Restaurants",
+                    "id": "4bf58dd8d48988d118951735",
+                    "name": "Grocery Store",
+                    "pluralName": "Grocery Stores",
                     "primary": true,
-                    "shortName": "Chinese"
+                    "shortName": "Grocery Store"
                 }
             ],
             "contact": {
-                "formattedPhone": "(573) 364-9610",
-                "phone": "5733649610"
+                "facebook": "24922591487",
+                "facebookName": "Whole Foods Market",
+                "facebookUsername": "WholeFoods",
+                "formattedPhone": "(415) 618-0066",
+                "phone": "4156180066",
+                "twitter": "wholefoodsnorca"
             },
-            "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
                 "count": 0,
                 "groups": [],
                 "summary": "Nobody here"
             },
-            "id": "4b54a8caf964a52067c527e3",
+            "id": "4a424d0ef964a520b7a51fe3",
             "location": {
-                "address": "635 S Bishop Ave",
+                "address": "399 4th Street",
                 "cc": "US",
-                "city": "Rolla",
+                "city": "San Francisco",
                 "country": "United States",
-                "crossStreet": "at Oaklane Dr.",
-                "distance": 1584,
+                "crossStreet": "at Harrison St",
+                "distance": 1857,
                 "formattedAddress": [
-                    "635 S Bishop Ave (at Oaklane Dr.)",
-                    "Rolla, MO 65401",
+                    "399 4th Street (at Harrison St)",
+                    "San Francisco, CA 94107",
                     "United States"
                 ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.93525,
-                        "lng": -91.77746341
-                    }
-                ],
-                "lat": 37.93525,
-                "lng": -91.77746341,
-                "postalCode": "65401",
-                "state": "MO"
+                "lat": 37.781329822235854,
+                "lng": -122.39991813898087,
+                "postalCode": "94107",
+                "state": "CA"
             },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b54a8caf964a52067c527e3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/mandarin-garden/4b54a8caf964a52067c527e3/menu"
-            },
-            "name": "Mandarin Garden",
-            "referralId": "v-1492910913",
+            "name": "Whole Foods Market",
+            "referralId": "v-1492977518",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 429,
-                "tipCount": 8,
-                "usersCount": 188
+                "checkinsCount": 43910,
+                "tipCount": 161,
+                "usersCount": 10266
             },
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1ca941735",
-                    "name": "Pizza Place",
-                    "pluralName": "Pizza Places",
-                    "primary": true,
-                    "shortName": "Pizza"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 341-8484",
-                "phone": "5733418484"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4b9e675cf964a5209de036e3",
-            "location": {
-                "address": "632 S Bishop Ave",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 1503,
-                "formattedAddress": [
-                    "632 S Bishop Ave",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.936011481396896,
-                        "lng": -91.77776769667102
-                    }
-                ],
-                "lat": 37.936011481396896,
-                "lng": -91.77776769667102,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b9e675cf964a5209de036e3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/imos-pizza/4b9e675cf964a5209de036e3/menu"
-            },
-            "name": "Imo's Pizza",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 575,
-                "tipCount": 12,
-                "usersCount": 202
-            },
-            "url": "http://imospizza.com",
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d147941735",
-                    "name": "Diner",
-                    "pluralName": "Diners",
-                    "primary": true,
-                    "shortName": "Diner"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 364-1434",
-                "phone": "5733641434",
-                "twitter": "maidrite"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4c76e44ef2473704e16764eb",
-            "location": {
-                "address": "1028 Kingshighway St",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 752,
-                "formattedAddress": [
-                    "1028 Kingshighway St",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.945379187437155,
-                        "lng": -91.7824051932861
-                    }
-                ],
-                "lat": 37.945379187437155,
-                "lng": -91.7824051932861,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4c76e44ef2473704e16764eb/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/maidrite/4c76e44ef2473704e16764eb/menu"
-            },
-            "name": "Maid-Rite",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 553,
-                "tipCount": 11,
-                "usersCount": 283
-            },
-            "storeId": "",
-            "url": "http://maid-rite.com",
+            "storeId": "SOM",
+            "url": "http://www.wholefoodsmarket.com/stores/soma",
             "venueChains": [
                 {
-                    "id": "5569f842a7c8896abe7cfb44"
+                    "id": "556cdf5baceaff43eb042df6"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d16a941735",
+                    "name": "Bakery",
+                    "pluralName": "Bakeries",
+                    "primary": true,
+                    "shortName": "Bakery"
+                }
+            ],
+            "contact": {
+                "facebook": "118831509193",
+                "facebookName": "Boudin",
+                "facebookUsername": "boudin",
+                "formattedPhone": "(415) 928-1849",
+                "phone": "4159281849",
+                "twitter": "boudinbakery"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4ba7f1b9f964a520b8c039e3",
+            "location": {
+                "address": "160 Jefferson St.",
+                "cc": "US",
+                "city": "San Francisco",
+                "country": "United States",
+                "crossStreet": "at Taylor St.",
+                "distance": 3769,
+                "formattedAddress": [
+                    "160 Jefferson St. (at Taylor St.)",
+                    "San Francisco, CA 94133",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.80860182,
+                        "lng": -122.4152074
+                    }
+                ],
+                "lat": 37.80860182,
+                "lng": -122.4152074,
+                "postalCode": "94133",
+                "state": "CA"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4ba7f1b9f964a520b8c039e3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/boudin-bakery-caf%C3%A9-bakers-hall/4ba7f1b9f964a520b8c039e3/menu"
+            },
+            "name": "Boudin Bakery Caf\u00e9 Baker's Hall",
+            "referralId": "v-1492977518",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 35487,
+                "tipCount": 364,
+                "usersCount": 30244
+            },
+            "url": "http://t.co/NVdMO8GJHg",
+            "venueChains": [
+                {
+                    "id": "5569f3e9a7c8896abe7c712d"
                 }
             ],
             "verified": true
@@ -2131,141 +2364,58 @@
                 }
             ],
             "contact": {
-                "formattedPhone": "(573) 364-9330",
-                "phone": "5733649330"
+                "formattedPhone": "(415) 872-9825",
+                "phone": "4158729825",
+                "twitter": "thebirdsf"
             },
-            "hasMenu": true,
             "hasPerk": false,
             "hereNow": {
                 "count": 0,
                 "groups": [],
                 "summary": "Nobody here"
             },
-            "id": "4bc50cfc702076b0117704c9",
+            "id": "57e40ce5498e264f523536d8",
             "location": {
-                "address": "1902 N Bishop Ave",
+                "address": "115 New Montgomery St",
                 "cc": "US",
-                "city": "Rolla",
+                "city": "San Francisco",
                 "country": "United States",
-                "crossStreet": "at Cedar St.",
-                "distance": 1397,
+                "crossStreet": "Minna Street",
+                "distance": 2186,
                 "formattedAddress": [
-                    "1902 N Bishop Ave (at Cedar St.)",
-                    "Rolla, MO 65401",
+                    "115 New Montgomery St (Minna Street)",
+                    "San Francisco, CA 94105",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 37.95994162559509,
-                        "lng": -91.766861
+                        "lat": 37.787225019217814,
+                        "lng": -122.4000495672226
                     }
                 ],
-                "lat": 37.95994162559509,
-                "lng": -91.766861,
-                "postalCode": "65401",
-                "state": "MO"
+                "lat": 37.787225019217814,
+                "lng": -122.4000495672226,
+                "postalCode": "94105",
+                "state": "CA"
             },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4bc50cfc702076b0117704c9/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/lees-famous-recipe-chicken/4bc50cfc702076b0117704c9/menu"
-            },
-            "name": "Lee's Famous Recipe Chicken",
-            "referralId": "v-1492910913",
+            "name": "The Bird",
+            "referralId": "v-1492977518",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 313,
-                "tipCount": 8,
-                "usersCount": 165
+                "checkinsCount": 1313,
+                "tipCount": 27,
+                "usersCount": 839
             },
+            "storeId": "",
+            "url": "http://thebirdsf.com",
             "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
+            "venuePage": {
+                "id": "345011721"
             },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d147941735",
-                    "name": "Diner",
-                    "pluralName": "Diners",
-                    "primary": true,
-                    "shortName": "Diner"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 341-2655",
-                "phone": "5733412655",
-                "twitter": "wafflehouse"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4bb7419646d4a5935739c7c0",
-            "location": {
-                "address": "1405 Martin Springs Dr",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 1601,
-                "formattedAddress": [
-                    "1405 Martin Springs Dr",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.94241855,
-                        "lng": -91.791469
-                    }
-                ],
-                "lat": 37.94241855,
-                "lng": -91.791469,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4bb7419646d4a5935739c7c0/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/waffle-house/4bb7419646d4a5935739c7c0/menu"
-            },
-            "name": "Waffle House",
-            "referralId": "v-1492910913",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 639,
-                "tipCount": 10,
-                "usersCount": 407
-            },
-            "storeId": "1681",
-            "url": "http://www.wafflehouse.com",
-            "venueChains": [
-                {
-                    "id": "556e0f6fa7c82e6b724f8c7e"
-                }
-            ],
             "verified": true
         }
     ]

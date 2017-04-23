@@ -145,7 +145,7 @@ subprocess.call('python RestaurantExtractor.py',shell=True)
 # os.chdir(add+'\Foursquare\ ')
 # import City
 import GTS
-db.child('City').child(GTS.getCity()).child('Users').push(finalList)
+db.child('City').child(GTS.getCity()).child('Users').push(finalList)  ### Writing user profiles to the firebase!
 os.chdir(add + "\Recommender\ ")
 subprocess.call("python Recommend_Project_KNN.py",shell=True)
 subprocess.call("python Recommend_Project_decision_randomForest.py",shell=True)

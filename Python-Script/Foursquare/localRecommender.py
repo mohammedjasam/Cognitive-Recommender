@@ -1,9 +1,9 @@
-import os
+# import os
 import json
 import subprocess
 import foursquare
 from foursquare import Foursquare
-
+import os
 import UID
 #
 # dir_path = os.path.dirname(os.path.realpath(__file__))
@@ -26,6 +26,7 @@ def extract_ll(la,lo,code):
 
 
 s="17.3850° N, 78.4867° E" # HYD
+# s="37.7749° N, 122.4194° W" # San Francisco
 # s="28.5562° N, 77.1000° E" # DEL AIRPORT
 #s='34.3416° N, 108.9398° E' # Jenny's Home
 # s='40.7128° N, 74.0059° W' # NYC
@@ -42,7 +43,7 @@ else:
         location=extract_ll(la,lo,4)
 
 
-location=UID.get_location() #### Dynamic Location!
+location = UID.get_location() #### Dynamic Location!
 
 
 
