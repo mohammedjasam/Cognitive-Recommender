@@ -1,87 +1,81 @@
 {
     "outputs": [
         {
-            "created_at": "2017-04-22T10:01:16.280825Z", 
+            "created_at": "2017-04-23T01:28:29.077631Z", 
             "data": {
                 "concepts": [
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "formal", 
-                        "name": "formal", 
-                        "value": 0.061223187
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "smoker", 
-                        "name": "smoker", 
-                        "value": 0.037956815
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "professional", 
-                        "name": "professional", 
-                        "value": 0.031583495
+                        "id": "student", 
+                        "name": "student", 
+                        "value": 0.095997535
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "single", 
                         "name": "single", 
-                        "value": 0.027087819
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "drinker", 
-                        "name": "drinker", 
-                        "value": 0.023696074
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "informal", 
-                        "name": "informal", 
-                        "value": 0.02295844
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "student", 
-                        "name": "student", 
-                        "value": 0.018153166
+                        "value": 0.048452213
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "friends", 
                         "name": "friends", 
-                        "value": 0.012629259
+                        "value": 0.030013565
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "professional", 
+                        "name": "professional", 
+                        "value": 0.029464815
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "informal", 
+                        "name": "informal", 
+                        "value": 0.026493408
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "formal", 
+                        "name": "formal", 
+                        "value": 0.01561432
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "family", 
                         "name": "family", 
-                        "value": 0.005943624
+                        "value": 0.014380591
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "smoker", 
+                        "name": "smoker", 
+                        "value": 0.011210317
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "drinker", 
+                        "name": "drinker", 
+                        "value": 0.0077659725
                     }
                 ]
             }, 
-            "id": "b2e76de1a94341aca6f23044dc101be5", 
+            "id": "b7c8eab55bea44c3bf5e416a75357fdd", 
             "input": {
                 "data": {
                     "image": {
-                        "url": "https://firebasestorage.googleapis.com/v0/b/cameraapp-6a5ab.appspot.com/o/darklordofasgard%2F158251179749251?alt=media"
+                        "url": "https://firebasestorage.googleapis.com/v0/b/cameraapp-6a5ab.appspot.com/o/darklordofasgard%2F176637947799304?alt=media"
                     }
                 }, 
-                "id": "c8333bcbe7794ec7a4ac5b698c9c0526"
+                "id": "f49721e9e3c74a86bfb07d93afce9c2a"
             }, 
             "model": {
                 "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                 "created_at": "2017-04-14T22:37:55.221649Z", 
                 "id": "ProfileGen", 
                 "model_version": {
-                    "active_concept_count": 9, 
                     "created_at": "2017-04-19T02:02:48.077378Z", 
                     "id": "a889a32c65c749c5a0ebfd68f2ded3ae", 
-                    "metrics_status": {
-                        "code": 21302, 
-                        "description": "Model is not yet evaluated."
-                    }, 
-                    "multiclass_metrics": null, 
                     "status": {
                         "code": 21100, 
                         "description": "Model trained successfully"

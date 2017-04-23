@@ -96,7 +96,10 @@ elif finalList['activity']==1 and finalList['ambience']==2 and finalList['dress_
     finalList['budget']=2
 
 print(finalList)
-db.child('User').push(finalList)
+# import RestaurantExtractor
+# db.child('User').child('Stark').child('Profile').set(finalList)
+# db.child('User').child('Stark').child('Location').set()
+
 
 import csv
 
@@ -130,12 +133,19 @@ fd.close()
 dir_path = os.path.dirname(os.path.realpath(__file__))
 os.chdir(dir_path+ "\Foursquare\ ")
 subprocess.call("python localRecommender.py",shell=True)
-os.chdir(dir_path+ "\Foursquare\ ")
-subprocess.call('python RestaurantExtractor.py',shell=True)
+# os.chdir(dir_path+ "\Foursquare\ ")
+# subprocess.call('python RestaurantExtractor.py',shell=True)
+
+
 
 
 add = os.path.dirname(os.path.realpath(__file__))
-os.chdir(add)
+# os.chdir(dir_path+ "\Foursquare\ ")
+subprocess.call('python RestaurantExtractor.py',shell=True)
+# os.chdir(add+'\Foursquare\ ')
+# import City
+import GTS
+db.child('City').child(GTS.getCity()).child('Users').push(finalList)
 os.chdir(add + "\Recommender\ ")
 subprocess.call("python Recommend_Project_KNN.py",shell=True)
 subprocess.call("python Recommend_Project_decision_randomForest.py",shell=True)
