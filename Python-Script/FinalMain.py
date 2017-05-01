@@ -4,7 +4,7 @@ import time
 import os
 import webbrowser
 
-config ={
+config = {
   "apiKey": "AIzaSyBw7fexfbjVhN9XTYxVG7bIxfQPH2zpvrI",
   "authDomain": "cameraapp-6a5ab.firebaseapp.com",
   "databaseURL": "https://cameraapp-6a5ab.firebaseio.com/",
@@ -15,9 +15,8 @@ firebase = pyrebase.initialize_app(config)
 storage  = firebase.storage()
 db = firebase.database()
 
-
 # set the child to the respective user!
-users = db.child('darklordofasgard').get()
+users = db.child('darklordofasgard').get()  ### Change the user also in UID.py
 d=dict(users.val())
 ## Opening the image of the user!
 print("The URL of the Image\n"+d['url'])
@@ -26,5 +25,8 @@ webbrowser.open(url)
 
 time.sleep(3)
 
+
 s= d['url']
 os.system("main.py "+s)
+
+## Need to implement a GUI interface for the application!

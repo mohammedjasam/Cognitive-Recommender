@@ -25,11 +25,12 @@ def extract_ll(la,lo,code):
         return "-"+la+",-"+lo
 
 
-s="17.3850° N, 78.4867° E" # HYD
+# s="17.3850° N, 78.4867° E" # HYD
 # s="37.7749° N, 122.4194° W" # San Francisco
 # s="28.5562° N, 77.1000° E" # DEL AIRPORT
 #s='34.3416° N, 108.9398° E' # Jenny's Home
 # s='40.7128° N, 74.0059° W' # NYC
+s="39.9042° N, 116.4074° E" #london
 la,lo = s.split(',')
 if la[-1]=='N':
     if lo[-1]=='E':

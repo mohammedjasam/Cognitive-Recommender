@@ -26,7 +26,7 @@ dir_path = os.path.dirname(os.path.realpath(__file__))
 os.chdir(dir_path+'\\DataSets\\')
 l=[]
 names=[]
-
+cityy=[]
 def getCity():
     with open('Restaurants.json') as data_file:
         data = json.load(data_file)
