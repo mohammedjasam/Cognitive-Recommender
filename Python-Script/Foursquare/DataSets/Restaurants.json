@@ -1,5 +1,5 @@
 {
-    "confident": true,
+    "confident": false,
     "venues": [
         {
             "allowMenuUrlEdit": true,
@@ -63,7 +63,7 @@
                 "url": "https://foursquare.com/v/panera-bread/4b54aa8ef964a520ddc527e3/menu"
             },
             "name": "Panera Bread",
-            "referralId": "v-1493676036",
+            "referralId": "v-1493956603",
             "specials": {
                 "count": 0,
                 "items": []
@@ -148,7 +148,7 @@
                 "url": "https://foursquare.com/v/dairy-queen/4bc9f57bcc8cd13aee8bbccf/menu"
             },
             "name": "Dairy Queen",
-            "referralId": "v-1493676036",
+            "referralId": "v-1493956603",
             "specials": {
                 "count": 0,
                 "items": []
@@ -166,133 +166,6 @@
                 }
             ],
             "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1cc941735",
-                    "name": "Steakhouse",
-                    "pluralName": "Steakhouses",
-                    "primary": true,
-                    "shortName": "Steakhouse"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 426-4240",
-                "phone": "5734264240"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4ccf375c3e63721e12f196cc",
-            "location": {
-                "address": "1675 N Bishop Ave",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "crossStreet": "at Vichy Rd.",
-                "distance": 352,
-                "formattedAddress": [
-                    "1675 N Bishop Ave (at Vichy Rd.)",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.9584162,
-                        "lng": -91.77405106
-                    }
-                ],
-                "lat": 37.9584162,
-                "lng": -91.77405106,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "name": "Colton's Steak House & Grill",
-            "referralId": "v-1493676036",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 1304,
-                "tipCount": 8,
-                "usersCount": 611
-            },
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1c1941735",
-                    "name": "Mexican Restaurant",
-                    "pluralName": "Mexican Restaurants",
-                    "primary": true,
-                    "shortName": "Mexican"
-                }
-            ],
-            "contact": {},
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "53374256498e1c57f2fe6fdc",
-            "location": {
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 2597,
-                "formattedAddress": [
-                    "Rolla, MO",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.93761015555853,
-                        "lng": -91.75427861342858
-                    }
-                ],
-                "lat": 37.93761015555853,
-                "lng": -91.75427861342858,
-                "state": "MO"
-            },
-            "name": "Los Arcos",
-            "referralId": "v-1493676036",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 84,
-                "tipCount": 8,
-                "usersCount": 49
-            },
-            "venueChains": [],
-            "verified": false
         },
         {
             "allowMenuUrlEdit": true,
@@ -356,13 +229,13 @@
                 "url": "https://foursquare.com/v/taco-bell/4bb92ee553649c74f4d047fb/menu"
             },
             "name": "Taco Bell",
-            "referralId": "v-1493676036",
+            "referralId": "v-1493956603",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 1899,
+                "checkinsCount": 1900,
                 "tipCount": 17,
                 "usersCount": 525
             },
@@ -374,6 +247,133 @@
                 }
             ],
             "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1c1941735",
+                    "name": "Mexican Restaurant",
+                    "pluralName": "Mexican Restaurants",
+                    "primary": true,
+                    "shortName": "Mexican"
+                }
+            ],
+            "contact": {},
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "53374256498e1c57f2fe6fdc",
+            "location": {
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 2597,
+                "formattedAddress": [
+                    "Rolla, MO",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.93761015555853,
+                        "lng": -91.75427861342858
+                    }
+                ],
+                "lat": 37.93761015555853,
+                "lng": -91.75427861342858,
+                "state": "MO"
+            },
+            "name": "Los Arcos",
+            "referralId": "v-1493956603",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 84,
+                "tipCount": 8,
+                "usersCount": 49
+            },
+            "venueChains": [],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1cc941735",
+                    "name": "Steakhouse",
+                    "pluralName": "Steakhouses",
+                    "primary": true,
+                    "shortName": "Steakhouse"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 426-4240",
+                "phone": "5734264240"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4ccf375c3e63721e12f196cc",
+            "location": {
+                "address": "1675 N Bishop Ave",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "crossStreet": "at Vichy Rd.",
+                "distance": 352,
+                "formattedAddress": [
+                    "1675 N Bishop Ave (at Vichy Rd.)",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.9584162,
+                        "lng": -91.77405106
+                    }
+                ],
+                "lat": 37.9584162,
+                "lng": -91.77405106,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "name": "Colton's Steak House & Grill",
+            "referralId": "v-1493956603",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 1304,
+                "tipCount": 8,
+                "usersCount": 611
+            },
+            "venueChains": [],
+            "verified": false
         },
         {
             "allowMenuUrlEdit": true,
@@ -425,13 +425,13 @@
                 "state": "MO"
             },
             "name": "The ART of COFFEE",
-            "referralId": "v-1493676036",
+            "referralId": "v-1493956603",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 90,
+                "checkinsCount": 91,
                 "tipCount": 0,
                 "usersCount": 3
             },
@@ -503,7 +503,7 @@
                 "url": "http://www.listingextensions.com/f43115baa3/3750374886/menu"
             },
             "name": "Denny's",
-            "referralId": "v-1493676036",
+            "referralId": "v-1493956603",
             "specials": {
                 "count": 0,
                 "items": []
@@ -520,358 +520,6 @@
                 }
             ],
             "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d14e941735",
-                    "name": "American Restaurant",
-                    "pluralName": "American Restaurants",
-                    "primary": true,
-                    "shortName": "American"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 364-2010",
-                "phone": "5733642010"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4e06796fb0fbba5eee165bc8",
-            "location": {
-                "address": "1049 Kingshighway St",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 1576,
-                "formattedAddress": [
-                    "1049 Kingshighway St",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.94420478,
-                        "lng": -91.784834
-                    }
-                ],
-                "lat": 37.94420478,
-                "lng": -91.784834,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "name": "Penelope's Restaurant",
-            "referralId": "v-1493676036",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 295,
-                "tipCount": 7,
-                "usersCount": 147
-            },
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1e0931735",
-                    "name": "Coffee Shop",
-                    "pluralName": "Coffee Shops",
-                    "primary": true,
-                    "shortName": "Coffee Shop"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 426-6750",
-                "phone": "5734266750"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4b7af9e1f964a5209e492fe3",
-            "location": {
-                "address": "704 N Bishop Ave #2",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "crossStreet": "at 8th St.",
-                "distance": 675,
-                "formattedAddress": [
-                    "704 N Bishop Ave #2 (at 8th St.)",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.949781461026625,
-                        "lng": -91.77690982818602
-                    }
-                ],
-                "lat": 37.949781461026625,
-                "lng": -91.77690982818602,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b7af9e1f964a5209e492fe3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/the-giddy-goat/4b7af9e1f964a5209e492fe3/menu"
-            },
-            "name": "The Giddy Goat",
-            "referralId": "v-1493676036",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 2243,
-                "tipCount": 28,
-                "usersCount": 220
-            },
-            "url": "http://www.tggch.com/",
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/thai_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d149941735",
-                    "name": "Thai Restaurant",
-                    "pluralName": "Thai Restaurants",
-                    "primary": true,
-                    "shortName": "Thai"
-                }
-            ],
-            "contact": {},
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "542b3d80498e0cea6ba42bf3",
-            "location": {
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 1411,
-                "formattedAddress": [
-                    "Rolla, MO",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.94491441641601,
-                        "lng": -91.7828998886407
-                    }
-                ],
-                "lat": 37.94491441641601,
-                "lng": -91.7828998886407,
-                "state": "MO"
-            },
-            "name": "Sawadee Thai Restaurant",
-            "referralId": "v-1493676036",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 50,
-                "tipCount": 5,
-                "usersCount": 27
-            },
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1c5941735",
-                    "name": "Sandwich Place",
-                    "pluralName": "Sandwich Places",
-                    "primary": true,
-                    "shortName": "Sandwiches"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 341-9009",
-                "phone": "5733419009",
-                "twitter": "jimmyjohns"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4dc19c86d4c07bbdf77963cc",
-            "location": {
-                "address": "1051 N Bishop Ave",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "crossStreet": "at 11th St.",
-                "distance": 490,
-                "formattedAddress": [
-                    "1051 N Bishop Ave (at 11th St.)",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.951991340817315,
-                        "lng": -91.7773586693094
-                    }
-                ],
-                "lat": 37.951991340817315,
-                "lng": -91.7773586693094,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "name": "Jimmy John's",
-            "referralId": "v-1493676036",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 2338,
-                "tipCount": 14,
-                "usersCount": 436
-            },
-            "storeId": "1359",
-            "url": "http://www.jimmyjohns.com",
-            "venueChains": [
-                {
-                    "id": "556e119fa7c82e6b725012dc"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1d2941735",
-                    "name": "Sushi Restaurant",
-                    "pluralName": "Sushi Restaurants",
-                    "primary": true,
-                    "shortName": "Sushi"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 341-2939",
-                "phone": "5733412939"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4b50aac2f964a5205d2c27e3",
-            "location": {
-                "address": "1002 N Bishop Ave",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "crossStreet": "at 11th St.",
-                "distance": 447,
-                "formattedAddress": [
-                    "1002 N Bishop Ave (at 11th St.)",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.95208361804845,
-                        "lng": -91.77673562336237
-                    }
-                ],
-                "lat": 37.95208361804845,
-                "lng": -91.77673562336237,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b50aac2f964a5205d2c27e3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/kyoto-japanese-restaurant/4b50aac2f964a5205d2c27e3/menu"
-            },
-            "name": "Kyoto Japanese Restaurant",
-            "referralId": "v-1493676036",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 599,
-                "tipCount": 21,
-                "usersCount": 231
-            },
-            "url": "http://www.rollakyoto.com",
-            "venueChains": [],
-            "verified": true
         },
         {
             "allowMenuUrlEdit": true,
@@ -935,7 +583,7 @@
                 "url": "https://foursquare.com/v/burger-king/4b8814fbf964a5206cde31e3/menu"
             },
             "name": "Burger King",
-            "referralId": "v-1493676036",
+            "referralId": "v-1493956603",
             "specials": {
                 "count": 0,
                 "items": []
@@ -1017,7 +665,7 @@
                 "url": "https://foursquare.com/v/huddle-house/4c3ca769933b0f47cf5de421/menu"
             },
             "name": "Huddle House",
-            "referralId": "v-1493676036",
+            "referralId": "v-1493956603",
             "specials": {
                 "count": 0,
                 "items": []
@@ -1035,6 +683,278 @@
                 }
             ],
             "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/thai_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d149941735",
+                    "name": "Thai Restaurant",
+                    "pluralName": "Thai Restaurants",
+                    "primary": true,
+                    "shortName": "Thai"
+                }
+            ],
+            "contact": {},
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "542b3d80498e0cea6ba42bf3",
+            "location": {
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 1411,
+                "formattedAddress": [
+                    "Rolla, MO",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.94491441641601,
+                        "lng": -91.7828998886407
+                    }
+                ],
+                "lat": 37.94491441641601,
+                "lng": -91.7828998886407,
+                "state": "MO"
+            },
+            "name": "Sawadee Thai Restaurant",
+            "referralId": "v-1493956603",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 50,
+                "tipCount": 5,
+                "usersCount": 27
+            },
+            "venueChains": [],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d14e941735",
+                    "name": "American Restaurant",
+                    "pluralName": "American Restaurants",
+                    "primary": true,
+                    "shortName": "American"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 364-2010",
+                "phone": "5733642010"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4e06796fb0fbba5eee165bc8",
+            "location": {
+                "address": "1049 Kingshighway St",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 1576,
+                "formattedAddress": [
+                    "1049 Kingshighway St",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.94420478,
+                        "lng": -91.784834
+                    }
+                ],
+                "lat": 37.94420478,
+                "lng": -91.784834,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "name": "Penelope's Restaurant",
+            "referralId": "v-1493956603",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 295,
+                "tipCount": 7,
+                "usersCount": 147
+            },
+            "venueChains": [],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1c5941735",
+                    "name": "Sandwich Place",
+                    "pluralName": "Sandwich Places",
+                    "primary": true,
+                    "shortName": "Sandwiches"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 341-9009",
+                "phone": "5733419009",
+                "twitter": "jimmyjohns"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4dc19c86d4c07bbdf77963cc",
+            "location": {
+                "address": "1051 N Bishop Ave",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "crossStreet": "at 11th St.",
+                "distance": 490,
+                "formattedAddress": [
+                    "1051 N Bishop Ave (at 11th St.)",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.951991340817315,
+                        "lng": -91.7773586693094
+                    }
+                ],
+                "lat": 37.951991340817315,
+                "lng": -91.7773586693094,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "name": "Jimmy John's",
+            "referralId": "v-1493956603",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 2339,
+                "tipCount": 14,
+                "usersCount": 436
+            },
+            "storeId": "1359",
+            "url": "http://www.jimmyjohns.com",
+            "venueChains": [
+                {
+                    "id": "556e119fa7c82e6b725012dc"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d14c941735",
+                    "name": "Wings Joint",
+                    "pluralName": "Wings Joints",
+                    "primary": true,
+                    "shortName": "Wings"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 341-0303",
+                "phone": "5733410303"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "528bbc7c11d2b612fd02a923",
+            "location": {
+                "address": "1811 N Bishop Ave",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "crossStreet": "Oak",
+                "distance": 710,
+                "formattedAddress": [
+                    "1811 N Bishop Ave (Oak)",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.96014027536156,
+                        "lng": -91.7683857679367
+                    }
+                ],
+                "lat": 37.96014027536156,
+                "lng": -91.7683857679367,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "name": "Buffalo Wild Wings",
+            "referralId": "v-1493956603",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 423,
+                "tipCount": 3,
+                "usersCount": 206
+            },
+            "url": "http://buffalowildwings.com",
+            "venueChains": [
+                {
+                    "id": "556d1d36aceaff43eb0a9e66"
+                }
+            ],
+            "verified": false
         },
         {
             "allowMenuUrlEdit": true,
@@ -1098,171 +1018,19 @@
                 "url": "https://foursquare.com/v/alexs-pizza/4b7c45c6f964a520ca882fe3/menu"
             },
             "name": "Alex's Pizza",
-            "referralId": "v-1493676036",
+            "referralId": "v-1493956603",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 1307,
+                "checkinsCount": 1308,
                 "tipCount": 30,
                 "usersCount": 625
             },
             "url": "http://www.alexspizza.com/",
             "venueChains": [],
             "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d14c941735",
-                    "name": "Wings Joint",
-                    "pluralName": "Wings Joints",
-                    "primary": true,
-                    "shortName": "Wings"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 341-0303",
-                "phone": "5733410303"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "528bbc7c11d2b612fd02a923",
-            "location": {
-                "address": "1811 N Bishop Ave",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "crossStreet": "Oak",
-                "distance": 710,
-                "formattedAddress": [
-                    "1811 N Bishop Ave (Oak)",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.96014027536156,
-                        "lng": -91.7683857679367
-                    }
-                ],
-                "lat": 37.96014027536156,
-                "lng": -91.7683857679367,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "name": "Buffalo Wild Wings",
-            "referralId": "v-1493676036",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 423,
-                "tipCount": 3,
-                "usersCount": 206
-            },
-            "url": "http://buffalowildwings.com",
-            "venueChains": [
-                {
-                    "id": "556d1d36aceaff43eb0a9e66"
-                }
-            ],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d16e941735",
-                    "name": "Fast Food Restaurant",
-                    "pluralName": "Fast Food Restaurants",
-                    "primary": true,
-                    "shortName": "Fast Food"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 341-2700",
-                "phone": "5733412700"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4b74651df964a520d5d92de3",
-            "location": {
-                "address": "1106 Kingshighway St",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 1555,
-                "formattedAddress": [
-                    "1106 Kingshighway St",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.94486534846411,
-                        "lng": -91.78544480419595
-                    }
-                ],
-                "lat": 37.94486534846411,
-                "lng": -91.78544480419595,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b74651df964a520d5d92de3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/mcdonalds/4b74651df964a520d5d92de3/menu"
-            },
-            "name": "McDonald's",
-            "referralId": "v-1493676036",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 1726,
-                "tipCount": 10,
-                "usersCount": 630
-            },
-            "storeId": "3564",
-            "url": "http://mcdonalds.com",
-            "venueChains": [
-                {
-                    "id": "556f7a12bd6a75a9903bddb2"
-                }
-            ],
-            "verified": true
         },
         {
             "allowMenuUrlEdit": true,
@@ -1318,398 +1086,17 @@
                 "state": "MO"
             },
             "name": "Spoon Me",
-            "referralId": "v-1493676036",
+            "referralId": "v-1493956603",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 1592,
+                "checkinsCount": 1593,
                 "tipCount": 12,
                 "usersCount": 290
             },
             "url": "http://spoonme.com",
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d16e941735",
-                    "name": "Fast Food Restaurant",
-                    "pluralName": "Fast Food Restaurants",
-                    "primary": true,
-                    "shortName": "Fast Food"
-                }
-            ],
-            "contact": {
-                "facebook": "113385204488",
-                "facebookName": "Wendy's",
-                "facebookUsername": "wendys",
-                "formattedPhone": "(573) 364-5500",
-                "phone": "5733645500",
-                "twitter": "wendys"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4c02c1120d0e0f474799019a",
-            "location": {
-                "address": "1007 Kingshighway St",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 1106,
-                "formattedAddress": [
-                    "1007 Kingshighway St",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.94620269895763,
-                        "lng": -91.77879810333252
-                    }
-                ],
-                "lat": 37.94620269895763,
-                "lng": -91.77879810333252,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4c02c1120d0e0f474799019a/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/wendys/4c02c1120d0e0f474799019a/menu"
-            },
-            "name": "Wendy's",
-            "referralId": "v-1493676036",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 816,
-                "tipCount": 3,
-                "usersCount": 415
-            },
-            "storeId": "02929-FS-OP",
-            "url": "http://www.wendys.com",
-            "venueChains": [
-                {
-                    "id": "556f46f6bd6a007c77390fa9"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d14e941735",
-                    "name": "American Restaurant",
-                    "pluralName": "American Restaurants",
-                    "primary": true,
-                    "shortName": "American"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 341-5550",
-                "phone": "5733415550"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4b661f47f964a520e2142be3",
-            "location": {
-                "address": "2004 North Bishop",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 1149,
-                "formattedAddress": [
-                    "2004 North Bishop",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.96324151257508,
-                        "lng": -91.76529408517337
-                    }
-                ],
-                "lat": 37.96324151257508,
-                "lng": -91.76529408517337,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b661f47f964a520e2142be3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/steak-n-shake/4b661f47f964a520e2142be3/menu"
-            },
-            "name": "Steak 'n Shake",
-            "referralId": "v-1493676036",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 1291,
-                "tipCount": 16,
-                "usersCount": 798
-            },
-            "storeId": "1701702",
-            "url": "http://www.steaknshake.com/locations/24361-steak-n-shake-north-bishop-rolla",
-            "venueChains": [
-                {
-                    "id": "556cfe41aceaff43eb06e33d"
-                }
-            ],
-            "verified": true
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/friedchicken_",
-                        "suffix": ".png"
-                    },
-                    "id": "4d4ae6fc7a7b7dea34424761",
-                    "name": "Fried Chicken Joint",
-                    "pluralName": "Fried Chicken Joints",
-                    "primary": true,
-                    "shortName": "Fried Chicken"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 364-9330",
-                "phone": "5733649330"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4bc50cfc702076b0117704c9",
-            "location": {
-                "address": "1902 N Bishop Ave",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "crossStreet": "at Cedar St.",
-                "distance": 788,
-                "formattedAddress": [
-                    "1902 N Bishop Ave (at Cedar St.)",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.95994162559509,
-                        "lng": -91.766861
-                    }
-                ],
-                "lat": 37.95994162559509,
-                "lng": -91.766861,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4bc50cfc702076b0117704c9/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/lees-famous-recipe-chicken/4bc50cfc702076b0117704c9/menu"
-            },
-            "name": "Lee's Famous Recipe Chicken",
-            "referralId": "v-1493676036",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 313,
-                "tipCount": 8,
-                "usersCount": 165
-            },
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d145941735",
-                    "name": "Chinese Restaurant",
-                    "pluralName": "Chinese Restaurants",
-                    "primary": true,
-                    "shortName": "Chinese"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 368-5535",
-                "phone": "5733685535",
-                "twitter": "LUCKYHOUSEROLLA"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4cd59579aeb1224b0c6423ff",
-            "location": {
-                "address": "1119 Kingshighway St",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 1739,
-                "formattedAddress": [
-                    "1119 Kingshighway St",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.943723690654544,
-                        "lng": -91.78696274757385
-                    }
-                ],
-                "lat": 37.943723690654544,
-                "lng": -91.78696274757385,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "name": "Lucky House",
-            "referralId": "v-1493676036",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 664,
-                "tipCount": 14,
-                "usersCount": 220
-            },
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1cc941735",
-                    "name": "Steakhouse",
-                    "pluralName": "Steakhouses",
-                    "primary": true,
-                    "shortName": "Steakhouse"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 364-1220",
-                "phone": "5733641220"
-            },
-            "hasMenu": true,
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4b64d66ef964a520ebd32ae3",
-            "location": {
-                "address": "12200 Miner Cir",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 6761,
-                "formattedAddress": [
-                    "12200 Miner Cir",
-                    "Rolla, MO 65409",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.98079,
-                        "lng": -91.703697
-                    }
-                ],
-                "lat": 37.98079,
-                "lng": -91.703697,
-                "postalCode": "65409",
-                "state": "MO"
-            },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4b64d66ef964a520ebd32ae3/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/matts-steak-house/4b64d66ef964a520ebd32ae3/menu"
-            },
-            "name": "Matt's Steak House",
-            "referralId": "v-1493676036",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 599,
-                "tipCount": 8,
-                "usersCount": 354
-            },
-            "url": "http://www.mattssteakhouse.com/",
             "venueChains": [],
             "verified": false
         },
@@ -1776,7 +1163,7 @@
                 "url": "https://foursquare.com/v/applebees/4b7c4197f964a520b7872fe3/menu"
             },
             "name": "Applebee's",
-            "referralId": "v-1493676036",
+            "referralId": "v-1493956603",
             "specials": {
                 "count": 0,
                 "items": []
@@ -1784,12 +1171,172 @@
             "stats": {
                 "checkinsCount": 1542,
                 "tipCount": 20,
-                "usersCount": 670
+                "usersCount": 669
             },
             "url": "http://restaurants.applebees.com/mo/rolla/511-s-bishop.html",
             "venueChains": [
                 {
                     "id": "556e146fa7c82e6b725097e1"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d16e941735",
+                    "name": "Fast Food Restaurant",
+                    "pluralName": "Fast Food Restaurants",
+                    "primary": true,
+                    "shortName": "Fast Food"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 341-2700",
+                "phone": "5733412700"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4b74651df964a520d5d92de3",
+            "location": {
+                "address": "1106 Kingshighway St",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 1555,
+                "formattedAddress": [
+                    "1106 Kingshighway St",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.94486534846411,
+                        "lng": -91.78544480419595
+                    }
+                ],
+                "lat": 37.94486534846411,
+                "lng": -91.78544480419595,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4b74651df964a520d5d92de3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/mcdonalds/4b74651df964a520d5d92de3/menu"
+            },
+            "name": "McDonald's",
+            "referralId": "v-1493956603",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 1726,
+                "tipCount": 10,
+                "usersCount": 630
+            },
+            "storeId": "3564",
+            "url": "http://mcdonalds.com",
+            "venueChains": [
+                {
+                    "id": "556f7a12bd6a75a9903bddb2"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d14e941735",
+                    "name": "American Restaurant",
+                    "pluralName": "American Restaurants",
+                    "primary": true,
+                    "shortName": "American"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 341-5550",
+                "phone": "5733415550"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4b661f47f964a520e2142be3",
+            "location": {
+                "address": "2004 North Bishop",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 1149,
+                "formattedAddress": [
+                    "2004 North Bishop",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.96324151257508,
+                        "lng": -91.76529408517337
+                    }
+                ],
+                "lat": 37.96324151257508,
+                "lng": -91.76529408517337,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4b661f47f964a520e2142be3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/steak-n-shake/4b661f47f964a520e2142be3/menu"
+            },
+            "name": "Steak 'n Shake",
+            "referralId": "v-1493956603",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 1289,
+                "tipCount": 16,
+                "usersCount": 796
+            },
+            "storeId": "1701702",
+            "url": "http://www.steaknshake.com/locations/24361-steak-n-shake-north-bishop-rolla",
+            "venueChains": [
+                {
+                    "id": "556cfe41aceaff43eb06e33d"
                 }
             ],
             "verified": true
@@ -1853,7 +1400,7 @@
                 "url": "https://foursquare.com/v/a-slice-of-pie/4b64ff19f964a5206ade2ae3/menu"
             },
             "name": "A Slice of Pie",
-            "referralId": "v-1493676036",
+            "referralId": "v-1493956603",
             "specials": {
                 "count": 0,
                 "items": []
@@ -1864,6 +1411,148 @@
                 "usersCount": 349
             },
             "url": "http://asliceofpie.info",
+            "venueChains": [],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
+                    "primary": true,
+                    "shortName": "Coffee Shop"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 426-6750",
+                "phone": "5734266750"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4b7af9e1f964a5209e492fe3",
+            "location": {
+                "address": "704 N Bishop Ave #2",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "crossStreet": "at 8th St.",
+                "distance": 675,
+                "formattedAddress": [
+                    "704 N Bishop Ave #2 (at 8th St.)",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.949781461026625,
+                        "lng": -91.77690982818602
+                    }
+                ],
+                "lat": 37.949781461026625,
+                "lng": -91.77690982818602,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4b7af9e1f964a5209e492fe3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/the-giddy-goat/4b7af9e1f964a5209e492fe3/menu"
+            },
+            "name": "The Giddy Goat",
+            "referralId": "v-1493956603",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 2244,
+                "tipCount": 28,
+                "usersCount": 220
+            },
+            "url": "http://www.tggch.com/",
+            "venueChains": [],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1c1941735",
+                    "name": "Mexican Restaurant",
+                    "pluralName": "Mexican Restaurants",
+                    "primary": true,
+                    "shortName": "Mexican"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 368-5338",
+                "phone": "5733685338"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4c350d213896e21e93a2ec90",
+            "location": {
+                "address": "1340 Forum Dr",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 1971,
+                "formattedAddress": [
+                    "1340 Forum Dr",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.95381084632512,
+                        "lng": -91.75122691182186
+                    }
+                ],
+                "lat": 37.95381084632512,
+                "lng": -91.75122691182186,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "name": "El Maguey",
+            "referralId": "v-1493956603",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 1232,
+                "tipCount": 12,
+                "usersCount": 375
+            },
             "venueChains": [],
             "verified": false
         },
@@ -1929,7 +1618,7 @@
                 "url": "https://foursquare.com/v/sonic-drive-in/4cba05e3adcd5481258a20a2/menu"
             },
             "name": "SONIC Drive In",
-            "referralId": "v-1493676036",
+            "referralId": "v-1493956603",
             "specials": {
                 "count": 0,
                 "items": []
@@ -1947,6 +1636,165 @@
                 }
             ],
             "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d16e941735",
+                    "name": "Fast Food Restaurant",
+                    "pluralName": "Fast Food Restaurants",
+                    "primary": true,
+                    "shortName": "Fast Food"
+                }
+            ],
+            "contact": {
+                "facebook": "113385204488",
+                "facebookName": "Wendy's",
+                "facebookUsername": "wendys",
+                "formattedPhone": "(573) 364-5500",
+                "phone": "5733645500",
+                "twitter": "wendys"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4c02c1120d0e0f474799019a",
+            "location": {
+                "address": "1007 Kingshighway St",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 1106,
+                "formattedAddress": [
+                    "1007 Kingshighway St",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.94620269895763,
+                        "lng": -91.77879810333252
+                    }
+                ],
+                "lat": 37.94620269895763,
+                "lng": -91.77879810333252,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4c02c1120d0e0f474799019a/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/wendys/4c02c1120d0e0f474799019a/menu"
+            },
+            "name": "Wendy's",
+            "referralId": "v-1493956603",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 816,
+                "tipCount": 3,
+                "usersCount": 415
+            },
+            "storeId": "02929-FS-OP",
+            "url": "http://www.wendys.com",
+            "venueChains": [
+                {
+                    "id": "556f46f6bd6a007c77390fa9"
+                }
+            ],
+            "verified": true
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/friedchicken_",
+                        "suffix": ".png"
+                    },
+                    "id": "4d4ae6fc7a7b7dea34424761",
+                    "name": "Fried Chicken Joint",
+                    "pluralName": "Fried Chicken Joints",
+                    "primary": true,
+                    "shortName": "Fried Chicken"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 364-9330",
+                "phone": "5733649330"
+            },
+            "hasMenu": true,
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4bc50cfc702076b0117704c9",
+            "location": {
+                "address": "1902 N Bishop Ave",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "crossStreet": "at Cedar St.",
+                "distance": 788,
+                "formattedAddress": [
+                    "1902 N Bishop Ave (at Cedar St.)",
+                    "Rolla, MO 65401",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.95994162559509,
+                        "lng": -91.766861
+                    }
+                ],
+                "lat": 37.95994162559509,
+                "lng": -91.766861,
+                "postalCode": "65401",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4bc50cfc702076b0117704c9/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/lees-famous-recipe-chicken/4bc50cfc702076b0117704c9/menu"
+            },
+            "name": "Lee's Famous Recipe Chicken",
+            "referralId": "v-1493956603",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 313,
+                "tipCount": 8,
+                "usersCount": 165
+            },
+            "venueChains": [],
+            "verified": false
         },
         {
             "allowMenuUrlEdit": true,
@@ -2001,7 +1849,7 @@
                 "state": "MO"
             },
             "name": "Bandana's BBQ Rolla",
-            "referralId": "v-1493676036",
+            "referralId": "v-1493956603",
             "specials": {
                 "count": 0,
                 "items": []
@@ -2026,20 +1874,19 @@
             "categories": [
                 {
                     "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
                         "suffix": ".png"
                     },
-                    "id": "4bf58dd8d48988d147941735",
-                    "name": "Diner",
-                    "pluralName": "Diners",
+                    "id": "4bf58dd8d48988d1cc941735",
+                    "name": "Steakhouse",
+                    "pluralName": "Steakhouses",
                     "primary": true,
-                    "shortName": "Diner"
+                    "shortName": "Steakhouse"
                 }
             ],
             "contact": {
-                "formattedPhone": "(573) 364-1434",
-                "phone": "5733641434",
-                "twitter": "maidrite"
+                "formattedPhone": "(573) 364-1220",
+                "phone": "5733641220"
             },
             "hasMenu": true,
             "hasPerk": false,
@@ -2048,56 +1895,118 @@
                 "groups": [],
                 "summary": "Nobody here"
             },
-            "id": "4c76e44ef2473704e16764eb",
+            "id": "4b64d66ef964a520ebd32ae3",
             "location": {
-                "address": "1028 Kingshighway St",
+                "address": "12200 Miner Cir",
                 "cc": "US",
                 "city": "Rolla",
                 "country": "United States",
-                "distance": 1344,
+                "distance": 6761,
                 "formattedAddress": [
-                    "1028 Kingshighway St",
+                    "12200 Miner Cir",
+                    "Rolla, MO 65409",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 37.98079,
+                        "lng": -91.703697
+                    }
+                ],
+                "lat": 37.98079,
+                "lng": -91.703697,
+                "postalCode": "65409",
+                "state": "MO"
+            },
+            "menu": {
+                "anchor": "View Menu",
+                "label": "Menu",
+                "mobileUrl": "https://foursquare.com/v/4b64d66ef964a520ebd32ae3/device_menu",
+                "type": "Menu",
+                "url": "https://foursquare.com/v/matts-steak-house/4b64d66ef964a520ebd32ae3/menu"
+            },
+            "name": "Matt's Steak House",
+            "referralId": "v-1493956603",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 598,
+                "tipCount": 8,
+                "usersCount": 353
+            },
+            "url": "http://www.mattssteakhouse.com/",
+            "venueChains": [],
+            "verified": false
+        },
+        {
+            "allowMenuUrlEdit": true,
+            "beenHere": {
+                "lastCheckinExpiredAt": 0
+            },
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d145941735",
+                    "name": "Chinese Restaurant",
+                    "pluralName": "Chinese Restaurants",
+                    "primary": true,
+                    "shortName": "Chinese"
+                }
+            ],
+            "contact": {
+                "formattedPhone": "(573) 368-5535",
+                "phone": "5733685535",
+                "twitter": "LUCKYHOUSEROLLA"
+            },
+            "hasPerk": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "id": "4cd59579aeb1224b0c6423ff",
+            "location": {
+                "address": "1119 Kingshighway St",
+                "cc": "US",
+                "city": "Rolla",
+                "country": "United States",
+                "distance": 1739,
+                "formattedAddress": [
+                    "1119 Kingshighway St",
                     "Rolla, MO 65401",
                     "United States"
                 ],
                 "labeledLatLngs": [
                     {
                         "label": "display",
-                        "lat": 37.945379187437155,
-                        "lng": -91.7824051932861
+                        "lat": 37.943723690654544,
+                        "lng": -91.78696274757385
                     }
                 ],
-                "lat": 37.945379187437155,
-                "lng": -91.7824051932861,
+                "lat": 37.943723690654544,
+                "lng": -91.78696274757385,
                 "postalCode": "65401",
                 "state": "MO"
             },
-            "menu": {
-                "anchor": "View Menu",
-                "label": "Menu",
-                "mobileUrl": "https://foursquare.com/v/4c76e44ef2473704e16764eb/device_menu",
-                "type": "Menu",
-                "url": "https://foursquare.com/v/maidrite/4c76e44ef2473704e16764eb/menu"
-            },
-            "name": "Maid-Rite",
-            "referralId": "v-1493676036",
+            "name": "Lucky House",
+            "referralId": "v-1493956603",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 553,
-                "tipCount": 11,
-                "usersCount": 283
+                "checkinsCount": 664,
+                "tipCount": 14,
+                "usersCount": 220
             },
-            "storeId": "",
-            "url": "http://maid-rite.com",
-            "venueChains": [
-                {
-                    "id": "5569f842a7c8896abe7cfb44"
-                }
-            ],
-            "verified": true
+            "venueChains": [],
+            "verified": false
         },
         {
             "allowMenuUrlEdit": true,
@@ -2161,81 +2070,15 @@
                 "url": "https://foursquare.com/v/mandarin-garden/4b54a8caf964a52067c527e3/menu"
             },
             "name": "Mandarin Garden",
-            "referralId": "v-1493676036",
+            "referralId": "v-1493956603",
             "specials": {
                 "count": 0,
                 "items": []
             },
             "stats": {
-                "checkinsCount": 430,
+                "checkinsCount": 431,
                 "tipCount": 8,
                 "usersCount": 188
-            },
-            "venueChains": [],
-            "verified": false
-        },
-        {
-            "allowMenuUrlEdit": true,
-            "beenHere": {
-                "lastCheckinExpiredAt": 0
-            },
-            "categories": [
-                {
-                    "icon": {
-                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
-                        "suffix": ".png"
-                    },
-                    "id": "4bf58dd8d48988d1c1941735",
-                    "name": "Mexican Restaurant",
-                    "pluralName": "Mexican Restaurants",
-                    "primary": true,
-                    "shortName": "Mexican"
-                }
-            ],
-            "contact": {
-                "formattedPhone": "(573) 368-5338",
-                "phone": "5733685338"
-            },
-            "hasPerk": false,
-            "hereNow": {
-                "count": 0,
-                "groups": [],
-                "summary": "Nobody here"
-            },
-            "id": "4c350d213896e21e93a2ec90",
-            "location": {
-                "address": "1340 Forum Dr",
-                "cc": "US",
-                "city": "Rolla",
-                "country": "United States",
-                "distance": 1971,
-                "formattedAddress": [
-                    "1340 Forum Dr",
-                    "Rolla, MO 65401",
-                    "United States"
-                ],
-                "labeledLatLngs": [
-                    {
-                        "label": "display",
-                        "lat": 37.95381084632512,
-                        "lng": -91.75122691182186
-                    }
-                ],
-                "lat": 37.95381084632512,
-                "lng": -91.75122691182186,
-                "postalCode": "65401",
-                "state": "MO"
-            },
-            "name": "El Maguey",
-            "referralId": "v-1493676036",
-            "specials": {
-                "count": 0,
-                "items": []
-            },
-            "stats": {
-                "checkinsCount": 1235,
-                "tipCount": 12,
-                "usersCount": 376
             },
             "venueChains": [],
             "verified": false
