@@ -1,73 +1,73 @@
 {
     "outputs": [
         {
-            "created_at": "2017-05-19T03:52:54.543682855Z", 
+            "created_at": "2017-05-21T17:53:15.027655715Z", 
             "data": {
                 "concepts": [
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "family", 
-                        "name": "family", 
-                        "value": 0.06887289
+                        "id": "friends", 
+                        "name": "friends", 
+                        "value": 0.07646497
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "friends", 
-                        "name": "friends", 
-                        "value": 0.052674495
+                        "id": "family", 
+                        "name": "family", 
+                        "value": 0.07496583
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "smoker", 
                         "name": "smoker", 
-                        "value": 0.027179344
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "single", 
-                        "name": "single", 
-                        "value": 0.018838594
+                        "value": 0.026333697
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "student", 
                         "name": "student", 
-                        "value": 0.017462812
+                        "value": 0.023946578
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "informal", 
                         "name": "informal", 
-                        "value": 0.012934309
+                        "value": 0.018816717
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "professional", 
-                        "name": "professional", 
-                        "value": 0.012202637
+                        "id": "single", 
+                        "name": "single", 
+                        "value": 0.015325245
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "drinker", 
                         "name": "drinker", 
-                        "value": 0.009309305
+                        "value": 0.011587156
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "professional", 
+                        "name": "professional", 
+                        "value": 0.005921911
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "formal", 
                         "name": "formal", 
-                        "value": 0.003220157
+                        "value": 0.004056971
                     }
                 ]
             }, 
-            "id": "a498db0c05c348c5933f37f9f65011fc", 
+            "id": "bb082c79b044427dbba4e2fc0fc5f157", 
             "input": {
                 "data": {
                     "image": {
-                        "url": "https://firebasestorage.googleapis.com/v0/b/cameraapp-6a5ab.appspot.com/o/darklordofasgard%2F51004714849344?alt=media"
+                        "url": "https://firebasestorage.googleapis.com/v0/b/cameraapp-6a5ab.appspot.com/o/darklordofasgard%2F11637244370859?alt=media"
                     }
                 }, 
-                "id": "f0f7465f48034c859e4ffaf40b851681"
+                "id": "ee65f6ad08ed436da316bd97608c2499"
             }, 
             "model": {
                 "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
