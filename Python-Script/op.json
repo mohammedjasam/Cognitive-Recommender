@@ -1,73 +1,73 @@
 {
     "outputs": [
         {
-            "created_at": "2017-05-08T04:09:08.440915979Z", 
+            "created_at": "2017-05-19T03:52:54.543682855Z", 
             "data": {
                 "concepts": [
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "student", 
-                        "name": "student", 
-                        "value": 0.048171394
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "professional", 
-                        "name": "professional", 
-                        "value": 0.040520806
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "smoker", 
-                        "name": "smoker", 
-                        "value": 0.027221289
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "drinker", 
-                        "name": "drinker", 
-                        "value": 0.023048487
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "single", 
-                        "name": "single", 
-                        "value": 0.021190537
-                    }, 
-                    {
-                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "formal", 
-                        "name": "formal", 
-                        "value": 0.011679885
+                        "id": "family", 
+                        "name": "family", 
+                        "value": 0.06887289
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "friends", 
                         "name": "friends", 
-                        "value": 0.009786403
+                        "value": 0.052674495
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "smoker", 
+                        "name": "smoker", 
+                        "value": 0.027179344
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "single", 
+                        "name": "single", 
+                        "value": 0.018838594
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "student", 
+                        "name": "student", 
+                        "value": 0.017462812
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
                         "id": "informal", 
                         "name": "informal", 
-                        "value": 0.009717741
+                        "value": 0.012934309
                     }, 
                     {
                         "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
-                        "id": "family", 
-                        "name": "family", 
-                        "value": 0.0038929083
+                        "id": "professional", 
+                        "name": "professional", 
+                        "value": 0.012202637
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "drinker", 
+                        "name": "drinker", 
+                        "value": 0.009309305
+                    }, 
+                    {
+                        "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
+                        "id": "formal", 
+                        "name": "formal", 
+                        "value": 0.003220157
                     }
                 ]
             }, 
-            "id": "ec79ab7afdf94d56acb34293a3392709", 
+            "id": "a498db0c05c348c5933f37f9f65011fc", 
             "input": {
                 "data": {
                     "image": {
-                        "url": "https://firebasestorage.googleapis.com/v0/b/cameraapp-6a5ab.appspot.com/o/darklordofasgard%2F13164242047745?alt=media"
+                        "url": "https://firebasestorage.googleapis.com/v0/b/cameraapp-6a5ab.appspot.com/o/darklordofasgard%2F51004714849344?alt=media"
                     }
                 }, 
-                "id": "e829d84050924b1ebf5beb4157199ef6"
+                "id": "f0f7465f48034c859e4ffaf40b851681"
             }, 
             "model": {
                 "app_id": "cf1ef7de61994e2da2bbaa59aaddb77b", 
