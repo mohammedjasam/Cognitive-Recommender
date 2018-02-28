@@ -1,7 +1,7 @@
 import pyrebase
 from subprocess import Popen, PIPE
 import os
-
+#need to hide the api keys
 config = {
   "apiKey": "AIzaSyCuygRGzgjeLAZcu5NJasnL3DK8GMweuh4",
   "authDomain": "cognitive-recommender.firebaseapp.com",
